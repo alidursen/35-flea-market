@@ -126,4 +126,4 @@ Finally, at the (natural or violent) end of their life they can choose to immedi
 
 A mystic warrior who becomes nonlawful cannot gain new levels as a mystic warrior until finds inner peace and becomes lawful again, but retains all mystic warrior abilities.
 
-Like a member of any other class, mystic warriors may be a multiclass character, but a mystic warrior leaving the path of perfection behind by increasing another class level may never again raise her mystic warrior level, though she retains all her monk abilities.
+Like a member of any other class, mystic warriors may be a multiclass character, but a mystic warrior leaving the path of perfection behind by increasing another class level may never again raise her mystic warrior level, though she retains all her mystic warrior abilities.

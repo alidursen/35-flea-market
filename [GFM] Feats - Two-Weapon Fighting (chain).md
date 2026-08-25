@@ -1,6 +1,6 @@
 # TWO-WEAPON FIGHTING (chain)
 
-## TWO-WEAPON FIGHTING \[COMBA\]
+## TWO-WEAPON FIGHTING \[COMBAT\]
 
 You can fight with a weapon in each hand. You can make one extra attack each round with the second weapon.
 
