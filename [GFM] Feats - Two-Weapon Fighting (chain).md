@@ -10,7 +10,7 @@ You can fight with a weapon in each hand. You can make one extra attack each rou
 
 **Normal:** If you wield a second weapon in your off hand, you can get one extra attack per round with that weapon. When fighting in this way you suffer a –6 penalty with your regular attack or attacks with your primary hand and a –10 penalty to the attack with your off hand. If your off-hand weapon is light the penalties are reduced by 2 each. (An unarmed strike is always considered light.)
 
-**Special:** A 2nd-level ranger who has chosen the two-weapon combat style is treated as having Two-Weapon Fighting, even if he does not have the prerequisite for it, but only when he is wearing light or no armor.
+**Special:** A 2nd-level ranger who has chosen the two-weapon combat style is treated as having Two-Weapon Fighting, even if they do not have the prerequisites for it, but only when they are wearing light or no armor.
 
 ## TWO-WEAPON DEFENSE \[COMBAT\]
 
@@ -27,7 +27,7 @@ When you are fighting defensively or using the total defense action, this shield
 
 **Normal:** Without this feat, you can only get a single extra attack with an off-hand weapon.
 
-**Special:** A 6th-level ranger who has chosen the two-weapon combat style is treated as having Improved Two-Weapon Fighting, even if he does not have the prerequisites for it, but only when he is wearing light or no armor.
+**Special:** A 6th-level ranger who has chosen the two-weapon combat style is treated as having Improved Two-Weapon Fighting, even if they do not have the prerequisites for it, but only when they are wearing light or no armor.
 
 ## GREATER TWO-WEAPON FIGHTING \[COMBAT\]
 
@@ -35,4 +35,4 @@ When you are fighting defensively or using the total defense action, this shield
 
 **Benefit:** You get a third attack with your off-hand weapon, albeit at a further –10 penalty.
 
-**Special:** An 11th-level ranger who has chosen the two-weapon combat style is treated as having Greater Two-Weapon Fighting, even if he does not have the prerequisites for it, but only when he is wearing light or no armor.
+**Special:** An 11th-level ranger who has chosen the two-weapon combat style is treated as having Greater Two-Weapon Fighting, even if they do not have the prerequisites for it, but only when they are wearing light or no armor.
