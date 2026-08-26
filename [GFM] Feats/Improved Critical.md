@@ -1,4 +1,4 @@
-# IMPROVED CRITICAL [COMBAT]
+# IMPROVED CRITICAL \[COMBAT\]
 
 Choose one type of weapon.
 
