@@ -1,20 +1,20 @@
-[This material is Open Game Content, and is licensed for public use
-under the terms of the Open Game License v1.0a.]
+# COMBAT II - Movement, Modifiers, Special Actions
 
-COMBAT II (MOVEMENT, MODIFIERS, SPECIAL ACTIONS)
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-MOVEMENT, POSITION, AND DISTANCE
+## MOVEMENT, POSITION, AND DISTANCE
 
 Miniatures are on the 30mm scale---a miniature figure of a six-foot-tall
 human is approximately 30mm tall. A square on the battle grid is 1 inch
 across, representing a 5-foot-by-5-foot area.
 
-TACTICAL MOVEMENT
+### TACTICAL MOVEMENT
 
-### [How Far Can Your Character Move?]
+#### How Far Can Your Character Move?
 
-Your speed is determined by your race and your armor (see Table:
-Tactical Speed). Your speed while unarmored is your base land speed.
+Your speed is determined by your race and your armor
+(see [Table: Tactical Speed](#table-tactical-speed)).
+Your speed while unarmored is your base land speed.
 
 **Encumbrance:** A character encumbered by carrying a large amount of
 gear, treasure, or fallen comrades may move slower than normal.
@@ -40,15 +40,15 @@ modifiers to a character's speed before adjusting the character's speed
 based on armor or encumbrance, and remember that multiple bonuses of the
 same type to a character's speed don't stack.
 
-  ---------------------------------------------- --------------------------------------------------------- -------------------------------------------------------
-  **[Table: Tactical Speed]**                                                                  
-  **[Race]**                         **[No Armor or] [Light Armor]**   **[Medium or] [Heavy Armor]**
-  [Human, elf, half-elf, half-orc]   [30 ft.(6 squares)]                           [20 ft.(4 squares)]
-  [Dwarf]                            [20 ft.(4 squares)]                           [20 ft.(4 squares)]
-  [Halfling, gnome]                  [20 ft.(4 squares)]                           [15 ft.(3 squares)]
-  ---------------------------------------------- --------------------------------------------------------- -------------------------------------------------------
+##### Table: Tactical Speed
 
-### [Measuring Distance]
+|**Race**                      |**No Armor or Light Armor**|**Medium or Heavy Armor**|
+|--                            |--                         |--                       |
+|Human, elf, half-elf, half-orc|30 ft.(6 squares)          |20 ft.(4 squares)        |
+|Dwarf                         |20 ft.(4 squares)          |20 ft.(4 squares)        |
+|Halfling, gnome               |20 ft.(4 squares)          |15 ft.(3 squares)        |
+
+#### Measuring Distance
 
 **Diagonals:** When measuring distance, the first diagonal counts as 1
 square, the second counts as 2 squares, the third counts as 1, the
@@ -65,7 +65,7 @@ square or creature to a location, if two squares or creatures are
 equally close, randomly determine which one counts as closest by rolling
 a die.
 
-### [Moving through a Square]
+#### Moving through a Square
 
 **Friend:** You can move through a square occupied by a friendly
 character, unless you are charging. When you move through a square
@@ -95,14 +95,14 @@ opportunity when doing so.
 creature can move through a square occupied by a creature three size
 categories larger than it is.
 
-[A big creature can move through a square occupied by a creature three
-size categories smaller than it is.]
+A big creature can move through a square occupied by a creature three
+size categories smaller than it is.
 
 **Designated Exceptions:** Some creatures break the above rules. A
 creature that completely fills the squares it occupies cannot be moved
 past, even with the Tumble skill or similar special abilities.
 
-### [Terrain and Obstacles]
+#### Terrain and Obstacles
 
 **Difficult Terrain:** Difficult terrain hampers movement. Each square
 of difficult terrain counts as 2 squares of movement. (Each diagonal
@@ -149,9 +149,9 @@ you must use the Escape Artist skill. You can't attack while using
 Escape Artist to squeeze through or into a narrow space, you take a --4
 penalty to AC, and you lose any Dexterity bonus to AC.
 
-### [Special Movement Rules]
+#### Special Movement Rules
 
-[These rules cover special movement situations.]
+These rules cover special movement situations.
 
 **Accidentally Ending Movement in an Illegal Space:** Sometimes a
 character ends its movement while moving through a space where it's not
@@ -178,7 +178,7 @@ terrain or to move when all movement is prohibited.) Such movement
 provokes attacks of opportunity as normal (despite the distance covered,
 this move isn't a 5-foot step).
 
-BIG AND LITTLE CREATURES IN COMBAT
+### BIG AND LITTLE CREATURES IN COMBAT
 
 Creatures smaller than Small or larger than Medium have special rules
 relating to position.
@@ -214,168 +214,125 @@ enter and move within the range of its reach before you can attack it.
 Large or larger creatures using reach weapons can strike up to double
 their natural reach but can't strike at their natural reach or less.
 
-  ------------------------------------------------------------------------------------------------------ ------------------------------------------ --------------------------------------------------
-  **[Table: Creature Size and Scale]**                                                                                                  
-  **[Creature Size]**                                                                        **[Space]^[1]^**   **[Natural Reach]^[1]^**
-  [Fine]                                                                                     [1/2 ft.]                      [0]
-  [Diminutive]                                                                               [1 ft.]                        [0]
-  [Tiny]                                                                                     [2-1/2 ft.]                    [0]
-  [Small]                                                                                    [5 ft.]                        [5 ft.]
-  [Medium]                                                                                   [5 ft.]                        [5 ft.]
-  [Large (tall)]                                                                             [10 ft.]                       [10 ft.]
-  [Large (long)]                                                                             [10 ft.]                       [5 ft.]
-  [Huge (tall)]                                                                              [15 ft.]                       [15 ft.]
-  [Huge (long)]                                                                              [15 ft.]                       [10 ft.]
-  [Gargantuan (tall)]                                                                        [20 ft.]                       [20 ft.]
-  [Gargantuan (long)]                                                                        [20 ft.]                       [15 ft.]
-  [Colossal (tall)]                                                                          [30 ft.]                       [30 ft.]
-  [Colossal (long)]                                                                          [30 ft.]                       [20 ft.]
-  [1 These values are typical for creatures of the indicated size. Some exceptions exist.]                                              
-  ------------------------------------------------------------------------------------------------------ ------------------------------------------ --------------------------------------------------
+|**Table: Creature Size and Scale**|            |                  |
+|--                                |--          |--                |
+|**Creature Size**                 |**Space¹**  |**Natural Reach¹**|
+|Fine                              |1/2 ft.     |0                 |
+|Diminutive                        |1 ft.       |0                 |
+|Tiny                              |2-1/2 ft.   |0                 |
+|Small                             |5 ft.       |5 ft.             |
+|Medium                            |5 ft.       |5 ft.             |
+|Large (tall)                      |10 ft.      |10 ft.            |
+|Large (long)                      |10 ft.      |5 ft.             |
+|Huge (tall)                       |15 ft.      |15 ft.            |
+|Huge (long)                       |15 ft.      |10 ft.            |
+|Gargantuan (tall)                 |20 ft.      |20 ft.            |
+|Gargantuan (long)                 |20 ft.      |15 ft.            |
+|Colossal (tall)                   |30 ft.      |30 ft.            |
+|Colossal (long)                   |30 ft.      |20 ft.            |
 
-[COMBAT MODIFIERS]
+1. These values are typical for creatures of the indicated size. Some exceptions exist.
 
-[FAVORABLE AND UNFAVORABLE CONDITIONS]
+## COMBAT MODIFIERS
 
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| #### [Table: Attack Roll Modifiers] |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| **[Attacker is . . .]**             | ##### [Melee]              | **Ranged**                                |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Dazzled]                           | [--1]                      | [--1]                         |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Entangled]                         | [--2]**^[1]^** | [--2]**^[1]^**    |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Flanking defender]                 | [+2]                       | [---]                         |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Invisible]                         | [+2]**^[2]^**  | [+2]**^[2]^**     |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [On higher ground]                  | [+1]                       | [+0]                          |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Prone]                             | [--4]                      | [---]**^[3]^**    |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Shaken or frightened]              | [--2]                      | [--2]                         |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Squeezing through a space]         | [--4]                      | [--4]                         |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [1 An entangled character also takes a --4      |                                        |                                           |
-| penalty to Dexterity, which may affect his      |                                        |                                           |
-| attack roll.]                       |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [2 The defender loses any Dexterity bonus to    |                                        |                                           |
-| AC. This bonus doesn't apply if the target is   |                                        |                                           |
-| blinded.]                           |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [3 Most ranged weapons can't be used while the  |                                        |                                           |
-| attacker is prone, but you can use a crossbow   |                                        |                                           |
-| or shuriken while prone at no                   |                                        |                                           |
-| penalty.]                           |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| **[Table: Armor Class Modifiers]**  |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| #### [Defender is . . .]            | #### [Melee]               | #### [Ranged]                 |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Behind cover]                      | [+4]                       | [+4]                          |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Blinded]                           | [--2]**^[1]^** | [--2]**^[1]^**    |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Concealed or invisible]            | [--- See Concealment ---]  |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Cowering]                          | [--2]**^[1]^** | [--2]**^[1]^**    |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Entangled]                         | [+0]**^[2]^**  | [+0]**^[2]^**     |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Flat-footed (such as surprised, balancing,     | [+0]**^[1]^**  | [+0]**^[1]^**     |
-| climbing)]                          |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Grappling (but attacker is not)]   | [+0]**^[1]^**  | [+0]**^[1,\ 3]^** |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Helpless (such as paralyzed, sleeping, or      | [--4]**^[4]^** | [+0]**^[4]^**     |
-| bound)]                             |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Kneeling or sitting]               | [--2]                      | [+2]                          |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Pinned]                            | [--4]**^[4]^** | [+0]**^[4]^**     |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Prone]                             | [--4]                      | [+4]                          |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Squeezing through a space]         | [--4]                      | [--4]                         |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [Stunned]                           | [--2]**^[1]^** | [--2]**^[1]^**    |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [1 The defender loses any Dexterity bonus to    |                                        |                                           |
-| AC.]                                |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [2 An entangled character takes a --4 penalty   |                                        |                                           |
-| to Dexterity.]                      |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [3 Roll randomly to see which grappling         |                                        |                                           |
-| combatant you strike. That defender loses any   |                                        |                                           |
-| Dexterity bonus to AC.]             |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
-| [4 Treat the defender's Dexterity as 0 (--5     |                                        |                                           |
-| modifier). Rogues can sneak attack helpless or  |                                        |                                           |
-| pinned defenders.]                  |                                        |                                           |
-+-------------------------------------------------+----------------------------------------+-------------------------------------------+
+### FAVORABLE AND UNFAVORABLE CONDITIONS
 
-[COVER]
+|Table: Attack Roll Modifiers      |          |           |
+|--                                |--        |--         |
+|**Attacker is…**                  |**Melee** |**Ranged** |
+|Dazzled                           | -1       | -1        |
+|Entangled                         | -2¹      | -2¹       |
+|Flanking defender                 | +2       | --        |
+|Invisible                         | +2²      | +2²       |
+|On higher ground                  | +1       | +0        |
+|Prone                             | -4       | --³       |
+|Shaken or frightened              | -2       | -2        |
+|Squeezing through a space         | -4       | -4        |
 
-[To determine whether your target has cover from your ranged attack,
+1. An entangled character also takes a -4 penalty to Dexterity, which may affect his attack roll.
+1. The defender loses any Dexterity bonus to AC. This bonus doesn't apply if the target is blinded.
+1. Most ranged weapons can't be used while the attacker is prone, but you can use a crossbow or shuriken while prone at no penalty.
+
+| **Table: Armor Class Modifiers**                      |                   |                                 |
+| --                                                    | --                | --                              |
+| **Defender is…**                                      | **Melee**         | **Ranged**                      |
+| Behind cover                                          | +4                | +4                              |
+| Blinded                                               | -2¹               | -2¹                             |
+| Concealed or invisible                                | -- See            | [Concealment](#concealment) --  |
+| Cowering                                              | -2¹               | -2¹                             |
+| Entangled                                             | +0²               | +0²                             |
+| Flat-footed (such as surprised, balancing, climbing)  | +0¹               | +0¹                             |
+| Grappling (but attacker is not)                       | +0¹               | +0<sup>1, 3</sup>               |
+| Helpless (such as paralyzed, sleeping, or bound)      | -4⁴               | +0⁴                             |
+| Kneeling or sitting                                   | -2                | +2                              |
+| Pinned                                                | -4⁴               | +0⁴                             |
+| Prone                                                 | -4                | +4                              |
+| Squeezing through a space                             | -4                | -4                              |
+| Stunned                                               | -2¹               | -2¹                             |
+
+1. The defender loses any Dexterity bonus to AC.
+1. An entangled character takes a -4 penalty to Dexterity.
+1. Roll randomly to see which grappling combatant you strike. That defender loses any Dexterity bonus to AC.
+1. Treat the defender's Dexterity as 0 (-5 modifier). Rogues can sneak attack helpless or pinned defenders.
+
+### COVER
+
+To determine whether your target has cover from your ranged attack,
 choose a corner of your square. If any line from this corner to any
 corner of the target's square passes through a square or border that
 blocks line of effect or provides cover, or through a square occupied by
-a creature, the target has cover (+4 to AC).]
+a creature, the target has cover (+4 to AC).
 
-[When making a melee attack against an adjacent target, your target has
+When making a melee attack against an adjacent target, your target has
 cover if any line from your square to the target's square goes through a
 wall (including a low wall). When making a melee attack against a target
 that isn't adjacent to you (such as with a reach weapon), use the rules
-for determining cover from ranged attacks.]
+for determining cover from ranged attacks.
 
-**[Low Obstacles and Cover:]** [A low obstacle (such as a
+**Low Obstacles and Cover:** A low obstacle (such as a
 wall no higher than half your height) provides cover, but only to
 creatures within 30 feet (6 squares) of it. The attacker can ignore the
-cover if he's closer to the obstacle than his target.]
+cover if he's closer to the obstacle than his target.
 
-**[Cover and Attacks of Opportunity:]** [You can't execute
+**Cover and Attacks of Opportunity:** You can't execute
 an attack of opportunity against an opponent with cover relative to
-you.]
+you.
 
-**[Cover and Reflex Saves:]** [Cover grants you a +2 bonus
+**Cover and Reflex Saves:** Cover grants you a +2 bonus
 on Reflex saves against attacks that originate or burst out from a point
 on the other side of the cover from you. Note that spread effects can
-extend around corners and thus negate this cover bonus.]
+extend around corners and thus negate this cover bonus.
 
-**[Cover and Hide Checks:]** [You can use cover to make a
-Hide check. Without cover, you usually need concealment (see below) to
-make a Hide check.]
+**Cover and Hide Checks:** You can use cover to make a
+Hide check. Without cover, you usually need concealment (see [below](#concealment))
+to make a Hide check.
 
-**[Soft Cover:]** [Creatures, even your enemies, can provide
+**Soft Cover:** Creatures, even your enemies, can provide
 you with cover against ranged attacks, giving you a +4 bonus to AC.
 However, such soft cover provides no bonus on Reflex saves, nor does
-soft cover allow you to make a Hide check.]
+soft cover allow you to make a Hide check.
 
-**[Big Creatures and Cover:]** [Any creature with a space
+**Big Creatures and Cover:** Any creature with a space
 larger than 5 feet (1 square) determines cover against melee attacks
 slightly differently than smaller creatures do. Such a creature can
 choose any square that it occupies to determine if an opponent has cover
 against its melee attacks. Similarly, when making a melee attack against
 such a creature, you can pick any of the squares it occupies to
-determine if it has cover against you.]
+determine if it has cover against you.
 
-**[Total Cover:]** [If you don't have line of effect to your
+**Total Cover:** If you don't have line of effect to your
 target he is considered to have total cover from you. You can't make an
-attack against a target that has total cover.]
+attack against a target that has total cover.
 
-**[Varying Degrees of Cover:]** [In some cases, cover may
+**Varying Degrees of Cover:** In some cases, cover may
 provide a greater bonus to AC and Reflex saves. In such situations the
 normal cover bonuses to AC and Reflex saves can be doubled (to +8 and
 +4, respectively). A creature with this improved cover effectively gains
 improved evasion against any attack to which the Reflex save bonus
 applies. Furthermore, improved cover provides a +10 bonus on Hide
-checks.]
+checks.
 
-CONCEALMENT
+### CONCEALMENT
 
 To determine whether your target has concealment from your ranged
 attack, choose a corner of your square. If any line from this corner to
@@ -408,9 +365,9 @@ into a square occupied by an enemy with total concealment has a 50% miss
 chance (instead of the normal 20% miss chance for an opponent with
 concealment).
 
-[You can't execute an attack of opportunity against an opponent with
+You can't execute an attack of opportunity against an opponent with
 total concealment, even if you know what square or squares the opponent
-occupies.]
+occupies.
 
 **Ignoring Concealment:** Concealment isn't always effective. A shadowy
 area or darkness doesn't provide any concealment against an opponent
@@ -427,7 +384,7 @@ visual clues).
 or less than typical concealment, and modify the miss chance
 accordingly.
 
-FLANKING
+### FLANKING
 
 When making a melee attack, you get a +2 flanking bonus if your opponent
 is threatened by a character or creature friendly to you on the
@@ -447,7 +404,7 @@ attacker get a flanking bonus.
 
 Creatures with a reach of 0 feet can't flank an opponent.
 
-HELPLESS DEFENDERS
+### HELPLESS DEFENDERS
 
 A helpless opponent is someone who is bound, sleeping, paralyzed,
 unconscious, or otherwise at your mercy.
@@ -468,8 +425,8 @@ the damage, he must make a Fortitude save (DC 10 + damage dealt) or die.
 A rogue also gets her extra sneak attack damage against a helpless
 opponent when delivering a coup de grace.
 
-[Delivering a coup de grace provokes attacks of opportunity from
-threatening opponents.]
+Delivering a coup de grace provokes attacks of opportunity from
+threatening opponents.
 
 You can't deliver a coup de grace against a creature that is immune to
 critical hits. You can deliver a coup de grace against a creature with
@@ -477,26 +434,25 @@ total concealment, but doing this requires two consecutive full-round
 actions (one to "find" the creature once you've determined what square
 it's in, and one to deliver the coup de grace).
 
-SPECIAL ATTACKS
+## SPECIAL ATTACKS
 
-  ------------------------------------------ ----------------------------------------------------------------------------------
-  **[Table: Special Attacks]**   
-  **[Special Attack]**           **[Brief Description]**
-  [Aid another]                  [Grant an ally a +2 bonus on attacks or AC]
-  [Bull rush]                    [Push an opponent back 5 feet or more]
-  [Charge]                       [Move up to twice your speed and attack with +2 bonus]
-  [Disarm]                       [Knock a weapon from your opponent's hands]
-  [Feint]                        [Negate your opponent's Dex bonus to AC]
-  [Grapple]                      [Wrestle with an opponent]
-  [Overrun]                      [Plow past or over an opponent as you move]
-  [Sunder]                       [Strike an opponent's weapon or shield]
-  [Throw splash weapon]          [Throw container of dangerous liquid at target]
-  [Trip]                         [Trip an opponent]
-  [Turn (rebuke) undead]         [Channel positive (or negative) energy to turn away (or awe) undead]
-  [Two-weapon fighting]          [Fight with a weapon in each hand]
-  ------------------------------------------ ----------------------------------------------------------------------------------
+|**Table: Special Attacks**   |                                                                    |
+|--                           |--                                                                  |
+|**Special Attack**           |**Brief Description**                                               |
+|Aid another                  |Grant an ally a +2 bonus on attacks or AC                           |
+|Bull rush                    |Push an opponent back 5 feet or more                                |
+|Charge                       |Move up to twice your speed and attack with +2 bonus                |
+|Disarm                       |Knock a weapon from your opponent's hands                           |
+|Feint                        |Negate your opponent's Dex bonus to AC                              |
+|Grapple                      |Wrestle with an opponent                                            |
+|Overrun                      |Plow past or over an opponent as you move                           |
+|Sunder                       |Strike an opponent's weapon or shield                               |
+|Throw splash weapon          |Throw container of dangerous liquid at target                       |
+|Trip                         |Trip an opponent                                                    |
+|Turn (rebuke) undead         |Channel positive (or negative) energy to turn away (or awe) undead  |
+|Two-weapon fighting          |Fight with a weapon in each hand                                    |
 
-[AID ANOTHER]
+### AID ANOTHER
 
 In melee combat, you can help a friend attack or defend by distracting
 or interfering with an opponent. If you're in position to make a melee
@@ -512,13 +468,13 @@ You can also use this standard action to help a friend in other ways,
 such as when he is affected by a spell, or to assist another character's
 skill check.
 
-BULL RUSH
+### BULL RUSH
 
 You can make a bull rush as a standard action (an attack) or as part of
-a charge (see Charge, below). When you make a bull rush, you attempt to
-push an opponent straight back instead of damaging him. You can only
-bull rush an opponent who is one size category larger than you, the same
-size, or smaller.
+a charge (see [Charge](#charge), below). When you make a bull rush, you
+attempt to push an opponent straight back instead of damaging him. You
+can only bull rush an opponent who is one size category larger than you,
+the same size, or smaller.
 
 **Initiating a Bull Rush:** First, you move into the defender's space.
 Doing this provokes an attack of opportunity from each opponent that
@@ -547,11 +503,11 @@ attacks of opportunity if he is moved. So do you, if you move with him.
 The two of you do not provoke attacks of opportunity from each other,
 however.)
 
-[If you fail to beat the defender's Strength check result, you move 5
+If you fail to beat the defender's Strength check result, you move 5
 feet straight back to where you were before you moved into his space. If
-that space is occupied, you fall prone in that space.]
+that space is occupied, you fall prone in that space.
 
-CHARGE
+### CHARGE
 
 Charging is a special full-round action that allows you to move up to
 twice your speed and attack during the action. However, it carries tight
@@ -561,14 +517,14 @@ restrictions on how you can move.
 after. You must move at least 10 feet (2 squares) and may move up to
 double your speed directly toward the designated opponent.
 
-[You must have a clear path toward the opponent, and nothing can hinder
+You must have a clear path toward the opponent, and nothing can hinder
 your movement (such as difficult terrain or obstacles). Here's what it
 means to have a clear path. First, you must move to the closest space
 from which you can attack the opponent. (If this space is occupied or
 otherwise blocked, you can't charge.) Second, if any line from your
 starting space to the ending space passes through a square that blocks
 movement, slows movement, or contains a creature (even an ally), you
-can't charge. (Helpless creatures don't stop a charge.)]
+can't charge. (Helpless creatures don't stop a charge.)
 
 If you don't have line of sight to the opponent at the start of your
 turn, you can't charge that opponent.
@@ -586,7 +542,7 @@ attack. You get a +2 bonus on the attack roll. and take a --2 penalty to
 your AC until the start of your next turn.
 
 A charging character gets a +2 bonus on the Strength check made to bull
-rush an opponent (see Bull Rush, above).
+rush an opponent (see [Bull Rush](#bull-rush), above).
 
 Even if you have extra attacks, such as from having a high enough base
 attack bonus or from using multiple weapons, you only get to make one
@@ -599,18 +555,18 @@ by a mounted character in a charge.
 other piercing weapons deal double damage when readied (set) and used
 against a charging character.
 
-DISARM
+### DISARM
 
 As a melee attack, you may attempt to disarm your opponent. If you do so
 with a weapon, you knock the opponent's weapon out of his hands and to
 the ground. If you attempt the disarm while unarmed, you end up with the
 weapon in your hand.
 
-[If you're attempting to disarm a melee weapon, follow the steps
+If you're attempting to disarm a melee weapon, follow the steps
 outlined here. If the item you are attempting to disarm isn't a melee
 weapon the defender may still oppose you with an attack roll, but takes
 a penalty and can't attempt to disarm you in return if your attempt
-fails.]
+fails.
 
 **Step 1:** Attack of Opportunity. You provoke an attack of opportunity
 from the target you are trying to disarm. (If you have the Improved
@@ -628,7 +584,7 @@ sizes, the larger combatant gets a bonus on the attack roll of +4 per
 difference in size category. If the targeted item isn't a melee weapon,
 the defender takes a --4 penalty on the roll.
 
-**Step Three:** Consequences. If you beat the defender, the defender is
+**Step 3:** Consequences. If you beat the defender, the defender is
 disarmed. If you attempted the disarm action unarmed, you now have the
 weapon. If you were armed, the defender's weapon is on the ground in the
 defender's square.
@@ -643,7 +599,7 @@ attempt against him.
 defender using a weapon attached to a locked gauntlet gets a +10 bonus
 to resist being disarmed.
 
-Grabbing Items
+#### Grabbing Items
 
 You can use a disarm action to snatch an item worn by the target. If you
 want to have the item in your hand, the disarm must be made as an
@@ -655,10 +611,10 @@ the attempt doesn't allow the defender to attempt to disarm you. This
 otherwise functions identically to a disarm attempt, as noted above.
 
 You can't snatch an item that is well secured unless you have pinned the
-wearer (see Grapple). Even then, the defender gains a +4 bonus on his
+wearer (see [Grapple](#grapple)). Even then, the defender gains a +4 bonus on his
 roll to resist the attempt.
 
-FEINT
+### FEINT
 
 Feinting is a standard action. To feint, make a Bluff check opposed by a
 Sense Motive check by your target. The target may add his base attack
@@ -677,9 +633,9 @@ opportunity.
 **Feinting as a Move Action:** With the Improved Feint feat, you can
 attempt a feint as a move action instead of as a standard action.
 
-GRAPPLE
+### GRAPPLE
 
-Grapple Checks
+#### Grapple Checks
 
 Repeatedly in a grapple, you need to make opposed grapple checks against
 an opponent. A grapple check is like a melee attack roll. Your attack
@@ -691,7 +647,7 @@ is as follows: Colossal +16, Gargantuan +12, Huge +8, Large +4, Medium
 +0, Small --4, Tiny --8, Diminutive --12, Fine --16. Use this number in
 place of the normal size modifier you use when making an attack roll.
 
-Starting a Grapple
+#### Starting a Grapple
 
 To start a grapple, you need to grab and hold your target. Starting a
 grapple requires a successful melee attack roll. If you get multiple
@@ -732,7 +688,7 @@ If you can't move into your target's space, you can't maintain the
 grapple and must immediately let go of the target. To grapple again, you
 must begin at Step 1.
 
-Grappling Consequences
+#### Grappling Consequences
 
 While you're grappling, your ability to attack others and defend
 yourself is limited.
@@ -748,7 +704,7 @@ against opponents you are grappling.)
 however, make an opposed grapple check (see below) to move while
 grappling.
 
-If You're Grappling
+#### If You're Grappling
 
 When you are grappling (regardless of who started the grapple), you can
 perform any of the following actions. Some of these actions take the
@@ -769,7 +725,8 @@ You can't attack with two weapons while grappling, even if both are
 light weapons.
 
 **Cast a Spell:** You can attempt to cast a spell while grappling or
-even while pinned (see below), provided its casting time is no more than
+even while pinned (see [below](#if-youre-pinned-by-an-opponent)),
+provided its casting time is no more than
 1 standard action, it has no somatic component, and you have in hand any
 material components or focuses you might need. Any spell that requires
 precise and careful action **is impossible to cast while grappling or
@@ -816,7 +773,7 @@ not require a successful grapple check.
 **Pin Your Opponent:** You can hold your opponent immobile for 1 round
 by winning an opposed grapple check (made in place of an attack). Once
 you have an opponent pinned, you have a few options available to you
-(see below).
+(see [below](#if-youre-pinning-an-opponent)).
 
 **Break Another's Pin:** If you are grappling an opponent who has
 another character pinned, you can make an opposed grapple check in place
@@ -831,7 +788,7 @@ penalty (doing this doesn't require another action).
 
 You don't gain possession of the weapon by performing this action.
 
-If You're Pinning an Opponent
+#### If You're Pinning an Opponent
 
 You can attempt to damage your opponent with an opposed grapple check,
 you can attempt to use your opponent's weapon against him, or you can
@@ -840,7 +797,7 @@ can prevent a pinned opponent from speaking.
 
 You can use a disarm action to remove or grab away a well secured object
 worn by a pinned opponent, but he gets a +4 bonus on his roll to resist
-your attempt (see Disarm).
+your attempt (see [Disarm](#disarm)).
 
 You may voluntarily release a pinned character as a free action; if you
 do so, you are no longer considered to be grappling that character (and
@@ -851,7 +808,7 @@ other character), escape another's grapple, retrieve a spell component,
 pin another character, or break another's pin while you are pinning an
 opponent.
 
-If You're Pinned by an Opponent
+#### If You're Pinned by an Opponent
 
 When an opponent has pinned you, you are held immobile (but not
 helpless) for 1 round. While you're pinned, you take a --4 penalty to
@@ -862,7 +819,7 @@ an attack. You can make an Escape Artist check in place of your grapple
 check if you want, but this requires a standard action. If you win, you
 escape the pin, but you're still grappling.
 
-Joining a Grapple
+#### Joining a Grapple
 
 If your target is already grappling someone else, you can use an attack
 to start a grapple, as above, except that the target doesn't get an
@@ -873,7 +830,7 @@ of the grapple.
 If there are multiple opponents involved in the grapple, you pick one to
 make the opposed grapple check against.
 
-Multiple Grapplers
+#### Multiple Grapplers
 
 Several combatants can be in a single grapple. Up to four combatants can
 grapple a single opponent in a given round. Creatures that are one or
@@ -886,7 +843,7 @@ to make an opposed check against. The exception is an attempt to escape
 from the grapple; to successfully escape, your grapple check must beat
 the check results of each opponent.
 
-MOUNTED COMBAT
+### MOUNTED COMBAT
 
 **Horses in Combat:** Warhorses and warponies can serve readily as
 combat steeds. Light horses, ponies, and heavy horses, however, are
@@ -907,26 +864,26 @@ mount's space during combat.
 mount with your knees so as to use both hands to attack or defend
 yourself. This is a free action.
 
-[When you attack a creature smaller than your mount that is on foot, you
+When you attack a creature smaller than your mount that is on foot, you
 get the +1 bonus on melee attacks for being on higher ground. If your
 mount moves more than 5 feet, you can only make a single melee attack.
 Essentially, you have to wait until the mount gets to your enemy before
 attacking, so you can't make a full attack. Even at your mount's full
 speed, you don't take any penalty on melee attacks while
-mounted.]
+mounted.
 
 If your mount charges, you also take the AC penalty associated with a
 charge. If you make an attack at the end of the charge, you receive the
 bonus gained from the charge. When charging on horseback, you deal
-double damage with a lance (see Charge).
+double damage with a lance (see [Charge](#charge)).
 
-[You can use ranged weapons while your mount is taking a double move,
+You can use ranged weapons while your mount is taking a double move,
 but at a --4 penalty on the attack roll. You can use ranged weapons
 while your mount is running (quadruple speed), at a --8 penalty. In
 either case, you make the attack roll when your mount has completed half
 its movement. You can make a full attack with a ranged weapon while your
 mount is moving. Likewise, you can take move actions
-normally]
+normally
 
 **Casting Spells while Mounted:** You can cast a spell normally if your
 mount moves up to a normal move (its speed) either before or after you
@@ -948,7 +905,7 @@ Otherwise you fall and take 1d6 points of damage.
 
 Without you to guide it, your mount avoids combat.
 
-OVERRUN
+### OVERRUN
 
 You can attempt an overrun as a standard action taken during your move.
 (In general, you cannot take a standard action during a move; this is an
@@ -957,8 +914,8 @@ opponent (and move through his square) as you move. You can only overrun
 an opponent who is one size category larger than you, the same size, or
 smaller. You can make only one overrun attempt per round.
 
-[If you're attempting to overrun an opponent, follow these
-steps.]
+If you're attempting to overrun an opponent, follow these
+steps.
 
 **Step 1:** Attack of Opportunity. Since you begin the overrun by moving
 into the defender's space, you provoke an attack of opportunity from the
@@ -1002,103 +959,104 @@ mounted, your target may not choose to avoid you, and if you knock your
 opponent prone with the overrun, your mount may make one hoof attack
 against your opponent.
 
-SUNDER
+### SUNDER
 
 You can use a melee attack with a slashing or bludgeoning weapon to
 strike a weapon or shield that your opponent is holding. If you're
 attempting to sunder a weapon or shield, follow the steps outlined here.
 (Attacking held objects other than weapons or shields is covered below.)
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------- ---------------------------------------
-  **[Table: Common Armor, Weapon, and Shield Hardness and Hit Points]**                                                                                                                                                                               
-  **[Weapon or Shield]**                                                                                                                                                                                 **[Hardness]**                   **[HP]^[1]^**
-  [Light blade]                                                                                                                                                                                          [10]                             [2]
-  [One-handed blade]                                                                                                                                                                                     [10]                             [5]
-  [Two-handed blade]                                                                                                                                                                                     [10]                             [10]
-  [Light metal-hafted weapon]                                                                                                                                                                            [10]                             [10]
-  [One-handed metal-hafted weapon]                                                                                                                                                                       [10]                             [20]
-  [Light hafted weapon]                                                                                                                                                                                  [5]                              [2]
-  [One-handed hafted weapon]                                                                                                                                                                             [5]                              [5]
-  [Two-handed hafted weapon]                                                                                                                                                                             [5]                              [10]
-  [Projectile weapon]                                                                                                                                                                                    [5]                              [5]
-  [Armor]                                                                                                                                                                                                [special]**^[2]^**   [armor bonus x5]
-  [Buckler]                                                                                                                                                                                              [10]                             [5]
-  [Light wooden shield]                                                                                                                                                                                  [5]                              [7]
-  [Heavy wooden shield]                                                                                                                                                                                  [5]                              [15]
-  [Light steel shield]                                                                                                                                                                                   [10]                             [10]
-  [Heavy steel shield]                                                                                                                                                                                   [10]                             [20]
-  [Tower shield]                                                                                                                                                                                         [5]                              [20]
-  [1 The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.]                                                
-  [2 Varies by material.]                                                                                                                                                                                                                             
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------- ---------------------------------------
+#### Table: Common Armor, Weapon, and Shield Hardness and Hit Points
 
-**[Step 1:]** [Attack of Opportunity. You provoke an attack
+|**Weapon or Shield**                                               |**Hardness**      |**HP¹**       |
+|--                                                                 |--                |--            |
+|Light blade                                                        |10                |2             |
+|One-handed blade                                                   |10                |5             |
+|Two-handed blade                                                   |10                |10            |
+|Light metal-hafted weapon                                          |10                |10            |
+|One-handed metal-hafted weapon                                     |10                |20            |
+|Light hafted weapon                                                |5                 |2             |
+|One-handed hafted weapon                                           |5                 |5             |
+|Two-handed hafted weapon                                           |5                 |10            |
+|Projectile weapon                                                  |5                 |5             |
+|Armor                                                              |special²          |armor bonus x5|
+|Buckler                                                            |10                |5             |
+|Light wooden shield                                                |5                 |7             |
+|Heavy wooden shield                                                |5                 |15            |
+|Light steel shield                                                 |10                |10            |
+|Heavy steel shield                                                 |10                |20            |
+|Tower shield                                                       |5                 |20            |
+
+1. The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.
+1. Varies by material.
+
+**Step 1:** Attack of Opportunity. You provoke an attack
 of opportunity from the target whose weapon or shield you are trying to
 sunder. (If you have the Improved Sunder feat, you don't incur an attack
-of opportunity for making the attempt.)]
+of opportunity for making the attempt.)
 
-**[Step 2:]** [Opposed Rolls. You and the defender make
+**Step 2:** Opposed Rolls. You and the defender make
 opposed attack rolls with your respective weapons. The wielder of a
 two-handed weapon on a sunder attempt gets a +4 bonus on this roll, and
 the wielder of a light weapon takes a --4 penalty. If the combatants are
 of different sizes, the larger combatant gets a bonus on the attack roll
-of +4 per difference in size category.]
+of +4 per difference in size category.
 
-**[Step 3:]** [Consequences. If you beat the defender, roll
-damage and deal it to the weapon or shield. See Table: Common Armor,
-Weapon, and Shield Hardness and Hit Points to determine how much damage
-you must deal to destroy the weapon or shield.]
+**Step 3:** Consequences. If you beat the defender, roll
+damage and deal it to the weapon or shield. See
+[Table: Common Armor Weapon, and Shield Hardness and Hit Points](#table-common-armor-weapon-and-shield-hardness-and-hit-points),
+to determine how much damage you must deal to destroy the weapon or shield.
 
-[If you fail the sunder attempt, you don't deal any damage.]
+If you fail the sunder attempt, you don't deal any damage.
 
-*[Sundering a Carried or Worn Object:]* [You don't use an
+*Sundering a Carried or Worn Object:* You don't use an
 opposed attack roll to damage a carried or worn object. Instead, just
 make an attack roll against the object's AC. A carried or worn object's
 AC is equal to 10 + its size modifier + the Dexterity modifier of the
 carrying or wearing character. Attacking a carried or worn object
 provokes an attack of opportunity just as attacking a held object does.
 To attempt to snatch away an item worn by a defender rather than damage
-it, see Disarm. You can't sunder armor worn by another
-character.]
+it, see [Disarm](#disarm). You can't sunder armor worn by another
+character.
 
-[THROW SPLASH WEAPON]
+### THROW SPLASH WEAPON
 
-[A splash weapon is a ranged weapon that breaks on impact, splashing or
+A splash weapon is a ranged weapon that breaks on impact, splashing or
 scattering its contents over its target and nearby creatures or objects.
 To attack with a splash weapon, make a ranged touch attack against the
 target. Thrown weapons require no weapon proficiency, so you don't take
 the --4 nonproficiency penalty. A hit deals direct hit damage to the
 target, and splash damage to all creatures within 5 feet of the
-target.]
+target.
 
-[You can instead target a specific grid intersection. Treat this as a
+You can instead target a specific grid intersection. Treat this as a
 ranged attack against AC 5. However, if you target a grid intersection,
 creatures in all adjacent squares are dealt the splash damage, and the
 direct hit damage is not dealt to any creature. (You can't target a grid
 intersection occupied by a creature, such as a Large or larger creature;
-in this case, you're aiming at the creature.)]
+in this case, you're aiming at the creature.)
 
-[If you miss the target (whether aiming at a creature or a grid
+If you miss the target (whether aiming at a creature or a grid
 intersection), roll 1d8. This determines the misdirection of the throw,
 with 1 being straight back at you and 2 through 8 counting clockwise
 around the grid intersection or target creature. Then, count a number of
 squares in the indicated direction equal to the range increment of the
-throw.]
+throw.
 
-[After you determine where the weapon landed, it deals splash damage to
-all creatures in adjacent squares.]
+After you determine where the weapon landed, it deals splash damage to
+all creatures in adjacent squares.
 
-[TRIP]
+### TRIP
 
-[You can try to trip an opponent as an unarmed melee attack. You can
+You can try to trip an opponent as an unarmed melee attack. You can
 only trip an opponent who is one size category larger than you, the same
-size, or smaller.]
+size, or smaller.
 
-**[Making a Trip Attack:]** [Make an unarmed melee touch
+**Making a Trip Attack:** Make an unarmed melee touch
 attack against your target. This provokes an attack of opportunity from
-your target as normal for unarmed attacks.]
+your target as normal for unarmed attacks.
 
-[If your attack succeeds, make a Strength check opposed by the
+If your attack succeeds, make a Strength check opposed by the
 defender's Dexterity or Strength check (whichever ability score has the
 higher modifier). A combatant gets a +4 bonus for every size category he
 is larger than Medium or a --4 penalty for every size category he is
@@ -1106,7 +1064,7 @@ smaller than Medium. The defender gets a +4 bonus on his check if he has
 more than two legs or is otherwise more stable than a normal humanoid.
 If you win, you trip the defender. If you lose, the defender may
 immediately react and make a Strength check opposed by your Dexterity or
-Strength check to try to trip you.]
+Strength check to try to trip you.
 
 *Avoiding Attacks of Opportunity:* If you have the Improved Trip feat,
 or if you are tripping with a weapon (see below), you don't provoke an
@@ -1128,7 +1086,7 @@ attack of opportunity.
 If you are tripped during your own trip attempt, you can drop the weapon
 to avoid being tripped.
 
-TURN OR REBUKE UNDEAD
+### TURN OR REBUKE UNDEAD
 
 Good clerics and paladins and some neutral clerics can channel positive
 energy, which can halt, drive off (rout), or destroy undead.
@@ -1140,7 +1098,7 @@ Regardless of the effect, the general term for the activity is
 "turning." When attempting to exercise their divine control over these
 creatures, characters make turning checks.
 
-Turning Checks
+#### Turning Checks
 
 Turning undead is a supernatural ability that a character can perform as
 a standard action. It does not provoke attacks of opportunity.
@@ -1188,56 +1146,39 @@ breaking the turning effect.
 **Destroying Undead:** If you have twice as many levels (or more) as the
 undead have Hit Dice, you destroy any that you would normally turn.
 
-+------------------------------------------+----------------------------------+
-| #### [Table: Turning Undead] |                                  |
-+------------------------------------------+----------------------------------+
-| **[Turning Check Result]**   | **[Most Powerful Undead Affected |
-|                                          | (Maximum Hit                     |
-|                                          | Dice)]**             |
-+------------------------------------------+----------------------------------+
-| [0 or lower]                 | [Cleric's level --               |
-|                                          | 4]                   |
-+------------------------------------------+----------------------------------+
-| [1--3]                       | [Cleric's level --               |
-|                                          | 3]                   |
-+------------------------------------------+----------------------------------+
-| [4--6]                       | [Cleric's level --               |
-|                                          | 2]                   |
-+------------------------------------------+----------------------------------+
-| [7--9]                       | [Cleric's level --               |
-|                                          | 1]                   |
-+------------------------------------------+----------------------------------+
-| [10--12]                     | [Cleric's level]     |
-+------------------------------------------+----------------------------------+
-| [13--15]                     | [Cleric's level + 1] |
-+------------------------------------------+----------------------------------+
-| [16--18]                     | [Cleric's level + 2] |
-+------------------------------------------+----------------------------------+
-| [19--21]                     | [Cleric's level + 3] |
-+------------------------------------------+----------------------------------+
-| [22 or higher]               | [Cleric's level + 4] |
-+------------------------------------------+----------------------------------+
+| **Table: Turning Undead**     |                                                          |
+|--                             |--                                                        |
+| **Turning Check Result**      | **Most Powerful Undead Affected<br>(Maximum Hit Dice)**  |
+| 0 or lower                    | Cleric's level -4                                        |
+| 1–3                           | Cleric's level -3                                        |
+| 4–6                           | Cleric's level -2                                        |
+| 7–9                           | Cleric's level -1                                        |
+| 10–12                         | Cleric's level                                           |
+| 13–15                         | Cleric's level +1                                        |
+| 16–18                         | Cleric's level +2                                        |
+| 19–21                         | Cleric's level +3                                        |
+| 22 or higher                  | Cleric's level +4                                        |
 
-[Evil Clerics and Undead]
+#### Evil Clerics and Undead
 
-[Evil clerics channel negative energy to rebuke (awe) or command
+Evil clerics channel negative energy to rebuke (awe) or command
 (control) undead rather than channeling positive energy to turn or
 destroy them. An evil cleric makes the equivalent of a turning check.
 Undead that would be turned are rebuked instead, and those that would be
-destroyed are commanded.]
+destroyed are commanded.
 
-**[Rebuked:]** [A rebuked undead creature cowers as if in
+**Rebuked:** A rebuked undead creature cowers as if in
 awe (attack rolls against the creature get a +2 bonus). The effect lasts
-10 rounds.]
+10 rounds.
 
-**[Commanded:]** [A commanded undead creature is under the
+**Commanded:** A commanded undead creature is under the
 mental control of the evil cleric. The cleric must take a standard
 action to give mental orders to a commanded undead. At any one time, the
 cleric may command any number of undead whose total Hit Dice do not
 exceed his level. He may voluntarily relinquish command on any commanded
-undead creature or creatures in order to command new ones.]
+undead creature or creatures in order to command new ones.
 
-**[Dispelling Turning:]** [An evil cleric may channel
+**Dispelling Turning:** An evil cleric may channel
 negative energy to dispel a good cleric's turning effect. The evil
 cleric makes a turning check as if attempting to rebuke the undead. If
 the turning check result is equal to or greater than the turning check
@@ -1245,120 +1186,108 @@ result that the good cleric scored when turning the undead, then the
 undead are no longer turned. The evil cleric rolls turning damage of
 2d6 + cleric level + Charisma modifier to see how many Hit Dice worth of
 undead he can affect in this way (as if he were rebuking
-them).]
+them).
 
-**[Bolstering Undead:]** [An evil cleric may also bolster
+**Bolstering Undead:** An evil cleric may also bolster
 undead creatures against turning in advance. He makes a turning check as
 if attempting to rebuke the undead, but the Hit Dice result on Table:
 Turning Undead becomes the undead creatures' effective Hit Dice as far
 as turning is concerned (provided the result is higher than the
 creatures' actual Hit Dice). The bolstering lasts 10 rounds. An evil
-undead cleric can bolster himself in this manner.]
+undead cleric can bolster himself in this manner.
 
-[Neutral Clerics and Undead]
+#### Neutral Clerics and Undead
 
-[A cleric of neutral alignment can either turn undead but not rebuke
+A cleric of neutral alignment can either turn undead but not rebuke
 them, or rebuke undead but not turn them. See Turn or Rebuke Undead for
-more information.]
+more information.
 
-[Even if a cleric is neutral, channeling positive energy is a good act
-and channeling negative energy is evil.]
+Even if a cleric is neutral, channeling positive energy is a good act
+and channeling negative energy is evil.
 
-[Paladins and Undead]
+#### Paladins and Undead
 
-[Beginning at 4th level, paladins can turn undead as if they were
-clerics of three levels lower than they actually are.]
+Beginning at 4th level, paladins can turn undead as if they were
+clerics of three levels lower than they actually are.
 
-[Turning Other Creatures]
+#### Turning Other Creatures
 
-[Some clerics have the ability to turn creatures other than
-undead.]
+Some clerics have the ability to turn creatures other than
+undead.
 
-[The turning check result is determined as normal.]
+The turning check result is determined as normal.
 
-[TWO-WEAPON FIGHTING]
+### TWO-WEAPON FIGHTING
 
-[If you wield a second weapon in your off hand, you can get one extra
+If you wield a second weapon in your off hand, you can get one extra
 attack per round with that weapon. You suffer a --6 penalty with your
 regular attack or attacks with your primary hand and a --10 penalty to
 the attack with your off hand when you fight this way. You can reduce
-these penalties in two ways:]
+these penalties in two ways:
 
-[•If your off-hand weapon is light, the penalties are reduced by 2 each.
-(An unarmed strike is always considered light.)]
+* If your off-hand weapon is light, the penalties are reduced by 2 each.
+(An unarmed strike is always considered light.)
+* The Two-Weapon Fighting feat lessens the primary hand penalty by 2,
+and the off-hand penalty by 6.
 
-[•The Two-Weapon Fighting feat lessens the primary hand penalty by 2,
-and the off-hand penalty by 6.]
+Table: Two-Weapon Fighting Penalties summarizes the interaction of all
+these factors.
 
-[Table: Two-Weapon Fighting Penalties summarizes the interaction of all
-these factors.]
+|**Table: Two-Weapon Fighting Penalties**                |                |            |
+|--                                                      |--              |--          |
+|**Circumstances**                                       |**Primary Hand**|**Off Hand**|
+|Normal penalties                                        |-6              |-10         |
+|Off-hand weapon is light                                |-4              |-8          |
+|Two-Weapon Fighting feat                                |-4              |-4          |
+|Off-hand weapon is light and<br>Two-Weapon Fighting feat|-2              |-2          |
 
-+----------------------------------+---------------------------------+-----------------------------+
-| **[Table: Two-Weapon Fighting    |                                 |                             |
-| Penalties]**         |                                 |                             |
-+----------------------------------+---------------------------------+-----------------------------+
-| #### [Circumstances] | #### [Primary Hand] | #### [Off Hand] |
-+----------------------------------+---------------------------------+-----------------------------+
-| [Normal penalties]   | [--6]               | [--10]          |
-+----------------------------------+---------------------------------+-----------------------------+
-| [Off-hand weapon is              | [--4]               | [--8]           |
-| light]               |                                 |                             |
-+----------------------------------+---------------------------------+-----------------------------+
-| [Two-Weapon Fighting             | [--4]               | [--4]           |
-| feat]                |                                 |                             |
-+----------------------------------+---------------------------------+-----------------------------+
-| [Off-hand weapon is light and    | [--2]               | [--2]           |
-| Two-Weapon Fighting              |                                 |                             |
-| feat]                |                                 |                             |
-+----------------------------------+---------------------------------+-----------------------------+
-
-**[Double Weapons]**[: You can use a double weapon to make
+**Double Weapons**: You can use a double weapon to make
 an extra attack with the off-hand end of the weapon as if you were
 fighting with two weapons. The penalties apply as if the off-hand end of
-the weapon were a light weapon.]
+the weapon were a light weapon.
 
-**[Thrown Weapons:]** [The same rules apply when you throw a
+**Thrown Weapons:** The same rules apply when you throw a
 weapon from each hand. Treat a dart or shuriken as a light weapon when
 used in this manner, and treat a bolas, javelin, net, or sling as a
-one-handed weapon.]
+one-handed weapon.
 
-[SPECIAL INITIATIVE ACTIONS]
+## SPECIAL INITIATIVE ACTIONS
 
-[Here are ways to change when you act during combat by altering your
-place in the initiative order.]
+Here are ways to change when you act during combat by altering your
+place in the initiative order.
 
-[DELAY]
+### DELAY
 
-[By choosing to delay, you take no action and then act normally on
+By choosing to delay, you take no action and then act normally on
 whatever initiative count you decide to act. When you delay, you
 voluntarily reduce your own initiative result for the rest of the
 combat. When your new, lower initiative count comes up later in the same
 round, you can act normally. You can specify this new initiative result
 or just wait until some time later in the round and act then, thus
-fixing your new initiative count at that point.]
+fixing your new initiative count at that point.
 
-[You never get back the time you spend waiting to see what's going to
+You never get back the time you spend waiting to see what's going to
 happen. You can't, however, interrupt anyone else's action (as you can
-with a readied action).]
+with a readied action).
 
-**[Initiative Consequences of Delaying:]** [Your initiative
+**Initiative Consequences of Delaying:** Your initiative
 result becomes the count on which you took the delayed action. If you
 come to your next action and have not yet performed an action, you don't
-get to take a delayed action (though you can delay again).]
+get to take a delayed action (though you can delay again).
 
-[If you take a delayed action in the next round, before your regular
+If you take a delayed action in the next round, before your regular
 turn comes up, your initiative count rises to that new point in the
 order of battle, and you do not get your regular action that
-round.]
+round.
 
-[READY]
+### READY
 
-[The ready action lets you prepare to take an action later, after your
+The ready action lets you prepare to take an action later, after your
 turn is over but before your next one has begun. Readying is a standard
 action. It does not provoke an attack of opportunity (though the action
-that you ready might do so).]
+that you ready might do so).
 
-**[Readying an Action:]** [You can ready a standard action,
+**Readying an Action:** You can ready a standard action,
 a move action, or a free action. To do so, specify the action you will
 take and the conditions under which you will take it. Then, any time
 before your next action, you may take the readied action in response to
@@ -1369,26 +1298,26 @@ so, he continues his actions once you complete your readied action. Your
 initiative result changes. For the rest of the encounter, your
 initiative result is the count on which you took the readied action, and
 you act immediately ahead of the character whose action triggered your
-readied action.]
+readied action.
 
-[You can take a 5-foot step as part of your readied action, but only if
-you don't otherwise move any distance during the round.]
+You can take a 5-foot step as part of your readied action, but only if
+you don't otherwise move any distance during the round.
 
-**[Initiative Consequences of Readying:]** [Your initiative
+**Initiative Consequences of Readying:** Your initiative
 result becomes the count on which you took the readied action. If you
 come to your next action and have not yet performed your readied action,
 you don't get to take the readied action (though you can ready the same
 action again). If you take your readied action in the next round, before
 your regular turn comes up, your initiative count rises to that new
 point in the order of battle, and you do not get your regular action
-that round.]
+that round.
 
-**[Distracting Spellcasters:]** [You can ready an attack
+**Distracting Spellcasters:** You can ready an attack
 against a spellcaster with the trigger "if she starts casting a spell."
 If you damage the spellcaster, she may lose the spell she was trying to
-cast (as determined by her Concentration check result).]
+cast (as determined by her Concentration check result).
 
-**[Readying to Counterspell:]** [You may ready a
+**Readying to Counterspell:** You may ready a
 counterspell against a spellcaster (often with the trigger "if she
 starts casting a spell"). In this case, when the spellcaster starts a
 spell, you get a chance to identify it with a Spellcraft check (DC 15 +
@@ -1396,13 +1325,13 @@ spell level). If you do, and if you can cast that same spell (are able
 to cast it and have it prepared, if you prepare spells), you can cast
 the spell as a counterspell and automatically ruin the other
 spellcaster's spell. Counterspelling works even if one spell is divine
-and the other arcane.]
+and the other arcane.
 
-[A spellcaster can use] *[dispel magic]* [to
+A spellcaster can use *dispel magic* to
 counterspell another spellcaster, but it doesn't always
-work.]
+work.
 
-**[Readying a Weapon against a Charge:]** [You can ready
+**Readying a Weapon against a Charge:** You can ready
 certain piercing weapons, setting them to receive charges. A readied
 weapon of this type deals double damage if you score a hit with it
-against a charging character.]
+against a charging character.
