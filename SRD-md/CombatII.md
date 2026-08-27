@@ -4,7 +4,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 ## MOVEMENT, POSITION, AND DISTANCE
 
-Miniatures are on the 30mm scale---a miniature figure of a six-foot-tall
+Miniatures are on the 30mm scale—a miniature figure of a six-foot-tall
 human is approximately 30mm tall. A square on the battle grid is 1 inch
 across, representing a 5-foot-by-5-foot area.
 
@@ -132,8 +132,8 @@ Flying and incorporeal creatures can avoid most obstacles
 area that isn't as wide as the space you take up. You can squeeze
 through or into a space that is at least half as wide as your normal
 space. Each move into or through a narrow space counts as if it were 2
-squares, and while squeezed in a narrow space you take a --4 penalty on
-attack rolls and a --4 penalty to AC.
+squares, and while squeezed in a narrow space you take a -4 penalty on
+attack rolls and a -4 penalty to AC.
 
 When a Large creature (which normally takes up four squares) squeezes
 into a space that's one square wide, the creature's miniature figure
@@ -146,7 +146,7 @@ its movement in an occupied square.
 
 To squeeze through or into a space less than half your space's width,
 you must use the Escape Artist skill. You can't attack while using
-Escape Artist to squeeze through or into a narrow space, you take a --4
+Escape Artist to squeeze through or into a narrow space, you take a -4
 penalty to AC, and you lose any Dexterity bonus to AC.
 
 #### Special Movement Rules
@@ -409,12 +409,12 @@ Creatures with a reach of 0 feet can't flank an opponent.
 A helpless opponent is someone who is bound, sleeping, paralyzed,
 unconscious, or otherwise at your mercy.
 
-**Regular Attack:** A helpless character takes a --4 penalty to AC
+**Regular Attack:** A helpless character takes a -4 penalty to AC
 against melee attacks, but no penalty to AC against ranged attacks.
 
 A helpless defender can't use any Dexterity bonus to AC. In fact, his
 Dexterity score is treated as if it were 0 and his Dexterity modifier to
-AC as if it were --5 (and a rogue can sneak attack him).
+AC as if it were -5 (and a rogue can sneak attack him).
 
 **Coup de Grace:** As a full-round action, you can use a melee weapon to
 deliver a coup de grace to a helpless opponent. You can also use a bow
@@ -489,7 +489,7 @@ opportunity, make the attack roll and then roll to see whether the
 attack went astray.)
 
 Second, you and the defender make opposed Strength checks. You each add
-a +4 bonus for each size category you are larger than Medium or a --4
+a +4 bonus for each size category you are larger than Medium or a -4
 penalty for each size category you are smaller than Medium. You get a +2
 bonus if you are charging. The defender gets a +4 bonus if he has more
 than two legs or is otherwise exceptionally stable.
@@ -538,7 +538,7 @@ unless you are restricted to taking only a standard action or move
 action on your turn.
 
 **Attacking on a Charge:** After moving, you may make a single melee
-attack. You get a +2 bonus on the attack roll. and take a --2 penalty to
+attack. You get a +2 bonus on the attack roll. and take a -2 penalty to
 your AC until the start of your next turn.
 
 A charging character gets a +2 bonus on the Strength check made to bull
@@ -577,12 +577,12 @@ damage, your disarm attempt fails.
 **Step 2:** Opposed Rolls. You and the defender make opposed attack
 rolls with your respective weapons. The wielder of a two-handed weapon
 on a disarm attempt gets a +4 bonus on this roll, and the wielder of a
-light weapon takes a --4 penalty. (An unarmed strike is considered a
+light weapon takes a -4 penalty. (An unarmed strike is considered a
 light weapon, so you always take a penalty when trying to disarm an
 opponent by using an unarmed strike.) If the combatants are of different
 sizes, the larger combatant gets a bonus on the attack roll of +4 per
 difference in size category. If the targeted item isn't a melee weapon,
-the defender takes a --4 penalty on the roll.
+the defender takes a -4 penalty on the roll.
 
 **Step 3:** Consequences. If you beat the defender, the defender is
 disarmed. If you attempted the disarm action unarmed, you now have the
@@ -623,8 +623,8 @@ your target's Sense Motive check result, the next melee attack you make
 against the target does not allow him to use his Dexterity bonus to AC
 (if any). This attack must be made on or before your next turn.
 
-When feinting in this way against a nonhumanoid you take a --4 penalty.
-Against a creature of animal Intelligence (1 or 2), you take a --8
+When feinting in this way against a nonhumanoid you take a -4 penalty.
+Against a creature of animal Intelligence (1 or 2), you take a -8
 penalty. Against a nonintelligent creature, it's impossible.
 
 Feinting in combat does not provoke attacks of
@@ -644,7 +644,7 @@ special size modifier
 
 **Special Size Modifier:** The special size modifier for a grapple check
 is as follows: Colossal +16, Gargantuan +12, Huge +8, Large +4, Medium
-+0, Small --4, Tiny --8, Diminutive --12, Fine --16. Use this number in
++0, Small 4, Tiny -8, Diminutive -12, Fine -16. Use this number in
 place of the normal size modifier you use when making an attack roll.
 
 #### Starting a Grapple
@@ -719,7 +719,7 @@ a grapple check to activate the item.
 
 **Attack Your Opponent:** You can make an attack with an unarmed strike,
 natural weapon, or light weapon against another character you are
-grappling. You take a --4 penalty on such attacks.
+grappling. You take a -4 penalty on such attacks.
 
 You can't attack with two weapons while grappling, even if both are
 light weapons.
@@ -739,12 +739,12 @@ opponent equivalent to an unarmed strike. Make an opposed grapple check
 in place of an attack. If you win, you deal nonlethal damage as normal
 for your unarmed strike (1d3 points for Medium attackers or 1d2 points
 for Small attackers, plus Strength modifiers). If you want to deal
-lethal damage, you take a --4 penalty on your grapple check.
+lethal damage, you take a -4 penalty on your grapple check.
 
 *Exception:* Monks deal more damage on an unarmed strike than other
 characters, and the damage is lethal. However, they can choose to deal
 their damage as nonlethal damage when grappling without taking the usual
---4 penalty for changing lethal damage to nonlethal damage.
+-4 penalty for changing lethal damage to nonlethal damage.
 
 **Draw a Light Weapon:** You can draw a light weapon as a move action
 with a successful grapple check.
@@ -783,7 +783,7 @@ pinned.
 
 **Use Opponent's Weapon:** If your opponent is holding a light weapon,
 you can use it to attack him. Make an opposed grapple check (in place of
-an attack). If you win, make an attack roll with the weapon with a --4
+an attack). If you win, make an attack roll with the weapon with a -4
 penalty (doing this doesn't require another action).
 
 You don't gain possession of the weapon by performing this action.
@@ -811,7 +811,7 @@ opponent.
 #### If You're Pinned by an Opponent
 
 When an opponent has pinned you, you are held immobile (but not
-helpless) for 1 round. While you're pinned, you take a --4 penalty to
+helpless) for 1 round. While you're pinned, you take a -4 penalty to
 your AC against opponents other than the one pinning you. At your
 opponent's option, you may also be unable to speak. On your turn, you
 can try to escape the pin by making an opposed grapple check in place of
@@ -878,8 +878,8 @@ bonus gained from the charge. When charging on horseback, you deal
 double damage with a lance (see [Charge](#charge)).
 
 You can use ranged weapons while your mount is taking a double move,
-but at a --4 penalty on the attack roll. You can use ranged weapons
-while your mount is running (quadruple speed), at a --8 penalty. In
+but at a -4 penalty on the attack roll. You can use ranged weapons
+while your mount is running (quadruple speed), at a -8 penalty. In
 either case, you make the attack roll when your mount has completed half
 its movement. You can make a full attack with a ranged weapon while your
 mount is moving. Likewise, you can take move actions
@@ -932,7 +932,7 @@ square). If your opponent doesn't avoid you, move to Step 3.
 Strength check opposed by the defender's Dexterity or Strength check
 (whichever ability score has the higher modifier). A combatant gets a +4
 bonus on the check for every size category he is larger than Medium or a
---4 penalty for every size category he is smaller than Medium. The
+-4 penalty for every size category he is smaller than Medium. The
 defender gets a +4 bonus on his check if he has more than two legs or is
 otherwise more stable than a normal humanoid. If you win, you knock the
 defender prone. If you lose, the defender may immediately react and make
@@ -998,7 +998,7 @@ of opportunity for making the attempt.)
 **Step 2:** Opposed Rolls. You and the defender make
 opposed attack rolls with your respective weapons. The wielder of a
 two-handed weapon on a sunder attempt gets a +4 bonus on this roll, and
-the wielder of a light weapon takes a --4 penalty. If the combatants are
+the wielder of a light weapon takes a -4 penalty. If the combatants are
 of different sizes, the larger combatant gets a bonus on the attack roll
 of +4 per difference in size category.
 
@@ -1025,7 +1025,7 @@ A splash weapon is a ranged weapon that breaks on impact, splashing or
 scattering its contents over its target and nearby creatures or objects.
 To attack with a splash weapon, make a ranged touch attack against the
 target. Thrown weapons require no weapon proficiency, so you don't take
-the --4 nonproficiency penalty. A hit deals direct hit damage to the
+the -4 nonproficiency penalty. A hit deals direct hit damage to the
 target, and splash damage to all creatures within 5 feet of the
 target.
 
@@ -1059,7 +1059,7 @@ your target as normal for unarmed attacks.
 If your attack succeeds, make a Strength check opposed by the
 defender's Dexterity or Strength check (whichever ability score has the
 higher modifier). A combatant gets a +4 bonus for every size category he
-is larger than Medium or a --4 penalty for every size category he is
+is larger than Medium or a -4 penalty for every size category he is
 smaller than Medium. The defender gets a +4 bonus on his check if he has
 more than two legs or is otherwise more stable than a normal humanoid.
 If you win, you trip the defender. If you lose, the defender may
@@ -1138,7 +1138,7 @@ best and fastest means available to them. They flee for 10 rounds (1
 minute). If they cannot flee, they cower (giving any attack rolls
 against them a +2 bonus). If you approach within 10 feet of them,
 however, they overcome being turned and act normally. (You can stand
-within 10 feet without breaking the turning effect---you just can't
+within 10 feet without breaking the turning effect—you just can't
 approach them.) You can attack them with ranged attacks (from at least
 10 feet away), and others can attack them in any fashion, without
 breaking the turning effect.
@@ -1220,8 +1220,8 @@ The turning check result is determined as normal.
 ### TWO-WEAPON FIGHTING
 
 If you wield a second weapon in your off hand, you can get one extra
-attack per round with that weapon. You suffer a --6 penalty with your
-regular attack or attacks with your primary hand and a --10 penalty to
+attack per round with that weapon. You suffer a -6 penalty with your
+regular attack or attacks with your primary hand and a -10 penalty to
 the attack with your off hand when you fight this way. You can reduce
 these penalties in two ways:
 
