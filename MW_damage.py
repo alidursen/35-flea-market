@@ -1,8 +1,7 @@
 import itertools
-import new_system
 from functools import total_ordering
 
-baseline_fighter = {
+baseline_fighter: dict[str, list[float]] = {
     "attack_bonus":      [0,    4,    5,    6,    8,    9,    11,    11,    13,    14,    17,    18,    20,    22,    24,    25,    26,    27,    28,    28,    30],
     "strike_chance":     [0,   57,   59,   61,   63,   65,    67,    69,    71,    73,    75,    77,    79,    81,    83,    85,    85,    85,    85,    85,    85],
     "damage_per_strike": [0,  6.5,  6.5,  8.5, 11.5, 11.5,  12.5,    17,    17,    17,    19,    21,    24,  28.5,  29.5,  31.5,  31.5,  31.5,  31.5,  32.5,  33.5],
@@ -26,7 +25,18 @@ class Mystic_Warrior:
         self.atk = self.level+self.dex+self.amulet+(1 if self.focus else 0)
         self.dmg = unarmed_upgrades[self.upgrades][0]*(unarmed_upgrades[self.upgrades][1]+1)/2.+self.wis+self.amulet
 
-        self.compared = abs(self.total_dmg() - baseline_fighter["overall_damage"][self.level])
+        _base = baseline_fighter["strike_chance"][self.level]+5*(self.atk-baseline_fighter["attack_bonus"][self.level])
+        self.chances = [_base-10, _base-10]
+        if self.level >= 6:
+            self.chances.append(_base-35)
+        if self.level >= 11:
+            self.chances.append(_base-35)
+            self.chances.append(_base-60)
+        if self.level >= 16:
+            self.chances.append(max(_base-85, 5))
+
+        self.total_dmg = self.dmg*sum(self.chances)/100 # ... linearity of expectation
+        self.compared = abs(self.total_dmg - baseline_fighter["overall_damage"][self.level])
     
     def __lt__(self, other:'Mystic_Warrior'):
         return self.compared > other.compared
@@ -34,21 +44,6 @@ class Mystic_Warrior:
     def __str__(self) -> str:
         return 'level:{0},\ndex:{1}, wis:{2},\nunarmed:{3}d{4}, amulet:+{5},\nweapon focus: {6}'.format(
             self.level, self.dex, self.wis, unarmed_upgrades[self.upgrades][0], unarmed_upgrades[self.upgrades][1], self.amulet, self.focus)
-    
-    def chances(self) -> list[float]:
-        base = baseline_fighter["strike_chance"][self.level]+5*(self.atk-baseline_fighter["attack_bonus"][self.level])
-        ch = [base-10, base-10]
-        if self.level >= 6:
-            ch.append(base-35)
-        if self.level >= 11:
-            ch.append(base-35)
-            ch.append(base-60)
-        if self.level >= 16:
-            ch.append(max(base-85, 5))
-        return [i/100 for i in ch]
-    def total_dmg(self) -> float:
-        k = new_system.multiplier(self.chances())
-        return self.dmg*sum([i*k[i] for i in range(len(k))])
     
     def increment(self) -> list['Mystic_Warrior']:
         l = [self.level+1]

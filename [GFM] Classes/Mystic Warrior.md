@@ -18,10 +18,10 @@
 |14|+14/+9/+4|+9|+9|+9|Walk The Beyond|2d8|+3|+40 ft|
 |15|+15/+10/+5|+9|+9|+9|Slow Fall (unlimited), Tongue Of The Sun And Moon|2d8|+3|+50 ft|
 |16|+16/+11/+6/+1|+10|+10|+10|Lightning Strikes Thrice, Mystic Strikes (adamantine)|2d8|+4|+50 ft|
-|17|+17/+12/+7/+2|+10|+10|+10|Until The End Of Days|3d6|+4|+50 ft|
-|18|+18/+13/+8/+3|+11|+11|+11|Greater Font Of Health|3d6|+4|+60 ft|
-|19|+19/+14/+9/+4|+11|+11|+11||3d6|+4|+60 ft|
-|20|+20/+15/+10/+5|+12|+12|+12|Perfect Self|3d6|+4|+60 ft|
+|17|+17/+12/+7/+2|+10|+10|+10|Until The End Of Days|2d10|+4|+50 ft|
+|18|+18/+13/+8/+3|+11|+11|+11|Greater Font Of Health|2d10|+4|+60 ft|
+|19|+19/+14/+9/+4|+11|+11|+11||2d10|+4|+60 ft|
+|20|+20/+15/+10/+5|+12|+12|+12|Perfect Self|2d10|+4|+60 ft|
 
 **Class Skills (6+Int modifier per level, x4 at 1st level):** Balance, Climb, Concentration, Craft, Diplomacy, Escape Artist, Heal, Hide, Jump, Knowledge (arcana), Knowledge (history), Knowledge (religion), Listen, Move Silently, Perform, Profession, Sense Motive, Spot, Swim, Tumble.
 
