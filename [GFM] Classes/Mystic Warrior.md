@@ -10,18 +10,18 @@
 |6|+6/+1|+5|+5|+5|Bonus Feat, Lightning Strikes Twice|1d8|+2|+20 ft|
 |7|+7/+2|+5|+5|+5|Mystic Strikes (piercing or slashing), Slow Fall (40 ft.)|1d8|+2|+20 ft|
 |8|+8/+3|+6|+6|+6|Diamond Body, Walk The Earth|1d8|+2|+20 ft|
-|9|+9/+4|+6|+6|+6|Bonus Feat, Improved Evasion|2d8|+2|+30 ft|
-|10|+10/+5|+7|+7|+7|Improved Font Of Health, Mystic Strikes (lawful and cold iron)|2d8|+2|+30 ft|
-|11|+11/+6/+1|+7|+7|+7|River's Great Flow, Slow Fall (60 ft.)|2d8|+3|+30 ft|
-|12|+12/+7/+2|+8|+8|+8|Improved Peace Within|2d8|+3|+40 ft|
-|13|+13/+8/+3|+8|+8|+8|Diamond Soul, Mystic Strikes (piercing and slashing)|3d8|+3|+40 ft|
-|14|+14/+9/+4|+9|+9|+9|Walk The Beyond|3d8|+3|+40 ft|
-|15|+15/+10/+5|+9|+9|+9|Slow Fall (unlimited), Tongue Of The Sun And Moon|3d8|+3|+50 ft|
-|16|+16/+11/+6/+1|+10|+10|+10|Lightning Strikes Thrice, Mystic Strikes (adamantine)|3d8|+4|+50 ft|
-|17|+17/+12/+7/+2|+10|+10|+10|Until The End Of Days|4d6|+4|+50 ft|
-|18|+18/+13/+8/+3|+11|+11|+11|Greater Font Of Health|4d6|+4|+60 ft|
-|19|+19/+14/+9/+4|+11|+11|+11||4d6|+4|+60 ft|
-|20|+20/+15/+10/+5|+12|+12|+12|Perfect Self|4d6|+4|+60 ft|
+|9|+9/+4|+6|+6|+6|Bonus Feat, Improved Evasion|2d6|+2|+30 ft|
+|10|+10/+5|+7|+7|+7|Improved Font Of Health, Mystic Strikes (lawful and cold iron)|2d6|+2|+30 ft|
+|11|+11/+6/+1|+7|+7|+7|River's Great Flow, Slow Fall (60 ft.)|2d6|+3|+30 ft|
+|12|+12/+7/+2|+8|+8|+8|Improved Peace Within|2d6|+3|+40 ft|
+|13|+13/+8/+3|+8|+8|+8|Diamond Soul, Mystic Strikes (piercing and slashing), Weapon Focus|2d8|+3|+40 ft|
+|14|+14/+9/+4|+9|+9|+9|Walk The Beyond|2d8|+3|+40 ft|
+|15|+15/+10/+5|+9|+9|+9|Slow Fall (unlimited), Tongue Of The Sun And Moon|2d8|+3|+50 ft|
+|16|+16/+11/+6/+1|+10|+10|+10|Lightning Strikes Thrice, Mystic Strikes (adamantine)|2d8|+4|+50 ft|
+|17|+17/+12/+7/+2|+10|+10|+10|Until The End Of Days|3d6|+4|+50 ft|
+|18|+18/+13/+8/+3|+11|+11|+11|Greater Font Of Health|3d6|+4|+60 ft|
+|19|+19/+14/+9/+4|+11|+11|+11||3d6|+4|+60 ft|
+|20|+20/+15/+10/+5|+12|+12|+12|Perfect Self|3d6|+4|+60 ft|
 
 **Class Skills (6+Int modifier per level, x4 at 1st level):** Balance, Climb, Concentration, Craft, Diplomacy, Escape Artist, Heal, Hide, Jump, Knowledge (arcana), Knowledge (history), Knowledge (religion), Listen, Move Silently, Perform, Profession, Sense Motive, Spot, Swim, Tumble.
 
@@ -44,7 +44,7 @@ Keep in mind that for each 10 feet speed beyond 30 feet you gain a +4 bonus to J
 
 **River's Unstoppable Flow (Ex)**: When unarmored and unencumbered, a mystic warrior may strike more rapidly at the expense of accuracy. When using a full attack, they may choose to strike an additional time at their highest bonus, but every attack they make this round takes a -2 penalty. This penalty applies for 1 round, so it also affects attacks of opportunity the mystic warrior might make before their next action.
 
-When using river's unstoppable flow, a mystic warrior may attack only with weapons that the *weight of the world* applies.
+When using river's unstoppable flow, a mystic warrior may attack only with unarmed strikes or weapons granted by mystic warrior proficiencies (dagger, dart, quarterstaff, shuriken and sling).
 
 When a mystic warrior reaches 11th level, the river's flow improves. In addition to the standard single extra attack they get, they get a second extra attack made at a further -5 penalty, in addition to the usual -2 penalty.
 
@@ -62,13 +62,13 @@ A mystic warrior also deals more damage with their unarmed strikes than a normal
 |--|--|--|
 |1-4|1d4|1d8|
 |5-8|1d6|2d6|
-|9-12|2d6|3d8|
-|13-16|2d8|4d8|
-|17-20|3d6|6d6|
+|9-12|1d10|3d6|
+|13-16|2d6|3d8|
+|17-20|2d8|4d6|
 
 **Weapon Finesse**: At 1st level, a mystic warrior gains Weapon Finesse as a bonus feat, allowing them to add their Dexterity bonus to attack rolls made with light weapons, rather than Strength.
 
-**Weight of the World (Ex)**: A mystic warrior has spent tremendous time on understanding the world and their place in it. With this understanding came the weight that fuels their strikes. When attacking with unarmed strikes or weapons listed in proficiencies (dagger, dart, quarterstaff, shuriken and sling), they add their Wisdom bonus to their damage, rather than Strength.
+**Weight of the World (Ex)**: A mystic warrior has spent tremendous time on understanding the world and their place in it. With this understanding came the weight that fuels their strikes. When attacking with a weapon they can use with River's Unstoppable Flow, they add their Wisdom bonus to their damage, rather than Strength.
 
 **Font of Health (Su)**: At 2nd level or higher, a mystic warrior can heal their own wounds. They can heal a number of hit points of damage equal to twice their current mystic warrior level each day, and they can spread this healing out among several uses.
 
@@ -104,13 +104,15 @@ At 16th level, their unarmed attacks are treated as adamantine weapons for the p
 
 Damage reduction and other resistances apply separately against each strike. Regardless of the number of strikes you make, you apply precision-based damage (such as from sneak attack) only once. If you score a critical hit, only the first strike deals critical damage; all others deal regular damage.
 
-At 16th level, you may strike thrice but your attack penalty increases to -6 if you do so.
+Starting at 16th level, you may strike thrice but your attack penalty increases to -6 if you do so.
 
 **Diamond Body (Su)**: At 8th level, a mystic warrior gains immunity to poisons of all kinds.
 
 **Walk The Earth (Sp)**: At 8th level or higher, a mystic warrior can slip magically between spaces, casting *dimension door* once per day. Their caster level for this is one-half their mystic warrior level (rounded down).
 
 **Diamond Soul (Su)**: At 13th level, a mystic warrior's defenses reach their pinnacle, they become like diamond in body, mind and soul. The mystic warrior gains spell resistance equal to their current mystic warrior level + 10. In addition, a mystic warrior can pick confidants up to their Wisdom bonus to open their souls to and exclude from this spell resistance. A mystic warrior can assign or remove one confidant in a day-long ritual that they both attend.
+
+**Weapon Focus**: At 13th level, a mystic warrior gains Weapon Focus, as a bonus feat, for their unarmed strikes. If they already have Weapon Focus (Unarmed Strike), they get to choose another weapon that they can use with River's Unstoppable Flow.
 
 **Walk The Beyond (Sp)**: At 14th level, a mystic warrior gains the ability to assume an ethereal state for 1 round per mystic warrior level per day, as though using the spell *ethereal jaunt*. They may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed their mystic warrior level.
 
