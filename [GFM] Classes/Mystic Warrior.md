@@ -64,7 +64,7 @@ A mystic warrior also deals more damage with their unarmed strikes than a normal
 |5-8|1d6|2d6|
 |9-12|1d10|3d6|
 |13-16|2d6|3d8|
-|17-20|2d8|4d6|
+|17-20|2d8|4d8|
 
 **Weapon Finesse**: At 1st level, a mystic warrior gains Weapon Finesse as a bonus feat, allowing them to add their Dexterity bonus to attack rolls made with light weapons, rather than Strength.
 
