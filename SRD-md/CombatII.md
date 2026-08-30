@@ -987,7 +987,8 @@ attempting to sunder a weapon or shield, follow the steps outlined here.
 |Heavy steel shield                                                 |10                |20            |
 |Tower shield                                                       |5                 |20            |
 
-1. The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.
+1. The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category
+of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.
 1. Varies by material.
 
 **Step 1:** Attack of Opportunity. You provoke an attack

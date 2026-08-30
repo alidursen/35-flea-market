@@ -34,7 +34,7 @@ do not count as a light weapon, ignoring the -4 penalty for disarming with light
 **Prerequisites:** Combat Expertise.
 
 **Benefit:** You can make a Bluff check to feint in
-combat as a move action. In addition, you get +4 to your Bluff checks made to feint.
+combat as a move action. You also gain a +4 bonus on your Bluff checks made to feint.
 
 **Normal:** Feinting in combat is a standard action.
 

@@ -1,9 +1,9 @@
-[This material is Open Game Content, and is licensed for public use
-under the terms of the Open Game License v1.0a.]
+# FEATS
 
-FEATS
+This material is Open Game Content, and is licensed for public use
+under the terms of the Open Game License v1.0a.
 
-PREREQUISITES
+## PREREQUISITES
 
 Some feats have prerequisites. Your character must have the indicated
 ability score, class feature, feat, skill, base attack bonus, or other
@@ -12,7 +12,7 @@ gain a feat at the same level at which he or she gains the prerequisite.
 
 A character can't use a feat if he or she has lost a prerequisite.
 
-TYPES OF FEATS
+## TYPES OF FEATS
 
 Some feats are general, meaning that no special rules govern them as a
 group. Others are item creation feats, which allow spellcasters to
@@ -20,14 +20,14 @@ create magic items of all sorts. A metamagic feat lets a spellcaster
 prepare and cast a spell with greater effect, albeit as if the spell
 were a higher spell level than it actually is.
 
-FIGHTER BONUS FEATS
+### FIGHTER BONUS FEATS
 
 Any feat designated as a fighter feat can be selected as a fighter's
 bonus feat. This designation does not restrict characters of other
 classes from selecting these feats, assuming that they meet any
 prerequisites.
 
-ITEM CREATION FEATS
+### ITEM CREATION FEATS
 
 An item creation feat lets a spellcaster create a magic item of a
 certain type. Regardless of the type of items they involve, the various
@@ -81,7 +81,7 @@ component or pay fifty times the XP cost.
 Some magic items similarly incur extra costs in material components or
 XP, as noted in their descriptions.
 
-METAMAGIC FEATS
+### METAMAGIC FEATS
 
 As a spellcaster's knowledge of magic grows, she can learn to cast
 spells in ways slightly different from the ways in which the spells were
@@ -150,11 +150,11 @@ version of a spell.
 enhanced by a metamagic feat does not affect its vulnerability to
 counterspelling or its ability to counterspell another spell.
 
-FEAT DESCRIPTIONS
+## FEAT DESCRIPTIONS
 
 Here is the format for feat descriptions.
 
-FEAT NAME \[TYPE OF FEAT\]
+### FEAT NAME \[TYPE OF FEAT\]
 
 **Prerequisite:** A minimum ability score, another feat or feats, a
 minimum base attack bonus, a minimum number of ranks in one or more
@@ -175,28 +175,28 @@ drawback, this entry is absent.
 **Special:** Additional facts about the feat that may be helpful when
 you decide whether to acquire the feat.
 
-ACROBATIC \[GENERAL\]
+### ACROBATIC \[GENERAL\]
 
 **Benefit:** You get a +2 bonus on all Jump checks and Tumble checks.
 
-AGILE \[GENERAL\]
+### AGILE \[GENERAL\]
 
 **Benefit:** You get a +2 bonus on all Balance checks and Escape Artist
 checks.
 
-ALERTNESS \[GENERAL\]
+### ALERTNESS \[GENERAL\]
 
 **Benefit:** You get a +2 bonus on all Listen checks and Spot checks.
 
 **Special:** The master of a familiar gains the benefit of the Alertness
 feat whenever the familiar is within arm's reach.
 
-ANIMAL AFFINITY \[GENERAL\]
+### ANIMAL AFFINITY \[GENERAL\]
 
 **Benefit:** You get a +2 bonus on all Handle Animal checks and Ride
 checks.
 
-ARMOR PROFICIENCY (HEAVY) \[GENERAL\]
+### ARMOR PROFICIENCY (HEAVY) \[GENERAL\]
 
 **Prerequisites:** Armor Proficiency (light), Armor Proficiency (medium).
 
@@ -207,7 +207,7 @@ ARMOR PROFICIENCY (HEAVY) \[GENERAL\]
 **Special:** Fighters, paladins, and clerics automatically have Armor
 Proficiency (heavy) as a bonus feat. They need not select it.
 
-ARMOR PROFICIENCY (LIGHT) \[GENERAL\]
+### ARMOR PROFICIENCY (LIGHT) \[GENERAL\]
 
 **Benefit:** When you wear a type of armor with which you are
 proficient, the armor check penalty for that armor applies only to
@@ -222,7 +222,7 @@ skill checks that involve moving, including Ride.
 automatically have Armor Proficiency (light) as a bonus feat. They need
 not select it.
 
-ARMOR PROFICIENCY (MEDIUM) \[GENERAL\]
+### ARMOR PROFICIENCY (MEDIUM) \[GENERAL\]
 
 **Prerequisite:** Armor Proficiency (light).
 
@@ -234,11 +234,11 @@ ARMOR PROFICIENCY (MEDIUM) \[GENERAL\]
 automatically have Armor Proficiency (medium) as a bonus feat. They need
 not select it.
 
-ATHLETIC \[GENERAL\]
+### ATHLETIC \[GENERAL\]
 
 **Benefit:** You get a +2 bonus on all Climb checks and Swim checks.
 
-AUGMENT SUMMONING \[GENERAL\]
+### AUGMENT SUMMONING \[GENERAL\]
 
 **Prerequisite:** Spell Focus (conjuration).
 
@@ -246,7 +246,7 @@ AUGMENT SUMMONING \[GENERAL\]
 +4 enhancement bonus to Strength and Constitution for the duration of
 the spell that summoned it.
 
-BLIND-FIGHT \[GENERAL\]
+### BLIND-FIGHT \[GENERAL\]
 
 **Benefit:** In melee, every time you miss because of concealment, you
 can reroll your miss chance percentile roll one time to see if you
@@ -270,7 +270,7 @@ is the subject of a *blink* spell.
 
 A fighter may select Blind-Fight as one of his fighter bonus feats.
 
-BREW POTION \[ITEM CREATION\]
+### BREW POTION \[ITEM CREATION\]
 
 **Prerequisite:** Caster level 3rd.
 
@@ -291,7 +291,7 @@ cost also carries a commensurate cost. In addition to the costs derived
 from the base price, you must expend the material component or pay the
 XP when creating the potion.
 
-CLEAVE \[GENERAL\]
+### CLEAVE \[GENERAL\]
 
 **Prerequisites:** Str 13, Power Attack.
 
@@ -305,13 +305,13 @@ dropped the previous creature. You can use this ability once per round.
 **Special:** A fighter may select Cleave as one of his fighter bonus
 feats.
 
-COMBAT CASTING \[GENERAL\]
+### COMBAT CASTING \[GENERAL\]
 
 **Benefit:** You get a +4 bonus on Concentration checks made to cast a
 spell or use a spell-like ability while on the defensive or while you
 are grappling or pinned.
 
-COMBAT EXPERTISE \[GENERAL\]
+### COMBAT EXPERTISE \[GENERAL\]
 
 **Prerequisite:** Int 13.
 
@@ -328,7 +328,7 @@ penalty on attack rolls and gain a +2 dodge bonus to Armor Class.
 **Special:** A fighter may select Combat Expertise as one of his fighter
 bonus feats.
 
-COMBAT REFLEXES \[GENERAL\]
+### COMBAT REFLEXES \[GENERAL\]
 
 **Benefit:** You may make a number of additional attacks of opportunity
 equal to your Dexterity bonus.
@@ -347,7 +347,7 @@ A fighter may select Combat Reflexes as one of his fighter bonus feats.
 
 A monk may select Combat Reflexes as a bonus feat at 2nd level.
 
-CRAFT MAGIC ARMS AND ARMOR \[ITEM CREATION\]
+### CRAFT MAGIC ARMS AND ARMOR \[ITEM CREATION\]
 
 **Prerequisite:** Caster level 5th.
 
@@ -366,7 +366,7 @@ is one that you could make. Doing so costs half the XP, half the raw
 materials, and half the time it would take to craft that item in the
 first place.
 
-CRAFT ROD \[ITEM CREATION\]
+### CRAFT ROD \[ITEM CREATION\]
 
 **Prerequisite:** Caster level 9th.
 
@@ -379,7 +379,7 @@ Some rods incur extra costs in material components or XP, as noted in
 their descriptions. These costs are in addition to those derived from
 the rod's base price.
 
-CRAFT STAFF \[ITEM CREATION\]
+### CRAFT STAFF \[ITEM CREATION\]
 
 **Prerequisite:** Caster level 12th.
 
@@ -394,7 +394,7 @@ Some staffs incur extra costs in material components or XP, as noted in
 their descriptions. These costs are in addition to those derived from
 the staff 's base price.
 
-CRAFT WAND \[ITEM CREATION\]
+### CRAFT WAND \[ITEM CREATION\]
 
 **Prerequisite:** Caster level 5th.
 
@@ -410,7 +410,7 @@ cost also carries a commensurate cost. In addition to the cost derived
 from the base price, you must expend fifty copies of the material
 component or pay fifty times the XP cost.
 
-CRAFT WONDROUS ITEM \[ITEM CREATION\]
+### CRAFT WONDROUS ITEM \[ITEM CREATION\]
 
 **Prerequisite:** Caster level 3rd.
 
@@ -428,12 +428,12 @@ noted in their descriptions. These costs are in addition to those
 derived from the item's base price. You must pay such a cost to create
 an item or to mend a broken one.
 
-DECEITFUL \[GENERAL\]
+### DECEITFUL \[GENERAL\]
 
 **Benefit:** You get a +2 bonus on all Disguise checks and Forgery
 checks.
 
-DEFLECT ARROWS \[GENERAL\]
+### DEFLECT ARROWS \[GENERAL\]
 
 **Prerequisites:** Dex 13, Improved Unarmed Strike.
 
@@ -451,12 +451,12 @@ level, even if she does not meet the prerequisites.
 
 A fighter may select Deflect Arrows as one of his fighter bonus feats.
 
-DEFT HANDS \[GENERAL\]
+### DEFT HANDS \[GENERAL\]
 
 **Benefit:** You get a +2 bonus on all Sleight of Hand checks and Use
 Rope checks.
 
-DIEHARD \[GENERAL\]
+### DIEHARD \[GENERAL\]
 
 **Prerequisite:** Endurance.
 
@@ -481,12 +481,12 @@ points, you immediately die.
 **Normal:** A character without this feat who is reduced to between --1
 and --9 hit points is unconscious and dying.
 
-DILIGENT \[GENERAL\]
+### DILIGENT \[GENERAL\]
 
 **Benefit:** You get a +2 bonus on all Appraise checks and Decipher
 Script checks.
 
-DODGE \[GENERAL\]
+### DODGE \[GENERAL\]
 
 **Prerequisite:** Dex 13.
 
@@ -501,7 +501,7 @@ each other, unlike most other types of bonuses.
 **Special:** A fighter may select Dodge as one of his fighter bonus
 feats.
 
-EMPOWER SPELL \[METAMAGIC\]
+### EMPOWER SPELL \[METAMAGIC\]
 
 **Benefit:** All variable, numeric effects of an empowered spell are
 increased by one-half.
@@ -510,7 +510,7 @@ Saving throws and opposed rolls are not affected, nor are spells without
 random variables. An empowered spell uses up a spell slot two levels
 higher than the spell's actual level.
 
-ENDURANCE \[GENERAL\]
+### ENDURANCE \[GENERAL\]
 
 **Benefit:** You gain a +4 bonus on the following checks and saves: Swim
 checks made to resist nonlethal damage, Constitution checks made to
@@ -528,7 +528,7 @@ heavier armor is automatically fatigued the next day.
 **Special:** A ranger automatically gains Endurance as a bonus feat at
 3rd level. He need not select it.
 
-ENLARGE SPELL \[METAMAGIC\]
+### ENLARGE SPELL \[METAMAGIC\]
 
 **Benefit:** You can alter a spell with a range of close, medium, or
 long to increase its range by 100%. An enlarged spell with a range of
@@ -540,7 +540,7 @@ one level higher than the spell's actual level.
 Spells whose ranges are not defined by distance, as well as spells whose
 ranges are not close, medium, or long, do not have increased ranges.
 
-ESCHEW MATERIALS \[GENERAL\]
+### ESCHEW MATERIALS \[GENERAL\]
 
 **Benefit:** You can cast any spell that has a material component
 costing 1 gp or less without needing that component. (The casting of the
@@ -548,7 +548,7 @@ spell still provokes attacks of opportunity as normal.) If the spell
 requires a material component that costs more than 1 gp, you must have
 the material component at hand to cast the spell, just as normal.
 
-EXOTIC WEAPON PROFICIENCY \[GENERAL\]
+### EXOTIC WEAPON PROFICIENCY \[GENERAL\]
 
 Choose a type of exotic weapon. You understand how to use that type of
 exotic weapon in combat.
@@ -569,14 +569,14 @@ additional prerequisite of Str 13.
 A fighter may select Exotic Weapon Proficiency as one of his fighter
 bonus feats.
 
-EXTEND SPELL \[METAMAGIC\]
+### EXTEND SPELL \[METAMAGIC\]
 
 **Benefit:** An extended spell lasts twice as long as normal. A spell
 with a duration of concentration, instantaneous, or permanent is not
 affected by this feat. An extended spell uses up a spell slot one level
 higher than the spell's actual level.
 
-EXTRA TURNING \[GENERAL\]
+### EXTRA TURNING \[GENERAL\]
 
 **Prerequisite:** Ability to turn or rebuke creatures.
 
@@ -595,7 +595,7 @@ or her Charisma modifier.
 stack. Each time you take the feat, you can use each of your turning or
 rebuking abilities four additional times per day.
 
-FAR SHOT \[GENERAL\]
+### FAR SHOT \[GENERAL\]
 
 **Prerequisite:** Point Blank Shot.
 
@@ -606,7 +606,7 @@ thrown weapon, its range increment is doubled.
 **Special:** A fighter may select Far Shot as one of his fighter bonus
 feats.
 
-FORGE RING \[ITEM CREATION\]
+### FORGE RING \[ITEM CREATION\]
 
 **Prerequisite:** Caster level 12th.
 
@@ -623,7 +623,7 @@ Some magic rings incur extra costs in material components or XP, as
 noted in their descriptions. You must pay such a cost to forge such a
 ring or to mend a broken one.
 
-GREAT CLEAVE \[GENERAL\]
+### GREAT CLEAVE \[GENERAL\]
 
 **Prerequisites:** Str 13, Cleave, Power Attack, base attack bonus +4.
 
@@ -633,11 +633,11 @@ to the number of times you can use it per round.
 **Special:** A fighter may select Great Cleave as one of his fighter
 bonus feats.
 
-GREAT FORTITUDE \[GENERAL\]
+### GREAT FORTITUDE \[GENERAL\]
 
 **Benefit:** You get a +2 bonus on all Fortitude saving throws.
 
-GREATER SPELL FOCUS \[GENERAL\]
+### GREATER SPELL FOCUS \[GENERAL\]
 
 Choose a school of magic to which you already have applied the Spell
 Focus feat.
@@ -650,7 +650,7 @@ with the bonus from Spell Focus.
 stack. Each time you take the feat, it applies to a new school of magic
 to which you already have applied the Spell Focus feat.
 
-GREATER SPELL PENETRATION \[GENERAL\]
+### GREATER SPELL PENETRATION \[GENERAL\]
 
 **Prerequisite:** Spell Penetration.
 
@@ -658,7 +658,7 @@ GREATER SPELL PENETRATION \[GENERAL\]
 level) made to overcome a creature's spell resistance. This bonus stacks
 with the one from Spell Penetration.
 
-GREATER TWO-WEAPON FIGHTING \[GENERAL\]
+### GREATER TWO-WEAPON FIGHTING \[GENERAL\]
 
 **Prerequisites:** Dex 19, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11.
 
@@ -672,7 +672,7 @@ An 11th-level ranger who has chosen the two-weapon combat style is
 treated as having Greater Two-Weapon Fighting, even if he does not have
 the prerequisites for it, but only when he is wearing light or no armor.
 
-GREATER WEAPON FOCUS \[GENERAL\]
+### GREATER WEAPON FOCUS \[GENERAL\]
 
 Choose one type of weapon for which you have already selected Weapon
 Focus. You can also choose unarmed strike or grapple as your weapon for
@@ -694,7 +694,7 @@ Greater Weapon Specialization feat for that weapon.
 A fighter may select Greater Weapon Focus as one of his fighter bonus
 feats.
 
-GREATER WEAPON SPECIALIZATION \[GENERAL\]
+### GREATER WEAPON SPECIALIZATION \[GENERAL\]
 
 Choose one type of weapon for which you have already selected Weapon
 Specialization. You can also choose unarmed strike or grapple as your
@@ -713,7 +713,7 @@ new type of weapon.
 A fighter may select Greater Weapon Specialization as one of his fighter
 bonus feats.
 
-HEIGHTEN SPELL \[METAMAGIC\]
+### HEIGHTEN SPELL \[METAMAGIC\]
 
 **Benefit:** A heightened spell has a higher spell level than normal (up
 to a maximum of 9th level). Unlike other metamagic feats, Heighten Spell
@@ -723,7 +723,7 @@ ability to penetrate a *lesser globe of invulnerability*) are calculated
 according to the heightened level. The heightened spell is as difficult
 to prepare and cast as a spell of its effective level.
 
-IMPROVED BULL RUSH \[GENERAL\]
+### IMPROVED BULL RUSH \[GENERAL\]
 
 **Prerequisites:** Str 13, Power Attack.
 
@@ -734,7 +734,7 @@ opposed Strength check you make to push back the defender.
 **Special:** A fighter may select Improved Bull Rush as one of his
 fighter bonus feats.
 
-IMPROVED COUNTERSPELL \[GENERAL\]
+### IMPROVED COUNTERSPELL \[GENERAL\]
 
 **Benefit:** When counterspelling, you may use a spell of the same
 school that is one or more spell levels higher than the target spell.
@@ -743,7 +743,7 @@ school that is one or more spell levels higher than the target spell.
 same spell or with a spell specifically designated as countering the
 target spell.
 
-IMPROVED CRITICAL \[GENERAL\]
+### IMPROVED CRITICAL \[GENERAL\]
 
 Choose one type of weapon.
 
@@ -762,7 +762,7 @@ range of a weapon.
 A fighter may select Improved Critical as one of his fighter bonus
 feats.
 
-IMPROVED DISARM \[GENERAL\]
+### IMPROVED DISARM \[GENERAL\]
 
 **Prerequisites:** Int 13, Combat Expertise.
 
@@ -779,7 +779,7 @@ bonus feats.
 A monk may select Improved Disarm as a bonus feat at 6th level, even if
 she does not meet the prerequisites.
 
-IMPROVED FAMILIAR \[GENERAL\]
+### IMPROVED FAMILIAR \[GENERAL\]
 
 This feat allows spellcasters to acquire a new familiar from a
 nonstandard list, but only when they could normally acquire a new
@@ -793,111 +793,111 @@ with an alignment up to one step away on each of the alignment axes
 (lawful through chaotic, good through evil).
 
 +--------------------------------+---------------------------------+-----------------------------------------------+
-| ###### [Familiar]  | ###### [Alignment]  | ###### [Arcane Spellcaster Level] |
+| ###### Familiar  | ###### Alignment  | ###### Arcane Spellcaster Level |
 +--------------------------------+---------------------------------+-----------------------------------------------+
-| [Shocker lizard]   | [Neutral]           | [5th]                             |
+| Shocker lizard   | Neutral           | 5th                             |
 +--------------------------------+---------------------------------+-----------------------------------------------+
-| [Stirge]           | [Neutral]           | [5th]                             |
+| Stirge           | Neutral           | 5th                             |
 +--------------------------------+---------------------------------+-----------------------------------------------+
-| [Formian worker]   | [Lawful neutral]    | [7th]                             |
+| Formian worker   | Lawful neutral    | 7th                             |
 +--------------------------------+---------------------------------+-----------------------------------------------+
-| [Imp]              | [Lawful evil]       | [7th]                             |
+| Imp              | Lawful evil       | 7th                             |
 +--------------------------------+---------------------------------+-----------------------------------------------+
-| [Pseudodragon]     | [Neutral good]      | [7th]                             |
+| Pseudodragon     | Neutral good      | 7th                             |
 +--------------------------------+---------------------------------+-----------------------------------------------+
-| [Quasit]           | [Chaotic evil]      | [7th]                             |
+| Quasit           | Chaotic evil      | 7th                             |
 +--------------------------------+---------------------------------+-----------------------------------------------+
 
-[Improved familiars otherwise use the rules for regular
-familiars]*[,]* [with two exceptions: If the
+Improved familiars otherwise use the rules for regular
+familiars*,* with two exceptions: If the
 creature's type is something other than animal, its type does not
 change; and improved familiars do not gain the ability to speak with
 other creatures of their kind (although many of them already have the
-ability to communicate).]
+ability to communicate).
 
-[The list in the table above presents only a few possible improved
+The list in the table above presents only a few possible improved
 familiars. Almost any creature of the same general size and power as
 those on the list makes a suitable familiar. Nor is the master's
 alignment the only possible categorization. For instance, improved
 familiars could be assigned by the master's creature type or subtype, as
-shown below.]
+shown below.
 
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| **[Familiar]**                    | **[Type/Subtype]** | ####### [Arcane Spellcaster Level] |
+| **Familiar**                    | **Type/Subtype** | ####### Arcane Spellcaster Level |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [Celestial                                    | [Good]             | [3rd]                              |
-| hawk]**^[1]^**        |                                |                                                |
+| Celestial                                    | Good             | 3rd                              |
+| hawk**^1^**        |                                |                                                |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [Fiendish Tiny viper                          | [Evil]             | [3rd]                              |
-| snake]**^[2]^**       |                                |                                                |
+| Fiendish Tiny viper                          | Evil             | 3rd                              |
+| snake**^2^**       |                                |                                                |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [Air elemental, Small]            | [Air]              | [5th]                              |
+| Air elemental, Small            | Air              | 5th                              |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [Earth elemental, Small]          | [Earth]            | [5th]                              |
+| Earth elemental, Small          | Earth            | 5th                              |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [Fire elemental, Small]           | [Fire]             | [5th]                              |
+| Fire elemental, Small           | Fire             | 5th                              |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [Shocker lizard]                  | [Electricity]      | [5th]                              |
+| Shocker lizard                  | Electricity      | 5th                              |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [Water elemental, Small]          | [Water]            | [5th]                              |
+| Water elemental, Small          | Water            | 5th                              |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [Homunculus]**^[3]^** | [Undead]           | [7th]                              |
+| Homunculus**^3^** | Undead           | 7th                              |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [Ice mephit]                      | [Cold]             | [7th]                              |
+| Ice mephit                      | Cold             | 7th                              |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [1 Or other celestial animal from the         |                                |                                                |
-| standard familiar list.]          |                                |                                                |
+| 1 Or other celestial animal from the         |                                |                                                |
+| standard familiar list.          |                                |                                                |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [2 Or other fiendish animal from the standard |                                |                                                |
-| familiar list.]                   |                                |                                                |
+| 2 Or other fiendish animal from the standard |                                |                                                |
+| familiar list.                   |                                |                                                |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
-| [3 The master must first create the           |                                |                                                |
+| 3 The master must first create the           |                                |                                                |
 | homunculus, substituting ichor or another     |                                |                                                |
 | part of the master's body for blood if        |                                |                                                |
-| necessary.]                       |                                |                                                |
+| necessary.                       |                                |                                                |
 +-----------------------------------------------+--------------------------------+------------------------------------------------+
 
-[IMPROVED FEINT \[GENERAL\]]
+### IMPROVED FEINT \[GENERAL\]
 
-**[Prerequisites:]** [Int 13, Combat Expertise.]
+**Prerequisites:** Int 13, Combat Expertise.
 
-**[Benefit:]** [You can make a Bluff check to feint in
-combat as a move action.]
+**Benefit:** You can make a Bluff check to feint in
+combat as a move action.
 
-**[Normal:]** [Feinting in combat is a standard
-action.]
+**Normal:** Feinting in combat is a standard
+action.
 
-[A fighter may select Improved Feint as one of his fighter bonus
-feats.]
+A fighter may select Improved Feint as one of his fighter bonus
+feats.
 
-[IMPROVED GRAPPLE \[GENERAL\]]
+### IMPROVED GRAPPLE \[GENERAL\]
 
-**[Prerequisites:]** [Dex 13, Improved Unarmed Strike.]
+**Prerequisites:** Dex 13, Improved Unarmed Strike.
 
-**[Benefit:]** [You do not provoke an attack of opportunity
+**Benefit:** You do not provoke an attack of opportunity
 when you make a touch attack to start a grapple. You also gain a +4
 bonus on all grapple checks, regardless of whether you started the
-grapple.]
+grapple.
 
-**[Normal:]** [Without this feat, you provoke an attack of
+**Normal:** Without this feat, you provoke an attack of
 opportunity when you make a touch attack to start a
-grapple.]
+grapple.
 
-**[Special:]** [A fighter may select Improved Grapple as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Improved Grapple as one
+of his fighter bonus feats.
 
-[A monk may select Improved Grapple as a bonus feat at 1st level, even
-if she does not meet the prerequisites.]
+A monk may select Improved Grapple as a bonus feat at 1st level, even
+if she does not meet the prerequisites.
 
-[IMPROVED INITIATIVE \[GENERAL\]]
+### IMPROVED INITIATIVE \[GENERAL\]
 
-**[Benefit:]** [You get a +4 bonus on initiative
-checks.]
+**Benefit:** You get a +4 bonus on initiative
+checks.
 
-**[Special:]** [A fighter may select Improved Initiative as
-one of his fighter bonus feats.]
+**Special:** A fighter may select Improved Initiative as
+one of his fighter bonus feats.
 
-IMPROVED OVERRUN \[GENERAL\]
+### IMPROVED OVERRUN \[GENERAL\]
 
 **Prerequisites:** Str 13, Power Attack.
 
@@ -911,272 +911,272 @@ can choose to avoid you or to block you.
 **Special:** A fighter may select Improved Overrun as one
 of his fighter bonus feats.
 
-[IMPROVED PRECISE SHOT \[GENERAL\]]
+### IMPROVED PRECISE SHOT \[GENERAL\]
 
-**[Prerequisites:]** [Dex 19, Point Blank Shot, Precise Shot, base attack bonus +11.]
+**Prerequisites:** Dex 19, Point Blank Shot, Precise Shot, base attack bonus +11.
 
-**[Benefit:]** [Your ranged attacks ignore the AC bonus
+**Benefit:** Your ranged attacks ignore the AC bonus
 granted to targets by anything less than total cover, and the miss
 chance granted to targets by anything less than total concealment. Total
 cover and total concealment provide their normal benefits against your
-ranged attacks.]
+ranged attacks.
 
-[In addition, when you shoot or throw ranged weapons at a grappling
+In addition, when you shoot or throw ranged weapons at a grappling
 opponent, you automatically strike at the opponent you have
-chosen.]
+chosen.
 
-**[Normal:]** [See the normal rules on the effects of cover
+**Normal:** See the normal rules on the effects of cover
 and concealment. Without this feat, a character who shoots or throws a
 ranged weapon at a target involved in a grapple must roll randomly to
-see which grappling combatant the attack strikes.]
+see which grappling combatant the attack strikes.
 
-**[Special:]** [A fighter may select Improved Precise Shot
-as one of his fighter bonus feats.]
+**Special:** A fighter may select Improved Precise Shot
+as one of his fighter bonus feats.
 
-[An 11th-level ranger who has chosen the archery combat style is treated
+An 11th-level ranger who has chosen the archery combat style is treated
 as having Improved Precise Shot, even if he does not have the
 prerequisites for it, but only when he is wearing light or no
-armor.]
+armor.
 
-[IMPROVED SHIELD BASH \[GENERAL\]]
+### IMPROVED SHIELD BASH \[GENERAL\]
 
-**[Prerequisite:]** [Shield Proficiency.]
+**Prerequisite:** Shield Proficiency.
 
-**[Benefit:]** [When you perform a shield bash, you may
-still apply the shield's shield bonus to your AC.]
+**Benefit:** When you perform a shield bash, you may
+still apply the shield's shield bonus to your AC.
 
-**[Normal:]** [Without this feat, a character who performs a
+**Normal:** Without this feat, a character who performs a
 shield bash loses the shield's shield bonus to AC until his or her next
-turn.]
+turn.
 
-**[Special:]** [A fighter may select Improved Shield Bash as
-one of his fighter bonus feats.]
+**Special:** A fighter may select Improved Shield Bash as
+one of his fighter bonus feats.
 
-[IMPROVED SUNDER \[GENERAL\]]
+### IMPROVED SUNDER \[GENERAL\]
 
-**[Prerequisites:]** [Str 13, Power Attack.]
+**Prerequisites:** Str 13, Power Attack.
 
-**[Benefit:]** [When you strike at an object held or carried
+**Benefit:** When you strike at an object held or carried
 by an opponent (such as a weapon or shield), you do not provoke an
-attack of opportunity.]
+attack of opportunity.
 
-[You also gain a +4 bonus on any attack roll made to attack an object
-held or carried by another character.]
+You also gain a +4 bonus on any attack roll made to attack an object
+held or carried by another character.
 
-**[Normal:]** [Without this feat, you provoke an attack of
+**Normal:** Without this feat, you provoke an attack of
 opportunity when you strike at an object held or carried by another
-character.]
+character.
 
-**[Special:]** [A fighter may select Improved Sunder as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Improved Sunder as one
+of his fighter bonus feats.
 
-[IMPROVED TRIP \[GENERAL\]]
+### IMPROVED TRIP \[GENERAL\]
 
-**[Prerequisites:]** [Int 13, Combat Expertise.]
+**Prerequisites:** Int 13, Combat Expertise.
 
-**[Benefit:]** [You do not provoke an attack of opportunity
+**Benefit:** You do not provoke an attack of opportunity
 when you attempt to trip an opponent while you are unarmed. You also
 gain a +4 bonus on your Strength check to trip your
-opponent.]
+opponent.
 
-[If you trip an opponent in melee combat, you immediately get a melee
+If you trip an opponent in melee combat, you immediately get a melee
 attack against that opponent as if you hadn't used your attack for the
-trip attempt.]
+trip attempt.
 
-**[Normal:]** [Without this feat, you provoke an attack of
+**Normal:** Without this feat, you provoke an attack of
 opportunity when you attempt to trip an opponent while you are
-unarmed.]
+unarmed.
 
-**[Special:]** [At 6th level, a monk may select Improved
+**Special:** At 6th level, a monk may select Improved
 Trip as a bonus feat, even if she does not have the
-prerequisites.]
+prerequisites.
 
-[A fighter may select Improved Trip as one of his fighter bonus
-feats.]
+A fighter may select Improved Trip as one of his fighter bonus
+feats.
 
-[IMPROVED TURNING \[GENERAL\]]
+### IMPROVED TURNING \[GENERAL\]
 
-**[Prerequisite:]** [Ability to turn or rebuke
-creatures.]
+**Prerequisite:** Ability to turn or rebuke
+creatures.
 
-**[Benefit:]** [You turn or rebuke creatures as if you were
+**Benefit:** You turn or rebuke creatures as if you were
 one level higher than you are in the class that grants you the
-ability.]
+ability.
 
-[IMPROVED TWO-WEAPON FIGHTING \[GENERAL\]]
+### IMPROVED TWO-WEAPON FIGHTING \[GENERAL\]
 
-**[Prerequisites:]** [Dex 17, Two-Weapon Fighting, base attack bonus +6.]
+**Prerequisites:** Dex 17, Two-Weapon Fighting, base attack bonus +6.
 
-**[Benefit:]** [In addition to the standard single extra
+**Benefit:** In addition to the standard single extra
 attack you get with an off-hand weapon, you get a second attack with it,
-albeit at a --5 penalty.]
+albeit at a --5 penalty.
 
-**[Normal:]** [Without this feat, you can only get a single
-extra attack with an off-hand weapon.]
+**Normal:** Without this feat, you can only get a single
+extra attack with an off-hand weapon.
 
-**[Special:]** [A fighter may select Improved Two-Weapon
-Fighting as one of his fighter bonus feats.]
+**Special:** A fighter may select Improved Two-Weapon
+Fighting as one of his fighter bonus feats.
 
-[A 6th-level ranger who has chosen the two-weapon combat style is
+A 6th-level ranger who has chosen the two-weapon combat style is
 treated as having Improved Two-Weapon Fighting, even if he does not have
 the prerequisites for it, but only when he is wearing light or no
-armor.]
+armor.
 
-[IMPROVED UNARMED STRIKE \[GENERAL\]]
+### IMPROVED UNARMED STRIKE \[GENERAL\]
 
-**[Benefit:]** [You are considered to be armed even when
+**Benefit:** You are considered to be armed even when
 unarmed ---that is, you do not provoke attacks or opportunity from armed
 opponents when you attack them while unarmed. However, you still get an
 attack of opportunity against any opponent who makes an unarmed attack
-on you.]
+on you.
 
-[In addition, your unarmed strikes can deal lethal or nonlethal damage,
-at your option.]
+In addition, your unarmed strikes can deal lethal or nonlethal damage,
+at your option.
 
-**[Normal:]** [Without this feat, you are considered unarmed
+**Normal:** Without this feat, you are considered unarmed
 when attacking with an unarmed strike, and you can deal only nonlethal
-damage with such an attack.]
+damage with such an attack.
 
-**[Special:]** [A monk automatically gains Improved Unarmed
+**Special:** A monk automatically gains Improved Unarmed
 Strike as a bonus feat at 1st level. She need not select
-it.]
+it.
 
-[A fighter may select Improved Unarmed Strike as one of his fighter
-bonus feats.]
+A fighter may select Improved Unarmed Strike as one of his fighter
+bonus feats.
 
-[INVESTIGATOR \[GENERAL\]]
+### INVESTIGATOR \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on all Gather Information
-checks and Search checks.]
+**Benefit:** You get a +2 bonus on all Gather Information
+checks and Search checks.
 
-[IRON WILL \[GENERAL\]]
+### IRON WILL \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on all Will saving
-throws.]
+**Benefit:** You get a +2 bonus on all Will saving
+throws.
 
-[LEADERSHIP \[GENERAL\]]
+### LEADERSHIP \[GENERAL\]
 
-**[Prerequisite:]** [Character level 6th.]
+**Prerequisite:** Character level 6th.
 
-**[Benefits:]** [Having this feat enables the character to
+**Benefits:** Having this feat enables the character to
 attract loyal companions and devoted followers, subordinates who assist
 her. See the table below for what sort of cohort and how many followers
-the character can recruit.]
+the character can recruit.
 
-**[Leadership Modifiers:]** [Several factors can affect a
+**Leadership Modifiers:** Several factors can affect a
 character's Leadership score, causing it to vary from the base score
 (character level + Cha modifier). A character's reputation (from the
 point of view of the cohort or follower he is trying to attract) raises
-or lowers his Leadership score:]
+or lowers his Leadership score:
 
 +-----------------------------------------+----------------------------+
-| **[Leader]['][s | ### [Modifier] |
-| Reputation]**               |                            |
+| **Leader's | ### Modifier |
+| Reputation**               |                            |
 +-----------------------------------------+----------------------------+
-| [Great renown]              | [+2]           |
+| Great renown              | +2           |
 +-----------------------------------------+----------------------------+
-| [Fairness and generosity]   | [+1]           |
+| Fairness and generosity   | +1           |
 +-----------------------------------------+----------------------------+
-| [Special power]             | [+1]           |
+| Special power             | +1           |
 +-----------------------------------------+----------------------------+
-| [Failure]                   | [--1]          |
+| Failure                   | --1          |
 +-----------------------------------------+----------------------------+
-| [Aloofness]                 | [--1]          |
+| Aloofness                 | --1          |
 +-----------------------------------------+----------------------------+
-| [Cruelty]                   | [--2]          |
+| Cruelty                   | --2          |
 +-----------------------------------------+----------------------------+
 
-[Other modifiers may apply when the character tries to attract a
-cohort:]
+Other modifiers may apply when the character tries to attract a
+cohort:
 
   ------------------------------------------------------------------- ----------------------------
-  **[The Leader . . .]**                                  **[Modifier]**
-  [Has a familiar, special mount, or animal companion]    [--2]
-  [Recruits a cohort of a different alignment]            [--1]
-  [Caused the death of a cohort]                          [--2\*]
-  [\* Cumulative per cohort killed.]                      
+  **The Leader . . .**                                  **Modifier**
+  Has a familiar, special mount, or animal companion    --2
+  Recruits a cohort of a different alignment            --1
+  Caused the death of a cohort                          --2\*
+  \* Cumulative per cohort killed.                      
   ------------------------------------------------------------------- ----------------------------
 
-[Followers have different priorities from cohorts. When the character
+Followers have different priorities from cohorts. When the character
 tries to attract a new follower, use any of the following modifiers that
-apply.]
+apply.
 
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| **[The Leader . .                 | **[Modifier]**    |                                                             |                   |                   |                   |                   |                   |
-| .]**                  |                               |                                                             |                   |                   |                   |                   |                   |
+| **The Leader . .                 | **Modifier**    |                                                             |                   |                   |                   |                   |                   |
+| .**                  |                               |                                                             |                   |                   |                   |                   |                   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [Has a stronghold, base of        | [+2]              |                                                             |                   |                   |                   |                   |                   |
+| Has a stronghold, base of        | +2              |                                                             |                   |                   |                   |                   |                   |
 | operations, guildhouse, or the    |                               |                                                             |                   |                   |                   |                   |                   |
-| like]                 |                               |                                                             |                   |                   |                   |                   |                   |
+| like                 |                               |                                                             |                   |                   |                   |                   |                   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [Moves around a lot]  | [--1]             |                                                             |                   |                   |                   |                   |                   |
+| Moves around a lot  | --1             |                                                             |                   |                   |                   |                   |                   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [Caused the death of other        | [--1.]            |                                                             |                   |                   |                   |                   |                   |
-| followers]            |                               |                                                             |                   |                   |                   |                   |                   |
+| Caused the death of other        | --1.            |                                                             |                   |                   |                   |                   |                   |
+| followers            |                               |                                                             |                   |                   |                   |                   |                   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| ## [Leadership Score] | ## [Cohort Level] | ## [------ Number of Followers by Level ------] |                   |                   |                   |                   |                   |
+| ## Leadership Score | ## Cohort Level | ## ------ Number of Followers by Level ------ |                   |                   |                   |                   |                   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
 |                                   |                               | **1st**                                                     | **2nd**           | **3rd**           | **4th**           | **5th**           | **6th**           |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [1 or lower]          | [---]             | [---]                                           | [---] | [---] | [---] | [---] | [---] |
+| 1 or lower          | ---             | ---                                           | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [2]                   | [1st]             | [---]                                           | [---] | [---] | [---] | [---] | [---] |
+| 2                   | 1st             | ---                                           | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [3]                   | [2nd]             | [---]                                           | [---] | [---] | [---] | [---] | [---] |
+| 3                   | 2nd             | ---                                           | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [4]                   | [3rd]             | [---]                                           | [---] | [---] | [---] | [---] | [---] |
+| 4                   | 3rd             | ---                                           | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [5]                   | [3rd]             | [---]                                           | [---] | [---] | [---] | [---] | [---] |
+| 5                   | 3rd             | ---                                           | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [6]                   | [4th]             | [---]                                           | [---] | [---] | [---] | [---] | [---] |
+| 6                   | 4th             | ---                                           | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [7]                   | [5th]             | [---]                                           | [---] | [---] | [---] | [---] | [---] |
+| 7                   | 5th             | ---                                           | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [8]                   | [5th]             | [---]                                           | [---] | [---] | [---] | [---] | [---] |
+| 8                   | 5th             | ---                                           | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [9]                   | [6th]             | [---]                                           | [---] | [---] | [---] | [---] | [---] |
+| 9                   | 6th             | ---                                           | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [10]                  | [7th]             | [5]                                             | [---] | [---] | [---] | [---] | [---] |
+| 10                  | 7th             | 5                                             | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [11]                  | [7th]             | [6]                                             | [---] | [---] | [---] | [---] | [---] |
+| 11                  | 7th             | 6                                             | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [12]                  | [8th]             | [8]                                             | [---] | [---] | [---] | [---] | [---] |
+| 12                  | 8th             | 8                                             | --- | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [13]                  | [9th]             | [10]                                            | [1]   | [---] | [---] | [---] | [---] |
+| 13                  | 9th             | 10                                            | 1   | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [14]                  | [10th]            | [15]                                            | [1]   | [---] | [---] | [---] | [---] |
+| 14                  | 10th            | 15                                            | 1   | --- | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [15]                  | [10th]            | [20]                                            | [2]   | [1]   | [---] | [---] | [---] |
+| 15                  | 10th            | 20                                            | 2   | 1   | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [16]                  | [11th]            | [25]                                            | [2]   | [1]   | [---] | [---] | [---] |
+| 16                  | 11th            | 25                                            | 2   | 1   | --- | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [17]                  | [12th]            | [30]                                            | [3]   | [1]   | [1]   | [---] | [---] |
+| 17                  | 12th            | 30                                            | 3   | 1   | 1   | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [18]                  | [12th]            | [35]                                            | [3]   | [1]   | [1]   | [---] | [---] |
+| 18                  | 12th            | 35                                            | 3   | 1   | 1   | --- | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [19]                  | [13th]            | [40]                                            | [4]   | [2]   | [1]   | [1]   | [---] |
+| 19                  | 13th            | 40                                            | 4   | 2   | 1   | 1   | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [20]                  | [14th]            | [50]                                            | [5]   | [3]   | [2]   | [1]   | [---] |
+| 20                  | 14th            | 50                                            | 5   | 3   | 2   | 1   | --- |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [21]                  | [15th]            | [60]                                            | [6]   | [3]   | [2]   | [1]   | [1]   |
+| 21                  | 15th            | 60                                            | 6   | 3   | 2   | 1   | 1   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [22]                  | [15th]            | [75]                                            | [7]   | [4]   | [2]   | [2]   | [1]   |
+| 22                  | 15th            | 75                                            | 7   | 4   | 2   | 2   | 1   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [23]                  | [16th]            | [90]                                            | [9]   | [5]   | [3]   | [2]   | [1]   |
+| 23                  | 16th            | 90                                            | 9   | 5   | 3   | 2   | 1   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [24]                  | [17th]            | [110]                                           | [11]  | [6]   | [3]   | [2]   | [1]   |
+| 24                  | 17th            | 110                                           | 11  | 6   | 3   | 2   | 1   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| [25 or higher]        | [17th]            | [135]                                           | [13]  | [7]   | [4]   | [2]   | [2]   |
+| 25 or higher        | 17th            | 135                                           | 13  | 7   | 4   | 2   | 2   |
 +-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
 
-*[Leadership Score:]* [A character's base Leadership score
+*Leadership Score:* A character's base Leadership score
 equals his level plus any Charisma modifier. In order to take into
 account negative Charisma modifiers, this table allows for very low
 Leadership scores, but the character must still be 6th level or higher
 in order to gain the Leadership feat. Outside factors can affect a
-character's Leadership score, as detailed above.]
+character's Leadership score, as detailed above.
 
-*[Cohort Level:]* [The character can attract a cohort of up
+*Cohort Level:* The character can attract a cohort of up
 to this level. Regardless of a character's Leadership score, he can only
 recruit a cohort who is two or more levels lower than himself. The
 cohort should be equipped with gear appropriate for its level. A
@@ -1184,204 +1184,204 @@ character can try to attract a cohort of a particular race, class, and
 alignment. The cohort's alignment may not be opposed to the leader's
 alignment on either the law-vs-chaos or good-vs-evil axis, and the
 leader takes a Leadership penalty if he recruits a cohort of an
-alignment different from his own.]
+alignment different from his own.
 
-[Cohorts earn XP as follows:]
+Cohorts earn XP as follows:
 
-[The cohort does not count as a party member when determining the
-party's XP.]
+The cohort does not count as a party member when determining the
+party's XP.
 
-[Divide the cohort's level by the level of the PC with whom he or she is
+Divide the cohort's level by the level of the PC with whom he or she is
 associated (the character with the Leadership feat who attracted the
-cohort).]
+cohort).
 
-[Multiply this result by the total XP awarded to the PC and add that
-number of experience points to the cohort's total.]
+Multiply this result by the total XP awarded to the PC and add that
+number of experience points to the cohort's total.
 
-[If a cohort gains enough XP to bring it to a level one lower than the
+If a cohort gains enough XP to bring it to a level one lower than the
 associated PC's character level, the cohort does not gain the new
 level---its new XP total is 1 less than the amount needed attain the
-next level.]
+next level.
 
-*[Number of Followers by Level:]* [The character can lead up
+*Number of Followers by Level:* The character can lead up
 to the indicated number of characters of each level. Followers are
 similar to cohorts, except they're generally low-level NPCs. Because
 they're generally five or more levels behind the character they follow,
-they're rarely effective in combat.]
+they're rarely effective in combat.
 
-[Followers don't earn experience and thus don't gain levels. However,
+Followers don't earn experience and thus don't gain levels. However,
 when a character with Leadership attains a new level, the player
 consults the table above to determine if she has acquired more
 followers, some of which may be higher level than the existing
 followers. (You don't consult the table to see if your cohort gains
 levels, however, because cohorts earn experience on their
-own.)]
+own.)
 
-[LIGHTNING REFLEXES \[GENERAL\]]
+### LIGHTNING REFLEXES \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on all Reflex saving
-throws.]
+**Benefit:** You get a +2 bonus on all Reflex saving
+throws.
 
-[MAGICAL APTITUDE \[GENERAL\]]
+### MAGICAL APTITUDE \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on all Spellcraft checks
-and Use Magic Device checks.]
+**Benefit:** You get a +2 bonus on all Spellcraft checks
+and Use Magic Device checks.
 
-[MANYSHOT \[GENERAL\]]
+### MANYSHOT \[GENERAL\]
 
-**[Prerequisites:]** [Dex 17, Point Blank Shot, Rapid Shot, base attack bonus +6]
+**Prerequisites:** Dex 17, Point Blank Shot, Rapid Shot, base attack bonus +6
 
-**[Benefit:]** [As a standard action, you may fire two
+**Benefit:** As a standard action, you may fire two
 arrows at a single opponent within 30 feet. Both arrows use the same
 attack roll (with a --4 penalty) to determine success and deal damage
-normally (but see Special).]
+normally (but see Special).
 
-[For every five points of base attack bonus you have above +6, you may
+For every five points of base attack bonus you have above +6, you may
 add one additional arrow to this attack, to a maximum of four arrows at
 a base attack bonus of +16. However, each arrow after the second adds a
 cumulative --2 penalty on the attack roll (for a total penalty of --6
-for three arrows and --8 for four).]
+for three arrows and --8 for four).
 
-[Damage reduction and other resistances apply separately against each
-arrow fired.]
+Damage reduction and other resistances apply separately against each
+arrow fired.
 
-**[Special:]** [Regardless of the number of arrows you fire,
+**Special:** Regardless of the number of arrows you fire,
 you apply precision-based damage only once. If you score a critical hit,
 only the first arrow fired deals critical damage; all others deal
-regular damage.]
+regular damage.
 
-[A fighter may select Manyshot as one of his fighter bonus
-feats.]
+A fighter may select Manyshot as one of his fighter bonus
+feats.
 
-[A 6th-level ranger who has chosen the archery combat style is treated
+A 6th-level ranger who has chosen the archery combat style is treated
 as having Manyshot even if he does not have the prerequisites for it,
-but only when he is wearing light or no armor.]
+but only when he is wearing light or no armor.
 
-[MARTIAL WEAPON PROFICIENCY \[GENERAL\]]
+### MARTIAL WEAPON PROFICIENCY \[GENERAL\]
 
-[Choose a type of martial weapon. You understand how to use that type of
-martial weapon in combat.]
+Choose a type of martial weapon. You understand how to use that type of
+martial weapon in combat.
 
-**[Benefit:]** [You make attack rolls with the selected
-weapon normally.]
+**Benefit:** You make attack rolls with the selected
+weapon normally.
 
-**[Normal:]** [When using a weapon with which you are not
-proficient, you take a --4 penalty on attack rolls.]
+**Normal:** When using a weapon with which you are not
+proficient, you take a --4 penalty on attack rolls.
 
-**[Special:]** [Barbarians, fighters, paladins, and rangers
+**Special:** Barbarians, fighters, paladins, and rangers
 are proficient with all martial weapons. They need not select this
-feat.]
+feat.
 
-[You can gain Martial Weapon Proficiency multiple times. Each time you
-take the feat, it applies to a new type of weapon.]
+You can gain Martial Weapon Proficiency multiple times. Each time you
+take the feat, it applies to a new type of weapon.
 
-[A cleric who chooses the War domain automatically gains the Martial
+A cleric who chooses the War domain automatically gains the Martial
 Weapon Proficiency feat related to his deity's favored weapon as a bonus
 feat, if the weapon is a martial one. He need not select
-it.]
+it.
 
-[MAXIMIZE SPELL \[METAMAGIC\]]
+### MAXIMIZE SPELL \[METAMAGIC\]
 
-**[Benefit:]** [All variable, numeric effects of a spell
+**Benefit:** All variable, numeric effects of a spell
 modified by this feat are maximized. Saving throws and opposed rolls are
 not affected, nor are spells without random variables. A maximized spell
 uses up a spell slot three levels higher than the spell's actual
-level.]
+level.
 
-[An empowered, maximized spell gains the separate benefits of each feat:
+An empowered, maximized spell gains the separate benefits of each feat:
 the maximum result plus one-half the normally rolled
-result.]
+result.
 
-[MOBILITY \[GENERAL\]]
+### MOBILITY \[GENERAL\]
 
-**[Prerequisites:]** [Dex 13, Dodge.]
+**Prerequisites:** Dex 13, Dodge.
 
-**[Benefit:]** [You get a +4 dodge bonus to Armor Class
+**Benefit:** You get a +4 dodge bonus to Armor Class
 against attacks of opportunity caused when you move out of or within a
 threatened area. A condition that makes you lose your Dexterity bonus to
-Armor Class (if any) also makes you lose dodge bonuses.]
+Armor Class (if any) also makes you lose dodge bonuses.
 
-[Dodge bonuses stack with each other, unlike most types of
-bonuses.]
+Dodge bonuses stack with each other, unlike most types of
+bonuses.
 
-**[Special:]** [A fighter may select Mobility as one of his
-fighter bonus feats.]
+**Special:** A fighter may select Mobility as one of his
+fighter bonus feats.
 
-[MOUNTED ARCHERY \[GENERAL\]]
+### MOUNTED ARCHERY \[GENERAL\]
 
-**[Prerequisites:]** [Ride 1 rank, Mounted Combat.]
+**Prerequisites:** Ride 1 rank, Mounted Combat.
 
-**[Benefit:]** [The penalty you take when using a ranged
+**Benefit:** The penalty you take when using a ranged
 weapon while mounted is halved: --2 instead of --4 if your mount is
 taking a double move, and --4 instead of --8 if your mount is
-running.]
+running.
 
-**[Special:]** [A fighter may select Mounted Archery as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Mounted Archery as one
+of his fighter bonus feats.
 
-[MOUNTED COMBAT \[GENERAL\]]
+### MOUNTED COMBAT \[GENERAL\]
 
-**[Prerequisite:]** [Ride 1 rank.]
+**Prerequisite:** Ride 1 rank.
 
-**[Benefit:]** [Once per round when your mount is hit in
+**Benefit:** Once per round when your mount is hit in
 combat, you may attempt a Ride check (as a reaction) to negate the hit.
 The hit is negated if your Ride check result is greater than the
 opponent's attack roll. (Essentially, the Ride check result becomes the
 mount's Armor Class if it's higher than the mount's regular
-AC.)]
+AC.)
 
-**[Special:]** [A fighter may select Mounted Combat as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Mounted Combat as one
+of his fighter bonus feats.
 
-[NATURAL SPELL \[GENERAL\]]
+### NATURAL SPELL \[GENERAL\]
 
-**[Prerequisites:]** [Wis 13, wild shape ability.]
+**Prerequisites:** Wis 13, wild shape ability.
 
-**[Benefit:]** [You can complete the verbal and somatic
+**Benefit:** You can complete the verbal and somatic
 components of spells while in a wild shape. You substitute various
 noises and gestures for the normal verbal and somatic components of a
-spell.]
+spell.
 
-[You can also use any material components or focuses you possess, even
+You can also use any material components or focuses you possess, even
 if such items are melded within your current form. This feat does not
 permit the use of magic items while you are in a form that could not
 ordinarily use them, and you do not gain the ability to speak while in a
-wild shape.]
+wild shape.
 
-[NEGOTIATOR \[GENERAL\]]
+### NEGOTIATOR \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on all Diplomacy checks
-and Sense Motive checks.]
+**Benefit:** You get a +2 bonus on all Diplomacy checks
+and Sense Motive checks.
 
-[NIMBLE FINGERS \[GENERAL\]]
+### NIMBLE FINGERS \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on all Disable Device
-checks and Open Lock checks.]
+**Benefit:** You get a +2 bonus on all Disable Device
+checks and Open Lock checks.
 
-[PERSUASIVE \[GENERAL\]]
+### PERSUASIVE \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on all Bluff checks and
-Intimidate checks.]
+**Benefit:** You get a +2 bonus on all Bluff checks and
+Intimidate checks.
 
-[POINT BLANK SHOT \[GENERAL\]]
+### POINT BLANK SHOT \[GENERAL\]
 
-**[Benefit:]** [You get a +1 bonus on attack and damage
-rolls with ranged weapons at ranges of up to 30 feet.]
+**Benefit:** You get a +1 bonus on attack and damage
+rolls with ranged weapons at ranges of up to 30 feet.
 
-**[Special:]** [A fighter may select Point Blank Shot as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Point Blank Shot as one
+of his fighter bonus feats.
 
-[POWER ATTACK \[GENERAL\]]
+### POWER ATTACK \[GENERAL\]
 
-**[Prerequisite:]** [Str 13.]
+**Prerequisite:** Str 13.
 
-**[Benefit:]** [On your action, before making attack rolls
+**Benefit:** On your action, before making attack rolls
 for a round, you may choose to subtract a number from all melee attack
 rolls and add the same number to all melee damage rolls. This number may
 not exceed your base attack bonus. The penalty on attacks and bonus on
-damage apply until your next turn.]
+damage apply until your next turn.
 
-**[Special:]** [If you attack with a two-handed weapon, or
+**Special:** If you attack with a two-handed weapon, or
 with a one-handed weapon wielded in two hands, instead add twice the
 number subtracted from your attack rolls. You can't add the bonus from
 Power Attack to the damage dealt with a light weapon (except with
@@ -1389,303 +1389,303 @@ unarmed strikes or natural weapon attacks), even though the penalty on
 attack rolls still applies. (Normally, you treat a double weapon as a
 one-handed weapon and a light weapon. If you choose to use a double
 weapon like a two-handed weapon, attacking with only one end of it in a
-round, you treat it as a two-handed weapon.)]
+round, you treat it as a two-handed weapon.)
 
-[A fighter may select Power Attack as one of his fighter bonus
-feats.]
+A fighter may select Power Attack as one of his fighter bonus
+feats.
 
-[PRECISE SHOT \[GENERAL\]]
+### PRECISE SHOT \[GENERAL\]
 
-**[Prerequisite:]** [Point Blank Shot.]
+**Prerequisite:** Point Blank Shot.
 
-**[Benefit:]** [You can shoot or throw ranged weapons at an
+**Benefit:** You can shoot or throw ranged weapons at an
 opponent engaged in melee without taking the standard --4 penalty on
-your attack roll.]
+your attack roll.
 
-**[Special:]** [A fighter may select Precise Shot as one of
-his fighter bonus feats.]
+**Special:** A fighter may select Precise Shot as one of
+his fighter bonus feats.
 
-[QUICK DRAW \[GENERAL\]]
+### QUICK DRAW \[GENERAL\]
 
-**[Prerequisite:]** [Base attack bonus +1.]
+**Prerequisite:** Base attack bonus +1.
 
-**[Benefit:]** [You can draw a weapon as a free action
+**Benefit:** You can draw a weapon as a free action
 instead of as a move action. You can draw a hidden weapon (see the
-Sleight of Hand skill) as a move action.]
+Sleight of Hand skill) as a move action.
 
-[A character who has selected this feat may throw weapons at his full
-normal rate of attacks (much like a character with a bow).]
+A character who has selected this feat may throw weapons at his full
+normal rate of attacks (much like a character with a bow).
 
-**[Normal:]** [Without this feat, you may draw a weapon as a
+**Normal:** Without this feat, you may draw a weapon as a
 move action, or (if your base attack bonus is +1 or higher) as a free
 action as part of movement. Without this feat, you can draw a hidden
-weapon as a standard action.]
+weapon as a standard action.
 
-**[Special:]** [A fighter may select Quick Draw as one of
-his fighter bonus feats.]
+**Special:** A fighter may select Quick Draw as one of
+his fighter bonus feats.
 
-[QUICKEN SPELL \[METAMAGIC\]]
+### QUICKEN SPELL \[METAMAGIC\]
 
-**[Benefit:]** [Casting a quickened spell is a free action.
+**Benefit:** Casting a quickened spell is a free action.
 You can perform another action, even casting another spell, in the same
 round as you cast a quickened spell. You may cast only one quickened
 spell per round. A spell whose casting time is more than 1 full round
 action cannot be quickened. A quickened spell uses up a spell slot four
 levels higher than the spell's actual level. Casting a quickened spell
-doesn't provoke an attack of opportunity.]
+doesn't provoke an attack of opportunity.
 
-**[Special:]** [This feat can't be applied to any spell cast
+**Special:** This feat can't be applied to any spell cast
 spontaneously (including sorcerer spells, bard spells, and cleric or
 druid spells cast spontaneously), since applying a metamagic feat to a
 spontaneously cast spell automatically increases the casting time to a
-full-round action.]
+full-round action.
 
-[RAPID RELOAD \[GENERAL\]]
+### RAPID RELOAD \[GENERAL\]
 
-[Choose a type of crossbow (hand, light, or heavy).]
+Choose a type of crossbow (hand, light, or heavy).
 
-**[Prerequisite:]** [Weapon Proficiency (crossbow type
-chosen).]
+**Prerequisite:** Weapon Proficiency (crossbow type
+chosen).
 
-**[Benefit:]** [The time required for you to reload your
+**Benefit:** The time required for you to reload your
 chosen type of crossbow is reduced to a free action (for a hand or light
 crossbow) or a move action (for a heavy crossbow). Reloading a crossbow
-still provokes an attack of opportunity.]
+still provokes an attack of opportunity.
 
-[If you have selected this feat for hand crossbow or light crossbow, you
+If you have selected this feat for hand crossbow or light crossbow, you
 may fire that weapon as many times in a full attack action as you could
-attack if you were using a bow.]
+attack if you were using a bow.
 
-**[Normal:]** [A character without this feat needs a move
+**Normal:** A character without this feat needs a move
 action to reload a hand or light crossbow, or a full-round action to
-reload a heavy crossbow.]
+reload a heavy crossbow.
 
-**[Special:]** [You can gain Rapid Reload multiple times.
+**Special:** You can gain Rapid Reload multiple times.
 Each time you take the feat, it applies to a new type of
-crossbow.]
+crossbow.
 
-[A fighter may select Rapid Reload as one of his fighter bonus
-feats.]
+A fighter may select Rapid Reload as one of his fighter bonus
+feats.
 
-[RAPID SHOT \[GENERAL\]]
+### RAPID SHOT \[GENERAL\]
 
-**[Prerequisites:]** [Dex 13, Point Blank Shot.]
+**Prerequisites:** Dex 13, Point Blank Shot.
 
-**[Benefit:]** [You can get one extra attack per round with
+**Benefit:** You can get one extra attack per round with
 a ranged weapon. The attack is at your highest base attack bonus, but
 each attack you make in that round (the extra one and the normal ones)
 takes a --2 penalty. You must use the full attack action to use this
-feat.]
+feat.
 
-**[Special:]** [A fighter may select Rapid Shot as one of
-his fighter bonus feats.]
+**Special:** A fighter may select Rapid Shot as one of
+his fighter bonus feats.
 
-[A 2nd-level ranger who has chosen the archery combat style is treated
+A 2nd-level ranger who has chosen the archery combat style is treated
 as having Rapid Shot, even if he does not have the prerequisites for it,
-but only when he is wearing light or no armor.]
+but only when he is wearing light or no armor.
 
-[RIDE-BY ATTACK \[GENERAL\]]
+### RIDE-BY ATTACK \[GENERAL\]
 
-**[Prerequisites:]** [Ride 1 rank, Mounted Combat.]
+**Prerequisites:** Ride 1 rank, Mounted Combat.
 
-**[Benefit:]** [When you are mounted and use the charge
+**Benefit:** When you are mounted and use the charge
 action, you may move and attack as if with a standard charge and then
 move again (continuing the straight line of the charge). Your total
 movement for the round can't exceed double your mounted speed. You and
 your mount do not provoke an attack of opportunity from the opponent
-that you attack.]
+that you attack.
 
-**[Special:]** [A fighter may select Ride-By Attack as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Ride-By Attack as one
+of his fighter bonus feats.
 
-[RUN \[GENERAL\]]
+### RUN \[GENERAL\]
 
-**[Benefit:]** [When running, you move five times your
+**Benefit:** When running, you move five times your
 normal speed (if wearing medium, light, or no armor and carrying no more
 than a medium load) or four times your speed (if wearing heavy armor or
 carrying a heavy load). If you make a jump after a running start (see
 the Jump skill description), you gain a +4 bonus on your Jump check.
-While running, you retain your Dexterity bonus to AC.]
+While running, you retain your Dexterity bonus to AC.
 
-**[Normal:]** [You move four times your speed while running
+**Normal:** You move four times your speed while running
 (if wearing medium, light, or no armor and carrying no more than a
 medium load) or three times your speed (if wearing heavy armor or
 carrying a heavy load), and you lose your Dexterity bonus to
-AC.]
+AC.
 
-[SCRIBE SCROLL \[ITEM CREATION\]]
+### SCRIBE SCROLL \[ITEM CREATION\]
 
-**[Prerequisite:]** [Caster level 1st.]
+**Prerequisite:** Caster level 1st.
 
-**[Benefit:]** [You can create a scroll of any spell that
+**Benefit:** You can create a scroll of any spell that
 you know. Scribing a scroll takes one day for each 1,000 gp in its base
 price. The base price of a scroll is its spell level x its caster level
 x 25 gp. To scribe a scroll, you must spend 1/25 of this base price in
 XP and use up raw materials costing one-half of this base
-price.]
+price.
 
-[Any scroll that stores a spell with a costly material component or an
+Any scroll that stores a spell with a costly material component or an
 XP cost also carries a commensurate cost. In addition to the costs
 derived from the base price, you must expend the material component or
-pay the XP when scribing the scroll.]
+pay the XP when scribing the scroll.
 
-[SELF-SUFFICIENT \[GENERAL\]]
+### SELF-SUFFICIENT \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on all Heal checks and
-Survival checks.]
+**Benefit:** You get a +2 bonus on all Heal checks and
+Survival checks.
 
-[SHIELD PROFICIENCY \[GENERAL\]]
+### SHIELD PROFICIENCY \[GENERAL\]
 
-**[Benefit:]** [You can use a shield and take only the
-standard penalties.]
+**Benefit:** You can use a shield and take only the
+standard penalties.
 
-**[Normal:]** [When you are using a shield with which you
+**Normal:** When you are using a shield with which you
 are not proficient, you take the shield's armor check penalty on attack
 rolls and on all skill checks that involve moving, including Ride
-checks.]
+checks.
 
-**[Special:]** [Barbarians, bards, clerics, druids,
+**Special:** Barbarians, bards, clerics, druids,
 fighters, paladins, and rangers automatically have Shield Proficiency as
-a bonus feat. They need not select it.]
+a bonus feat. They need not select it.
 
-[SHOT ON THE RUN \[GENERAL\]]
+### SHOT ON THE RUN \[GENERAL\]
 
-**[Prerequisites:]** [Dex 13, Dodge, Mobility, Point Blank Shot, base attack bonus +4.]
+**Prerequisites:** Dex 13, Dodge, Mobility, Point Blank Shot, base attack bonus +4.
 
-**[Benefit:]** [When using the attack action with a ranged
+**Benefit:** When using the attack action with a ranged
 weapon, you can move both before and after the attack, provided that
-your total distance moved is not greater than your speed.]
+your total distance moved is not greater than your speed.
 
-**[Special:]** [A fighter may select Shot on the Run as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Shot on the Run as one
+of his fighter bonus feats.
 
-[SILENT SPELL \[METAMAGIC\]]
+### SILENT SPELL \[METAMAGIC\]
 
-**[Benefit:]** [A silent spell can be cast with no verbal
+**Benefit:** A silent spell can be cast with no verbal
 components. Spells without verbal components are not affected. A silent
 spell uses up a spell slot one level higher than the spell's actual
-level.]
+level.
 
-**[Special:]** [Bard spells cannot be enhanced by this
-metamagic feat.]
+**Special:** Bard spells cannot be enhanced by this
+metamagic feat.
 
-[SIMPLE WEAPON PROFICIENCY \[GENERAL\]]
+### SIMPLE WEAPON PROFICIENCY \[GENERAL\]
 
-**[Benefit:]** [You make attack rolls with simple weapons
-normally.]
+**Benefit:** You make attack rolls with simple weapons
+normally.
 
-**[Normal:]** [When using a weapon with which you are not
-proficient, you take a --4 penalty on attack rolls.]
+**Normal:** When using a weapon with which you are not
+proficient, you take a --4 penalty on attack rolls.
 
-**[Special:]** [All characters except for druids, monks, and
+**Special:** All characters except for druids, monks, and
 wizards are automatically proficient with all simple weapons. They need
-not select this feat.]
+not select this feat.
 
-[SKILL FOCUS \[GENERAL\]]
+### SKILL FOCUS \[GENERAL\]
 
-[Choose a skill.]
+Choose a skill.
 
-**[Benefit:]** [You get a +3 bonus on all checks involving
-that skill.]
+**Benefit:** You get a +3 bonus on all checks involving
+that skill.
 
-**[Special:]** [You can gain this feat multiple times. Its
+**Special:** You can gain this feat multiple times. Its
 effects do not stack. Each time you take the feat, it applies to a new
-skill.]
+skill.
 
-[SNATCH ARROWS \[GENERAL\]]
+### SNATCH ARROWS \[GENERAL\]
 
-**[Prerequisites:]** [Dex 15, Deflect Arrows, Improved Unarmed Strike.]
+**Prerequisites:** Dex 15, Deflect Arrows, Improved Unarmed Strike.
 
-**[Benefit:]** [When using the Deflect Arrows feat you may
+**Benefit:** When using the Deflect Arrows feat you may
 catch the weapon instead of just deflecting it. Thrown weapons can
 immediately be thrown back at the original attacker (even though it
-isn't your turn) or kept for later use.]
+isn't your turn) or kept for later use.
 
-[You must have at least one hand free (holding nothing) to use this
-feat.]
+You must have at least one hand free (holding nothing) to use this
+feat.
 
-**[Special:]** [A fighter may select Snatch Arrows as one of
-his fighter bonus feats.]
+**Special:** A fighter may select Snatch Arrows as one of
+his fighter bonus feats.
 
-[SPELL FOCUS \[GENERAL\]]
+### SPELL FOCUS \[GENERAL\]
 
-[Choose a school of magic.]
+Choose a school of magic.
 
-**[Benefit:]** [Add +1 to the Difficulty Class for all
+**Benefit:** Add +1 to the Difficulty Class for all
 saving throws against spells from the school of magic you
-select.]
+select.
 
-**[Special:]** [You can gain this feat multiple times. Its
+**Special:** You can gain this feat multiple times. Its
 effects do not stack. Each time you take the feat, it applies to a new
-school of magic.]
+school of magic.
 
-[SPELL MASTERY \[SPECIAL\]]
+### SPELL MASTERY \[SPECIAL\]
 
-**[Prerequisite:]** [Wizard level 1st.]
+**Prerequisite:** Wizard level 1st.
 
-**[Benefit:]** [Each time you take this feat, choose a
+**Benefit:** Each time you take this feat, choose a
 number of spells equal to your Intelligence modifier that you already
 know. From that point on, you can prepare these spells without referring
-to a spellbook.]
+to a spellbook.
 
-**[Normal:]** [Without this feat, you must use a spellbook
-to prepare all your spells, except] *[read
-magic.]*
+**Normal:** Without this feat, you must use a spellbook
+to prepare all your spells, except *read
+magic.*
 
-[SPELL PENETRATION \[GENERAL\]]
+### SPELL PENETRATION \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on caster level checks
+**Benefit:** You get a +2 bonus on caster level checks
 (1d20 + caster level) made to overcome a creature's spell
-resistance.]
+resistance.
 
-[SPIRITED CHARGE \[GENERAL\]]
+### SPIRITED CHARGE \[GENERAL\]
 
-**[Prerequisites:]** [Ride 1 rank, Mounted Combat, Ride-By Attack.]
+**Prerequisites:** Ride 1 rank, Mounted Combat, Ride-By Attack.
 
-**[Benefit:]** [When mounted and using the charge action,
+**Benefit:** When mounted and using the charge action,
 you deal double damage with a melee weapon (or triple damage with a
-lance).]
+lance).
 
-**[Special:]** [A fighter may select Spirited Charge as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Spirited Charge as one
+of his fighter bonus feats.
 
-[SPRING ATTACK \[GENERAL\]]
+### SPRING ATTACK \[GENERAL\]
 
-**[Prerequisites:]** [Dex 13, Dodge, Mobility, base attack bonus +4.]
+**Prerequisites:** Dex 13, Dodge, Mobility, base attack bonus +4.
 
-**[Benefit:]** [When using the attack action with a melee
+**Benefit:** When using the attack action with a melee
 weapon, you can move both before and after the attack, provided that
 your total distance moved is not greater than your speed. Moving in this
 way does not provoke an attack of opportunity from the defender you
 attack, though it might provoke attacks of opportunity from other
 creatures, if appropriate. You can't use this feat if you are wearing
-heavy armor.]
+heavy armor.
 
-[You must move at least 5 feet both before and after you make your
-attack in order to utilize the benefits of Spring Attack.]
+You must move at least 5 feet both before and after you make your
+attack in order to utilize the benefits of Spring Attack.
 
-**[Special:]** [A fighter may select Spring Attack as one of
-his fighter bonus feats.]
+**Special:** A fighter may select Spring Attack as one of
+his fighter bonus feats.
 
-[STEALTHY \[GENERAL\]]
+### STEALTHY \[GENERAL\]
 
-**[Benefit:]** [You get a +2 bonus on all Hide checks and
-Move Silently checks.]
+**Benefit:** You get a +2 bonus on all Hide checks and
+Move Silently checks.
 
-[STILL SPELL \[METAMAGIC\]]
+### STILL SPELL \[METAMAGIC\]
 
-**[Benefit:]** [A stilled spell can be cast with no somatic
-components.]
+**Benefit:** A stilled spell can be cast with no somatic
+components.
 
-[Spells without somatic components are not affected. A stilled spell
+Spells without somatic components are not affected. A stilled spell
 uses up a spell slot one level higher than the spell's actual
-level.]
+level.
 
-[STUNNING FIST \[GENERAL\]]
+### STUNNING FIST \[GENERAL\]
 
-**[Prerequisites:]** [Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.]
+**Prerequisites:** Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.
 
-**[Benefit:]** [You must declare that you are using this
+**Benefit:** You must declare that you are using this
 feat before you make your attack roll (thus, a failed attack roll ruins
 the attempt). Stunning Fist forces a foe damaged by your unarmed attack
 to make a Fortitude saving throw (DC 10 + 1/2 your character level +
@@ -1696,281 +1696,281 @@ bonus to AC, and takes a --2 penalty to AC. You may attempt a stunning
 attack once per day for every four levels you have attained (but see
 Special), and no more than once per round. Constructs, oozes, plants,
 undead, incorporeal creatures, and creatures immune to critical hits
-cannot be stunned.]
+cannot be stunned.
 
-**[Special:]** [A monk may select Stunning Fist as a bonus
+**Special:** A monk may select Stunning Fist as a bonus
 feat at 1st level, even if she does not meet the prerequisites. A monk
 who selects this feat may attempt a stunning attack a number of times
 per day equal to her monk level, plus one more time per day for every
-four levels she has in classes other than monk.]
+four levels she has in classes other than monk.
 
-[A fighter may select Stunning Fist as one of his fighter bonus
-feats.]
+A fighter may select Stunning Fist as one of his fighter bonus
+feats.
 
-[TOUGHNESS \[GENERAL\]]
+### TOUGHNESS \[GENERAL\]
 
-**[Benefit:]** [You gain +3 hit points.]
+**Benefit:** You gain +3 hit points.
 
-**[Special:]** [A character may gain this feat multiple
-times. Its effects stack.]
+**Special:** A character may gain this feat multiple
+times. Its effects stack.
 
-[TOWER SHIELD PROFICIENCY \[GENERAL\]]
+### TOWER SHIELD PROFICIENCY \[GENERAL\]
 
-**[Prerequisite:]** [Shield Proficiency.]
+**Prerequisite:** Shield Proficiency.
 
-**[Benefit:]** [You can use a tower shield and suffer only
-the standard penalties.]
+**Benefit:** You can use a tower shield and suffer only
+the standard penalties.
 
-**[Normal:]** [A character who is using a shield with which
+**Normal:** A character who is using a shield with which
 he or she is not proficient takes the shield's armor check penalty on
 attack rolls and on all skill checks that involve moving, including
-Ride.]
+Ride.
 
-**[Special:]** [Fighters automatically have Tower Shield
-Proficiency as a bonus feat. They need not select it.]
+**Special:** Fighters automatically have Tower Shield
+Proficiency as a bonus feat. They need not select it.
 
-[TRACK \[GENERAL\]]
+### TRACK \[GENERAL\]
 
-**[Benefit:]** [To find tracks or to follow them for 1 mile
+**Benefit:** To find tracks or to follow them for 1 mile
 requires a successful Survival check. You must make another Survival
-check every time the tracks become difficult to follow.]
+check every time the tracks become difficult to follow.
 
-[You move at half your normal speed (or at your normal speed with a --5
+You move at half your normal speed (or at your normal speed with a --5
 penalty on the check, or at up to twice your normal speed with a --20
 penalty on the check). The DC depends on the surface and the prevailing
-conditions, as given on the table below:]
+conditions, as given on the table below:
 
 +-------------------------+------------------------------+-----------------------------------+--------------------+
-| # [Surface] | # [Survival DC]  | # [Surface Survival]  | # [DC] |
+| # Surface | # Survival DC  | # Surface Survival  | # DC |
 +-------------------------+------------------------------+-----------------------------------+--------------------+
-| [Very soft              | [5]              | [Firm ground]         | [15]   |
-| ground]     |                              |                                   |                    |
+| Very soft              | 5              | Firm ground         | 15   |
+| ground     |                              |                                   |                    |
 +-------------------------+------------------------------+-----------------------------------+--------------------+
-| [Soft                   | [10]             | [Hard ground]         | [20]   |
-| ground]     |                              |                                   |                    |
+| Soft                   | 10             | Hard ground         | 20   |
+| ground     |                              |                                   |                    |
 +-------------------------+------------------------------+-----------------------------------+--------------------+
 
-*[Very Soft Ground:]* [Any surface (fresh snow, thick dust,
-wet mud) that holds deep, clear impressions of footprints.]
+*Very Soft Ground:* Any surface (fresh snow, thick dust,
+wet mud) that holds deep, clear impressions of footprints.
 
-*[Soft Ground:]* [Any surface soft enough to yield to
+*Soft Ground:* Any surface soft enough to yield to
 pressure, but firmer than wet mud or fresh snow, in which a creature
-leaves frequent but shallow footprints.]
+leaves frequent but shallow footprints.
 
-*[Firm Ground:]* [Most normal outdoor surfaces (such as
+*Firm Ground:* Most normal outdoor surfaces (such as
 lawns, fields, woods, and the like) or exceptionally soft or dirty
 indoor surfaces (thick rugs and very dirty or dusty floors). The
 creature might leave some traces (broken branches or tufts of hair), but
-it leaves only occasional or partial footprints.]
+it leaves only occasional or partial footprints.
 
-*[Hard Ground:]* [Any surface that doesn't hold footprints
+*Hard Ground:* Any surface that doesn't hold footprints
 at all, such as bare rock or an indoor floor. Most streambeds fall into
 this category, since any footprints left behind are obscured or washed
 away. The creature leaves only traces (scuff marks or displaced
-pebbles).]
+pebbles).
 
-[Several modifiers may apply to the Survival check, as given on the
-table below.]
+Several modifiers may apply to the Survival check, as given on the
+table below.
 
 +-----------------------------------------------+--------------------------------------+
-| # [Condition]                     | # [Survival DC Modifier] |
+| # Condition                     | # Survival DC Modifier |
 +-----------------------------------------------+--------------------------------------+
-| [Every three creatures in the group being     | [--1]                    |
-| tracked]                          |                                      |
+| Every three creatures in the group being     | --1                    |
+| tracked                          |                                      |
 +-----------------------------------------------+--------------------------------------+
-| [Size of creature or creatures being          |                                      |
-| tracked:]**^[1]^**    |                                      |
+| Size of creature or creatures being          |                                      |
+| tracked:**^1^**    |                                      |
 +-----------------------------------------------+--------------------------------------+
-| [Fine]                            | [+8]                     |
+| Fine                            | +8                     |
 +-----------------------------------------------+--------------------------------------+
-| [Diminutive]                      | [+4]                     |
+| Diminutive                      | +4                     |
 +-----------------------------------------------+--------------------------------------+
-| [Tiny]                            | [+2]                     |
+| Tiny                            | +2                     |
 +-----------------------------------------------+--------------------------------------+
-| [Small]                           | [+1]                     |
+| Small                           | +1                     |
 +-----------------------------------------------+--------------------------------------+
-| [Medium]                          | [+0]                     |
+| Medium                          | +0                     |
 +-----------------------------------------------+--------------------------------------+
-| [Large]                           | [--1]                    |
+| Large                           | --1                    |
 +-----------------------------------------------+--------------------------------------+
-| [Huge]                            | [--2]                    |
+| Huge                            | --2                    |
 +-----------------------------------------------+--------------------------------------+
-| [Gargantuan]                      | [--4]                    |
+| Gargantuan                      | --4                    |
 +-----------------------------------------------+--------------------------------------+
-| [Colossal]                        | [--8]                    |
+| Colossal                        | --8                    |
 +-----------------------------------------------+--------------------------------------+
-| [Every 24 hours since the trail was           | [+1]                     |
-| made]                             |                                      |
+| Every 24 hours since the trail was           | +1                     |
+| made                             |                                      |
 +-----------------------------------------------+--------------------------------------+
-| [Every hour of rain since the trail was       | [+1]                     |
-| made]                             |                                      |
+| Every hour of rain since the trail was       | +1                     |
+| made                             |                                      |
 +-----------------------------------------------+--------------------------------------+
-| [Fresh snow cover since the trail was         | [+10]                    |
-| made]                             |                                      |
+| Fresh snow cover since the trail was         | +10                    |
+| made                             |                                      |
 +-----------------------------------------------+--------------------------------------+
-| [Poor                                         |                                      |
-| visibility:]**^[2]^** |                                      |
+| Poor                                         |                                      |
+| visibility:**^2^** |                                      |
 +-----------------------------------------------+--------------------------------------+
-| [Overcast or moonless night]      | [+6]                     |
+| Overcast or moonless night      | +6                     |
 +-----------------------------------------------+--------------------------------------+
-| [Moonlight]                       | [+3]                     |
+| Moonlight                       | +3                     |
 +-----------------------------------------------+--------------------------------------+
-| [Fog or precipitation]            | [+3]                     |
+| Fog or precipitation            | +3                     |
 +-----------------------------------------------+--------------------------------------+
-| [Tracked party hides trail (and moves at half | [+5]                     |
-| speed)]                           |                                      |
+| Tracked party hides trail (and moves at half | +5                     |
+| speed)                           |                                      |
 +-----------------------------------------------+--------------------------------------+
-| [1 For a group of mixed sizes, apply only the |                                      |
+| 1 For a group of mixed sizes, apply only the |                                      |
 | modifier for the largest size                 |                                      |
-| category.]                        |                                      |
+| category.                        |                                      |
 +-----------------------------------------------+--------------------------------------+
-| [2 Apply only the largest modifier from this  |                                      |
-| category.]                        |                                      |
+| 2 Apply only the largest modifier from this  |                                      |
+| category.                        |                                      |
 +-----------------------------------------------+--------------------------------------+
 
-[If you fail a Survival check, you can retry after 1 hour (outdoors) or
-10 minutes (indoors) of searching.]
+If you fail a Survival check, you can retry after 1 hour (outdoors) or
+10 minutes (indoors) of searching.
 
-**[Normal:]** [Without this feat, you can use the Survival
+**Normal:** Without this feat, you can use the Survival
 skill to find tracks, but you can follow them only if the DC for the
 task is 10 or lower. Alternatively, you can use the Search skill to find
 a footprint or similar sign of a creature's passage using the DCs given
 above, but you can't use Search to follow tracks, even if someone else
-has already found them.]
+has already found them.
 
-**[Special:]** [A ranger automatically has Track as a bonus
-feat. He need not select it.]
+**Special:** A ranger automatically has Track as a bonus
+feat. He need not select it.
 
-[This feat does not allow you to find or follow the tracks made by a
-subject of a] *[pass without trace]*
-[spell.]
+This feat does not allow you to find or follow the tracks made by a
+subject of a *pass without trace*
+spell.
 
-[TRAMPLE \[GENERAL\]]
+### TRAMPLE \[GENERAL\]
 
-**[Prerequisites:]** [Ride 1 rank, Mounted Combat.]
+**Prerequisites:** Ride 1 rank, Mounted Combat.
 
-**[Benefit:]** [When you attempt to overrun an opponent
+**Benefit:** When you attempt to overrun an opponent
 while mounted, your target may not choose to avoid you. Your mount may
 make one hoof attack against any target you knock down, gaining the
-standard +4 bonus on attack rolls against prone targets.]
+standard +4 bonus on attack rolls against prone targets.
 
-**[Special:]** [A fighter may select Trample as one of his
-fighter bonus feats.]
+**Special:** A fighter may select Trample as one of his
+fighter bonus feats.
 
-[TWO-WEAPON DEFENSE \[GENERAL\]]
+### TWO-WEAPON DEFENSE \[GENERAL\]
 
-**[Prerequisites:]** [Dex 15, Two-Weapon Fighting.]
+**Prerequisites:** Dex 15, Two-Weapon Fighting.
 
-**[Benefit:]** [When wielding a double weapon or two weapons
+**Benefit:** When wielding a double weapon or two weapons
 (not including natural weapons or unarmed strikes), you gain a +1 shield
-bonus to your AC.]
+bonus to your AC.
 
-[When you are fighting defensively or using the total defense action,
-this shield bonus increases to +2.]
+When you are fighting defensively or using the total defense action,
+this shield bonus increases to +2.
 
-**[Special:]** [A fighter may select Two-Weapon Defense as
-one of his fighter bonus feats.]
+**Special:** A fighter may select Two-Weapon Defense as
+one of his fighter bonus feats.
 
-[TWO-WEAPON FIGHTING \[GENERAL\]]
+### TWO-WEAPON FIGHTING \[GENERAL\]
 
-[You can fight with a weapon in each hand. You can make one extra attack
-each round with the second weapon.]
+You can fight with a weapon in each hand. You can make one extra attack
+each round with the second weapon.
 
-**[Prerequisite:]** [Dex 15.]
+**Prerequisite:** Dex 15.
 
-**[Benefit:]** [Your penalties on attack rolls for fighting
+**Benefit:** Your penalties on attack rolls for fighting
 with two weapons are reduced. The penalty for your primary hand lessens
-by 2 and the one for your off hand lessens by 6.]
+by 2 and the one for your off hand lessens by 6.
 
-**[Normal:]** [If you wield a second weapon in your off
+**Normal:** If you wield a second weapon in your off
 hand, you can get one extra attack per round with that weapon. When
 fighting in this way you suffer a --6 penalty with your regular attack
 or attacks with your primary hand and a --10 penalty to the attack with
 your off hand. If your off-hand weapon is light the penalties are
 reduced by 2 each. (An unarmed strike is always considered
-light.)]
+light.)
 
-**[Special:]** [A 2nd-level ranger who has chosen the
+**Special:** A 2nd-level ranger who has chosen the
 two-weapon combat style is treated as having Two-Weapon Fighting, even
 if he does not have the prerequisite for it, but only when he is wearing
-light or no armor.]
+light or no armor.
 
-[A fighter may select Two-Weapon Fighting as one of his fighter bonus
-feats.]
+A fighter may select Two-Weapon Fighting as one of his fighter bonus
+feats.
 
-[WEAPON FINESSE \[GENERAL\]]
+### WEAPON FINESSE \[GENERAL\]
 
-**[Prerequisite:]** [Base attack bonus +1.]
+**Prerequisite:** Base attack bonus +1.
 
-**[Benefit:]** [With a light weapon, rapier, whip, or spiked
+**Benefit:** With a light weapon, rapier, whip, or spiked
 chain made for a creature of your size category, you may use your
 Dexterity modifier instead of your Strength modifier on attack rolls. If
 you carry a shield, its armor check penalty applies to your attack
-rolls.]
+rolls.
 
-**[Special:]** [A fighter may select Weapon Finesse as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Weapon Finesse as one
+of his fighter bonus feats.
 
-[Natural weapons are always considered light weapons.]
+Natural weapons are always considered light weapons.
 
-[WEAPON FOCUS \[GENERAL\]]
+### WEAPON FOCUS \[GENERAL\]
 
-[Choose one type of weapon. You can also choose unarmed strike or
+Choose one type of weapon. You can also choose unarmed strike or
 grapple (or ray, if you are a spellcaster) as your weapon for purposes
-of this feat.]
+of this feat.
 
-**[Prerequisites:]** [Proficiency with selected weapon, base attack bonus +1.]
+**Prerequisites:** Proficiency with selected weapon, base attack bonus +1.
 
-**[Benefit:]** [You gain a +1 bonus on all attack rolls you
-make using the selected weapon.]
+**Benefit:** You gain a +1 bonus on all attack rolls you
+make using the selected weapon.
 
-**[Special:]** [You can gain this feat multiple times. Its
+**Special:** You can gain this feat multiple times. Its
 effects do not stack. Each time you take the feat, it applies to a new
-type of weapon.]
+type of weapon.
 
-[A fighter may select Weapon Focus as one of his fighter bonus feats. He
+A fighter may select Weapon Focus as one of his fighter bonus feats. He
 must have Weapon Focus with a weapon to gain the Weapon Specialization
-feat for that weapon.]
+feat for that weapon.
 
-[WEAPON SPECIALIZATION \[GENERAL\]]
+### WEAPON SPECIALIZATION \[GENERAL\]
 
-[Choose one type of weapon for which you have already selected the
+Choose one type of weapon for which you have already selected the
 Weapon Focus feat. You can also choose unarmed strike or grapple as your
 weapon for purposes of this feat. You deal extra damage when using this
-weapon.]
+weapon.
 
-**[Prerequisites:]** [Proficiency with selected weapon, Weapon Focus with selected weapon, fighter level 4th.]
+**Prerequisites:** Proficiency with selected weapon, Weapon Focus with selected weapon, fighter level 4th.
 
-**[Benefit:]** [You gain a +2 bonus on all damage rolls you
-make using the selected weapon.]
+**Benefit:** You gain a +2 bonus on all damage rolls you
+make using the selected weapon.
 
-**[Special:]** [You can gain this feat multiple times. Its
+**Special:** You can gain this feat multiple times. Its
 effects do not stack. Each time you take the feat, it applies to a new
-type of weapon.]
+type of weapon.
 
-[A fighter may select Weapon Specialization as one of his fighter bonus
-feats.]
+A fighter may select Weapon Specialization as one of his fighter bonus
+feats.
 
-[WHIRLWIND ATTACK \[GENERAL\]]
+### WHIRLWIND ATTACK \[GENERAL\]
 
-**[Prerequisites:]** [Dex 13, Int 13, Combat Expertise, Dodge, Mobility, Spring Attack, base attack bonus +4.]
+**Prerequisites:** Dex 13, Int 13, Combat Expertise, Dodge, Mobility, Spring Attack, base attack bonus +4.
 
-**[Benefit:]** [When you use the full attack action, you can
+**Benefit:** When you use the full attack action, you can
 give up your regular attacks and instead make one melee attack at your
-full base attack bonus against each opponent within reach.]
+full base attack bonus against each opponent within reach.
 
-[When you use the Whirlwind Attack feat, you also forfeit any bonus or
-extra attacks granted by other feats, spells, or abilities.]
+When you use the Whirlwind Attack feat, you also forfeit any bonus or
+extra attacks granted by other feats, spells, or abilities.
 
-**[Special:]** [A fighter may select Whirlwind Attack as one
-of his fighter bonus feats.]
+**Special:** A fighter may select Whirlwind Attack as one
+of his fighter bonus feats.
 
-[WIDEN SPELL \[METAMAGIC\]]
+### WIDEN SPELL \[METAMAGIC\]
 
-**[Benefit:]** [You can alter a burst, emanation, line, or
+**Benefit:** You can alter a burst, emanation, line, or
 spread shaped spell to increase its area. Any numeric measurements of
 the spell's area increase by 100%.A widened spell uses up a spell slot
-three levels higher than the spell's actual level.]
+three levels higher than the spell's actual level.
 
-[Spells that do not have an area of one of these four sorts are not
-affected by this feat.]
+Spells that do not have an area of one of these four sorts are not
+affected by this feat.

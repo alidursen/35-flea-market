@@ -1,27 +1,27 @@
 # Mystic Warrior
 
-|Level|Base<br>Attack Bonus|Fort<br>Save|Ref<br>Save|Will<br>Save|Special|Unarmed<br>Damage|AC<br>Bonus|Speed<br>Bonus|
-|--|--|--|--|--|--|--|--|--|
-|1|+1|+2|+2|+2|AC Bonus, Fast Movement, River's Unstoppable Flow, Unarmed Strike, Weapon Finesse, Weight Of The World|1d6|+1|+10 ft|
-|2|+2|+3|+3|+3|Font Of Health, Evasion|1d6|+1|+10 ft|
-|3|+3|+3|+3|+3|Bonus Feat, Diamond Mind, Slow Fall (20 ft.)|1d6|+1|+10 ft|
-|4|+4|+4|+4|+4|Mystic Strikes (magic)|1d6|+1|+10 ft|
-|5|+5|+4|+4|+4|Peace Within|1d8|+1|+20 ft|
-|6|+6/+1|+5|+5|+5|Bonus Feat, Lightning Strikes Twice|1d8|+2|+20 ft|
-|7|+7/+2|+5|+5|+5|Mystic Strikes (piercing or slashing), Slow Fall (40 ft.)|1d8|+2|+20 ft|
-|8|+8/+3|+6|+6|+6|Diamond Body, Walk The Earth|1d8|+2|+20 ft|
-|9|+9/+4|+6|+6|+6|Bonus Feat, Improved Evasion|2d6|+2|+30 ft|
-|10|+10/+5|+7|+7|+7|Improved Font Of Health, Mystic Strikes (lawful and cold iron)|2d6|+2|+30 ft|
-|11|+11/+6/+1|+7|+7|+7|River's Great Flow, Slow Fall (60 ft.)|2d6|+3|+30 ft|
-|12|+12/+7/+2|+8|+8|+8|Improved Peace Within|2d6|+3|+40 ft|
-|13|+13/+8/+3|+8|+8|+8|Diamond Soul, Mystic Strikes (piercing and slashing), Weapon Focus|2d8|+3|+40 ft|
-|14|+14/+9/+4|+9|+9|+9|Walk The Beyond|2d8|+3|+40 ft|
-|15|+15/+10/+5|+9|+9|+9|Slow Fall (unlimited), Tongue Of The Sun And Moon|2d8|+3|+50 ft|
-|16|+16/+11/+6/+1|+10|+10|+10|Lightning Strikes Thrice, Mystic Strikes (adamantine)|2d8|+4|+50 ft|
-|17|+17/+12/+7/+2|+10|+10|+10|Until The End Of Days|2d10|+4|+50 ft|
-|18|+18/+13/+8/+3|+11|+11|+11|Greater Font Of Health|2d10|+4|+60 ft|
-|19|+19/+14/+9/+4|+11|+11|+11||2d10|+4|+60 ft|
-|20|+20/+15/+10/+5|+12|+12|+12|Perfect Self|2d10|+4|+60 ft|
+|Level|Base<br>Attack Bonus|Fort<br>Save|Ref<br>Save|Will<br>Save|Special     |Unarmed<br>Damage|AC<br>Bonus|Speed<br>Bonus|
+|--   |--             |--  |--  |--  |--                                                                 |--   |-- |--     |
+|1    |+1             |+2  |+2  |+2  |AC Bonus, Fast Movement, River's Unstoppable Flow,<br>Unarmed Strike, Weapon Finesse, Weight Of The World |1d6 |+1 |+10 ft |
+|2    |+2             |+3  |+3  |+3  |Font Of Health, Evasion                                            |1d6  |+1 |+10 ft |
+|3    |+3             |+3  |+3  |+3  |Bonus Feat, Diamond Mind, Slow Fall (20 ft.)                       |1d6  |+1 |+10 ft |
+|4    |+4             |+4  |+4  |+4  |Mystic Strikes (magic)                                             |1d6  |+1 |+10 ft |
+|5    |+5             |+4  |+4  |+4  |Peace Within                                                       |1d8  |+1 |+20 ft |
+|6    |+6/+1          |+5  |+5  |+5  |Bonus Feat, Lightning Strikes Twice                                |1d8  |+2 |+20 ft |
+|7    |+7/+2          |+5  |+5  |+5  |Mystic Strikes (piercing or slashing), Slow Fall (40 ft.)          |1d8  |+2 |+20 ft |
+|8    |+8/+3          |+6  |+6  |+6  |Diamond Body, Walk The Earth                                       |1d8  |+2 |+20 ft |
+|9    |+9/+4          |+6  |+6  |+6  |Bonus Feat, Improved Evasion                                       |2d6  |+2 |+30 ft |
+|10   |+10/+5         |+7  |+7  |+7  |Improved Font Of Health, Mystic Strikes (lawful and cold iron)     |2d6  |+2 |+30 ft |
+|11   |+11/+6/+1      |+7  |+7  |+7  |River's Great Flow, Slow Fall (60 ft.)                             |2d6  |+3 |+30 ft |
+|12   |+12/+7/+2      |+8  |+8  |+8  |Improved Peace Within                                              |2d6  |+3 |+40 ft |
+|13   |+13/+8/+3      |+8  |+8  |+8  |Diamond Soul, Mystic Strikes (piercing and slashing), Weapon Focus |2d8  |+3 |+40 ft |
+|14   |+14/+9/+4      |+9  |+9  |+9  |Walk The Beyond                                                    |2d8  |+3 |+40 ft |
+|15   |+15/+10/+5     |+9  |+9  |+9  |Slow Fall (80 ft.), Tongue Of The Sun And Moon                     |2d8  |+3 |+50 ft |
+|16   |+16/+11/+6/+1  |+10 |+10 |+10 |Lightning Strikes Thrice, Mystic Strikes (adamantine)              |2d8  |+4 |+50 ft |
+|17   |+17/+12/+7/+2  |+10 |+10 |+10 |Until The End Of Days                                              |2d10 |+4 |+50 ft |
+|18   |+18/+13/+8/+3  |+11 |+11 |+11 |Greater Font Of Health                                             |2d10 |+4 |+60 ft |
+|19   |+19/+14/+9/+4  |+11 |+11 |+11 |Slow Fall (unlimited)                                              |2d10 |+4 |+60 ft |
+|20   |+20/+15/+10/+5 |+12 |+12 |+12 |Perfect Self                                                       |2d10 |+4 |+60 ft |
 
 **Class Skills (6+Int modifier per level, x4 at 1st level):** Balance, Climb, Concentration, Craft, Diplomacy, Escape Artist, Heal, Hide, Jump, Knowledge (arcana), Knowledge (history), Knowledge (religion), Listen, Move Silently, Perform, Profession, Sense Motive, Spot, Swim, Tumble.
 
@@ -59,12 +59,12 @@ A mystic warrior also deals more damage with their unarmed strikes than a normal
 ### Table: Small or Large Mystic Warrior Unarmed Damage
 
 |Level|Damage (Small)|Damage (Large)|
-|--|--|--|
-|1-4|1d4|1d8|
-|5-8|1d6|2d6|
-|9-12|1d10|3d6|
-|13-16|2d6|3d8|
-|17-20|2d8|4d8|
+|--   |--            |--            |
+|1-4  |1d4           |1d8           |
+|5-8  |1d6           |2d6           |
+|9-12 |1d10          |3d6           |
+|13-16|2d6           |3d8           |
+|17-20|2d8           |4d8           |
 
 **Weapon Finesse**: At 1st level, a mystic warrior gains Weapon Finesse as a bonus feat, allowing them to add their Dexterity bonus to attack rolls made with light weapons, rather than Strength.
 
@@ -86,7 +86,7 @@ Keep in mind that Improved Disarm, Improved Grapple, Improved Sunder, Improved T
 
 **Diamond Mind (Ex)**: A mystic warrior of 3rd level or higher gains a +2 bonus on saving throws against spells and effects from the school of enchantment.
 
-**Slow Fall (Ex)**: At 3rd level or higher, a mystic warrior within arm’s reach of a wall can use it to slow their descent. When first using this ability, they take damage as if the fall were 20 feet shorter than it actually is. The mystic warrior’s ability to slow their fall (that is, to reduce the effective distance of the fall when next to a wall) improves with their mystic warrior level until at 15th level they can use a nearby wall to slow their descent and fall any distance without harm.
+**Slow Fall (Ex)**: At 3rd level or higher, a mystic warrior within arm’s reach of a wall can use it to slow their descent. When first using this ability, they take damage as if the fall were 20 feet shorter than it actually is. The mystic warrior’s ability to slow their fall (that is, to reduce the effective distance of the fall when next to a wall) improves with their mystic warrior level until at 19th level they can use a nearby wall to slow their descent and fall any distance without harm.
 
 **Mystic Strikes (Su or Ex)**: At 4th level, a mystic warrior’s inner convictions turn into outer strength. Their unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction. Mystic strikes improves with the character’s mystic warrior level.
 
