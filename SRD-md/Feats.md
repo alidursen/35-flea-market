@@ -61,11 +61,11 @@ that level. To find the final price in each case, multiply the caster
 level by the spell level, then multiply the result by a constant, as
 shown below:
 
-*Scrolls:* Base price = spell level x caster level x 25 gp.
+*Scrolls:* Base price = spell level x caster level x 25 gp.
 
-*Potions:* Base price = spell level x caster level x 50 gp.
+*Potions:* Base price = spell level x caster level x 50 gp.
 
-*Wands:* Base price = spell level x caster level x 750 gp.
+*Wands:* Base price = spell level x caster level x 750 gp.
 
 A 0-level spell is considered to have a spell level of 1/2 for the
 purpose of this calculation.
@@ -316,13 +316,13 @@ are grappling or pinned.
 **Prerequisite:** Int 13.
 
 **Benefit:** When you use the attack action or the full attack action in
-melee, you can take a penalty of as much as --5 on your attack roll and
+melee, you can take a penalty of as much as -5 on your attack roll and
 add the same number (+5 or less) as a dodge bonus to your Armor Class.
 This number may not exceed your base attack bonus. The changes to attack
 rolls and Armor Class last until your next action.
 
 **Normal:** A character without the Combat Expertise feat can fight
-defensively while using the attack or full attack action to take a --4
+defensively while using the attack or full attack action to take a -4
 penalty on attack rolls and gain a +2 dodge bonus to Armor Class.
 
 **Special:** A fighter may select Combat Expertise as one of his fighter
@@ -460,7 +460,7 @@ Rope checks.
 
 **Prerequisite:** Endurance.
 
-**Benefit:** When reduced to between --1 and --9 hit points, you
+**Benefit:** When reduced to between -1 and -9 hit points, you
 automatically become stable. You don't have to roll d% to see if you
 lose 1 hit point each round.
 
@@ -475,11 +475,11 @@ action each turn, but not both, and you cannot take a full round action.
 You can take a move action without further injuring yourself, but if you
 perform any standard action (or any other action deemed as strenuous,
 including some free actions, such as casting a quickened spell) you take
-1 point of damage after completing the act. If you reach --10 hit
+1 point of damage after completing the act. If you reach -10 hit
 points, you immediately die.
 
-**Normal:** A character without this feat who is reduced to between --1
-and --9 hit points is unconscious and dying.
+**Normal:** A character without this feat who is reduced to between -1
+and -9 hit points is unconscious and dying.
 
 ### DILIGENT \[GENERAL\]
 
@@ -559,7 +559,7 @@ dwarven waraxe).
 **Benefit:** You make attack rolls with the weapon normally.
 
 **Normal:** A character who uses a weapon with which he or she is not
-proficient takes a --4 penalty on attack rolls.
+proficient takes a -4 penalty on attack rolls.
 
 **Special:** You can gain Exotic Weapon Proficiency multiple times. Each
 time you take the feat, it applies to a new type of exotic weapon.
@@ -663,7 +663,7 @@ with the one from Spell Penetration.
 **Prerequisites:** Dex 19, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11.
 
 **Benefit:** You get a third attack with your off-hand weapon, albeit at
-a --10 penalty.
+a -10 penalty.
 
 **Special:** A fighter may select Greater Two-Weapon Fighting as one of
 his fighter bonus feats.
@@ -792,25 +792,18 @@ also available to the spellcaster. The spellcaster may choose a familiar
 with an alignment up to one step away on each of the alignment axes
 (lawful through chaotic, good through evil).
 
-+--------------------------------+---------------------------------+-----------------------------------------------+
-| ###### Familiar  | ###### Alignment  | ###### Arcane Spellcaster Level |
-+--------------------------------+---------------------------------+-----------------------------------------------+
-| Shocker lizard   | Neutral           | 5th                             |
-+--------------------------------+---------------------------------+-----------------------------------------------+
-| Stirge           | Neutral           | 5th                             |
-+--------------------------------+---------------------------------+-----------------------------------------------+
-| Formian worker   | Lawful neutral    | 7th                             |
-+--------------------------------+---------------------------------+-----------------------------------------------+
-| Imp              | Lawful evil       | 7th                             |
-+--------------------------------+---------------------------------+-----------------------------------------------+
-| Pseudodragon     | Neutral good      | 7th                             |
-+--------------------------------+---------------------------------+-----------------------------------------------+
-| Quasit           | Chaotic evil      | 7th                             |
-+--------------------------------+---------------------------------+-----------------------------------------------+
+| Familiar | Alignment | Arcane Spellcaster Level |
+| -------- | --------- | ------------------------ |
+| Shocker lizard | Neutral | 5th |
+| Stirge | Neutral | 5th |
+| Formian worker | Lawful neutral | 7th |
+| Imp | Lawful evil | 7th |
+| Pseudodragon | Neutral good | 7th |
+| Quasit | Chaotic evil | 7th |
 
 Improved familiars otherwise use the rules for regular
-familiars*,* with two exceptions: If the
-creature's type is something other than animal, its type does not
+familiars, with two exceptions: If the creature's type
+is something other than animal, its type does not
 change; and improved familiars do not gain the ability to speak with
 other creatures of their kind (although many of them already have the
 ability to communicate).
@@ -822,40 +815,22 @@ alignment the only possible categorization. For instance, improved
 familiars could be assigned by the master's creature type or subtype, as
 shown below.
 
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| **Familiar**                    | **Type/Subtype** | ####### Arcane Spellcaster Level |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| Celestial                                    | Good             | 3rd                              |
-| hawk**^1^**        |                                |                                                |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| Fiendish Tiny viper                          | Evil             | 3rd                              |
-| snake**^2^**       |                                |                                                |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| Air elemental, Small            | Air              | 5th                              |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| Earth elemental, Small          | Earth            | 5th                              |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| Fire elemental, Small           | Fire             | 5th                              |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| Shocker lizard                  | Electricity      | 5th                              |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| Water elemental, Small          | Water            | 5th                              |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| Homunculus**^3^** | Undead           | 7th                              |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| Ice mephit                      | Cold             | 7th                              |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| 1 Or other celestial animal from the         |                                |                                                |
-| standard familiar list.          |                                |                                                |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| 2 Or other fiendish animal from the standard |                                |                                                |
-| familiar list.                   |                                |                                                |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
-| 3 The master must first create the           |                                |                                                |
-| homunculus, substituting ichor or another     |                                |                                                |
-| part of the master's body for blood if        |                                |                                                |
-| necessary.                       |                                |                                                |
-+-----------------------------------------------+--------------------------------+------------------------------------------------+
+| Familiar | Type/Subtype | Arcane Spellcaster Level |
+| -------- | ------------ | ------------------------ |
+| Celestial hawk¹ | Good | 3rd |
+| Fiendish Tiny viper snake² | Evil | 3rd |
+| Air elemental, Small | Air | 5th |
+| Earth elemental, Small | Earth | 5th |
+| Fire elemental, Small | Fire | 5th |
+| Shocker lizard | Electricity | 5th |
+| Water elemental, Small | Water | 5th |
+| Homunculus³ | Undead | 7th |
+| Ice mephit | Cold | 7th |
+
+1. Or other celestial animal from the standard familiar list.
+1. Or other fiendish animal from the standard familiar list.
+1. The master must first create the homunculus, substituting ichor
+or another part of the master's body for blood if necessary.
 
 ### IMPROVED FEINT \[GENERAL\]
 
@@ -891,8 +866,7 @@ if she does not meet the prerequisites.
 
 ### IMPROVED INITIATIVE \[GENERAL\]
 
-**Benefit:** You get a +4 bonus on initiative
-checks.
+**Benefit:** You get a +4 bonus on initiative checks.
 
 **Special:** A fighter may select Improved Initiative as
 one of his fighter bonus feats.
@@ -1069,105 +1043,65 @@ character's Leadership score, causing it to vary from the base score
 point of view of the cohort or follower he is trying to attract) raises
 or lowers his Leadership score:
 
-+-----------------------------------------+----------------------------+
-| **Leader's | ### Modifier |
-| Reputation**               |                            |
-+-----------------------------------------+----------------------------+
-| Great renown              | +2           |
-+-----------------------------------------+----------------------------+
-| Fairness and generosity   | +1           |
-+-----------------------------------------+----------------------------+
-| Special power             | +1           |
-+-----------------------------------------+----------------------------+
-| Failure                   | --1          |
-+-----------------------------------------+----------------------------+
-| Aloofness                 | --1          |
-+-----------------------------------------+----------------------------+
-| Cruelty                   | --2          |
-+-----------------------------------------+----------------------------+
+| Leader's Reputation | Modifier |
+| ------------------- | -------- |
+| Great renown | +2 |
+| Fairness and generosity | +1 |
+| Special power | +1 |
+| Failure | -1 |
+| Aloofness | -1 |
+| Cruelty | -2 |
 
 Other modifiers may apply when the character tries to attract a
 cohort:
 
-  ------------------------------------------------------------------- ----------------------------
-  **The Leader . . .**                                  **Modifier**
-  Has a familiar, special mount, or animal companion    --2
-  Recruits a cohort of a different alignment            --1
-  Caused the death of a cohort                          --2\*
-  \* Cumulative per cohort killed.                      
-  ------------------------------------------------------------------- ----------------------------
+| The Leader … | Modifier |
+| ------------ | -------- |
+| Has a familiar, special mount, or animal companion | -2 |
+| Recruits a cohort of a different alignment | -1 |
+| Caused the death of a cohort | -2\* |
+
+* Cumulative per cohort killed.
 
 Followers have different priorities from cohorts. When the character
 tries to attract a new follower, use any of the following modifiers that
 apply.
 
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| **The Leader . .                 | **Modifier**    |                                                             |                   |                   |                   |                   |                   |
-| .**                  |                               |                                                             |                   |                   |                   |                   |                   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| Has a stronghold, base of        | +2              |                                                             |                   |                   |                   |                   |                   |
-| operations, guildhouse, or the    |                               |                                                             |                   |                   |                   |                   |                   |
-| like                 |                               |                                                             |                   |                   |                   |                   |                   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| Moves around a lot  | --1             |                                                             |                   |                   |                   |                   |                   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| Caused the death of other        | --1.            |                                                             |                   |                   |                   |                   |                   |
-| followers            |                               |                                                             |                   |                   |                   |                   |                   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| ## Leadership Score | ## Cohort Level | ## ------ Number of Followers by Level ------ |                   |                   |                   |                   |                   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-|                                   |                               | **1st**                                                     | **2nd**           | **3rd**           | **4th**           | **5th**           | **6th**           |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 1 or lower          | ---             | ---                                           | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 2                   | 1st             | ---                                           | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 3                   | 2nd             | ---                                           | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 4                   | 3rd             | ---                                           | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 5                   | 3rd             | ---                                           | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 6                   | 4th             | ---                                           | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 7                   | 5th             | ---                                           | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 8                   | 5th             | ---                                           | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 9                   | 6th             | ---                                           | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 10                  | 7th             | 5                                             | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 11                  | 7th             | 6                                             | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 12                  | 8th             | 8                                             | --- | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 13                  | 9th             | 10                                            | 1   | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 14                  | 10th            | 15                                            | 1   | --- | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 15                  | 10th            | 20                                            | 2   | 1   | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 16                  | 11th            | 25                                            | 2   | 1   | --- | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 17                  | 12th            | 30                                            | 3   | 1   | 1   | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 18                  | 12th            | 35                                            | 3   | 1   | 1   | --- | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 19                  | 13th            | 40                                            | 4   | 2   | 1   | 1   | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 20                  | 14th            | 50                                            | 5   | 3   | 2   | 1   | --- |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 21                  | 15th            | 60                                            | 6   | 3   | 2   | 1   | 1   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 22                  | 15th            | 75                                            | 7   | 4   | 2   | 2   | 1   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 23                  | 16th            | 90                                            | 9   | 5   | 3   | 2   | 1   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 24                  | 17th            | 110                                           | 11  | 6   | 3   | 2   | 1   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
-| 25 or higher        | 17th            | 135                                           | 13  | 7   | 4   | 2   | 2   |
-+-----------------------------------+-------------------------------+-------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------+
+#### Table: Number of Followers by Level
+
+| The Leader … | Modifier |
+| ------------ | -------- |
+| Has a stronghold, base of operations, guildhouse, or the like | +2 |
+| Moves around a lot | -1 |
+| Caused the death of other followers | -1 |
+
+| Leadership Score | Cohort Level | 1st | 2nd | 3rd | 4th | 5th | 6th |
+| ---------------- | ------------ | --- | --- | --- | --- | --- | --- |
+| 1 or lower       | ---          | --- | --- | --- | --- | --- | --- |
+| 2                | 1st          | --- | --- | --- | --- | --- | --- |
+| 3                | 2nd          | --- | --- | --- | --- | --- | --- |
+| 4                | 3rd          | --- | --- | --- | --- | --- | --- |
+| 5                | 3rd          | --- | --- | --- | --- | --- | --- |
+| 6                | 4th          | --- | --- | --- | --- | --- | --- |
+| 7                | 5th          | --- | --- | --- | --- | --- | --- |
+| 8                | 5th          | --- | --- | --- | --- | --- | --- |
+| 9                | 6th          | --- | --- | --- | --- | --- | --- |
+| 10               | 7th          | 5   | --- | --- | --- | --- | --- |
+| 11               | 7th          | 6   | --- | --- | --- | --- | --- |
+| 12               | 8th          | 8   | --- | --- | --- | --- | --- |
+| 13               | 9th          | 10  | 1   | --- | --- | --- | --- |
+| 14               | 10th         | 15  | 1   | --- | --- | --- | --- |
+| 15               | 10th         | 20  | 2   | 1   | --- | --- | --- |
+| 16               | 11th         | 25  | 2   | 1   | --- | --- | --- |
+| 17               | 12th         | 30  | 3   | 1   | 1   | --- | --- |
+| 18               | 12th         | 35  | 3   | 1   | 1   | --- | --- |
+| 19               | 13th         | 40  | 4   | 2   | 1   | 1   | --- |
+| 20               | 14th         | 50  | 5   | 3   | 2   | 1   | --- |
+| 21               | 15th         | 60  | 6   | 3   | 2   | 1   | 1   |
+| 22               | 15th         | 75  | 7   | 4   | 2   | 2   | 1   |
+| 23               | 16th         | 90  | 9   | 5   | 3   | 2   | 1   |
+| 24               | 17th         | 110 | 11  | 6   | 3   | 2   | 1   |
+| 25 or higher     | 17th         | 135 | 13  | 7   | 4   | 2   | 2   |
 
 *Leadership Score:* A character's base Leadership score
 equals his level plus any Charisma modifier. In order to take into
@@ -1399,7 +1333,7 @@ feats.
 **Prerequisite:** Point Blank Shot.
 
 **Benefit:** You can shoot or throw ranged weapons at an
-opponent engaged in melee without taking the standard --4 penalty on
+opponent engaged in melee without taking the standard -4 penalty on
 your attack roll.
 
 **Special:** A fighter may select Precise Shot as one of
@@ -1474,7 +1408,7 @@ feats.
 **Benefit:** You can get one extra attack per round with
 a ranged weapon. The attack is at your highest base attack bonus, but
 each attack you make in that round (the extra one and the normal ones)
-takes a --2 penalty. You must use the full attack action to use this
+takes a -2 penalty. You must use the full attack action to use this
 feat.
 
 **Special:** A fighter may select Rapid Shot as one of
@@ -1575,7 +1509,7 @@ metamagic feat.
 normally.
 
 **Normal:** When using a weapon with which you are not
-proficient, you take a --4 penalty on attack rolls.
+proficient, you take a -4 penalty on attack rolls.
 
 **Special:** All characters except for druids, monks, and
 wizards are automatically proficient with all simple weapons. They need
@@ -1740,15 +1674,12 @@ penalty on the check, or at up to twice your normal speed with a --20
 penalty on the check). The DC depends on the surface and the prevailing
 conditions, as given on the table below:
 
-+-------------------------+------------------------------+-----------------------------------+--------------------+
-| # Surface | # Survival DC  | # Surface Survival  | # DC |
-+-------------------------+------------------------------+-----------------------------------+--------------------+
-| Very soft              | 5              | Firm ground         | 15   |
-| ground     |                              |                                   |                    |
-+-------------------------+------------------------------+-----------------------------------+--------------------+
-| Soft                   | 10             | Hard ground         | 20   |
-| ground     |                              |                                   |                    |
-+-------------------------+------------------------------+-----------------------------------+--------------------+
+| Surface          | Survival DC |
+| ---------------- | ----------- |
+| Very soft ground | 5           |
+| Soft ground      | 10          |
+| Firm ground      | 15          |
+| Hard ground      | 20          |
 
 *Very Soft Ground:* Any surface (fresh snow, thick dust,
 wet mud) that holds deep, clear impressions of footprints.
@@ -1772,61 +1703,30 @@ pebbles).
 Several modifiers may apply to the Survival check, as given on the
 table below.
 
-+-----------------------------------------------+--------------------------------------+
-| # Condition                     | # Survival DC Modifier |
-+-----------------------------------------------+--------------------------------------+
-| Every three creatures in the group being     | --1                    |
-| tracked                          |                                      |
-+-----------------------------------------------+--------------------------------------+
-| Size of creature or creatures being          |                                      |
-| tracked:**^1^**    |                                      |
-+-----------------------------------------------+--------------------------------------+
-| Fine                            | +8                     |
-+-----------------------------------------------+--------------------------------------+
-| Diminutive                      | +4                     |
-+-----------------------------------------------+--------------------------------------+
-| Tiny                            | +2                     |
-+-----------------------------------------------+--------------------------------------+
-| Small                           | +1                     |
-+-----------------------------------------------+--------------------------------------+
-| Medium                          | +0                     |
-+-----------------------------------------------+--------------------------------------+
-| Large                           | --1                    |
-+-----------------------------------------------+--------------------------------------+
-| Huge                            | --2                    |
-+-----------------------------------------------+--------------------------------------+
-| Gargantuan                      | --4                    |
-+-----------------------------------------------+--------------------------------------+
-| Colossal                        | --8                    |
-+-----------------------------------------------+--------------------------------------+
-| Every 24 hours since the trail was           | +1                     |
-| made                             |                                      |
-+-----------------------------------------------+--------------------------------------+
-| Every hour of rain since the trail was       | +1                     |
-| made                             |                                      |
-+-----------------------------------------------+--------------------------------------+
-| Fresh snow cover since the trail was         | +10                    |
-| made                             |                                      |
-+-----------------------------------------------+--------------------------------------+
-| Poor                                         |                                      |
-| visibility:**^2^** |                                      |
-+-----------------------------------------------+--------------------------------------+
-| Overcast or moonless night      | +6                     |
-+-----------------------------------------------+--------------------------------------+
-| Moonlight                       | +3                     |
-+-----------------------------------------------+--------------------------------------+
-| Fog or precipitation            | +3                     |
-+-----------------------------------------------+--------------------------------------+
-| Tracked party hides trail (and moves at half | +5                     |
-| speed)                           |                                      |
-+-----------------------------------------------+--------------------------------------+
-| 1 For a group of mixed sizes, apply only the |                                      |
-| modifier for the largest size                 |                                      |
-| category.                        |                                      |
-+-----------------------------------------------+--------------------------------------+
-| 2 Apply only the largest modifier from this  |                                      |
-| category.                        |                                      |
-+-----------------------------------------------+--------------------------------------+
+| Condition                                           | Survival DC Modifier |
+| --------------------------------------------------- | -------------------- |
+| Every three creatures in the group being tracked    | -1                   |
+| Size of creature or creatures being tracked:¹       |                      |
+| &emsp;&emsp;Fine                                    | +8                   |
+| &emsp;&emsp;Diminutive                              | +4                   |
+| &emsp;&emsp;Tiny                                    | +2                   |
+| &emsp;&emsp;Small                                   | +1                   |
+| &emsp;&emsp;Medium                                  | +0                   |
+| &emsp;&emsp;Large                                   | -1                   |
+| &emsp;&emsp;Huge                                    | -2                   |
+| &emsp;&emsp;Gargantuan                              | -4                   |
+| &emsp;&emsp;Colossal                                | -8                   |
+| Every 24 hours since the trail was made             | +1                   |
+| Every hour of rain since the trail was made         | +1                   |
+| Fresh snow cover since the trail was made           | +10                  |
+| Poor visibility:²                                   |                      |
+| &emsp;&emsp;Overcast or moonless night              | +6                   |
+| &emsp;&emsp;Moonlight                               | +3                   |
+| &emsp;&emsp;Fog or precipitation                    | +3                   |
+| Tracked party hides trail (and moves at half speed) | +5                   |
+
+1. For a group of mixed sizes, apply only the modifier for the largest size category.
+1. Apply only the largest modifier from this category.
 
 If you fail a Survival check, you can retry after 1 hour (outdoors) or
 10 minutes (indoors) of searching.
