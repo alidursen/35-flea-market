@@ -88,13 +88,13 @@ certain creatures (most commonly undead) as a domain power. (See Combat section 
 details.) These domains and affected creature types are reproduced below for
 convenience.
 
-* Plant: restrain and command plant creatures
-* Life: turn or destroy undead creatures
-* Undeath: restrain and command undead creatures
-* Fire: restrain and command fire creatures, turn and destroy water creatures
-* Water: restrain and command water creatures, turn and destroy fire creatures
-* Earth: restrain and command earth creatures, turn and destroy air creatures
 * Air: restrain and command air creatures, turn and destroy earth creatures
+* Earth: restrain and command earth creatures, turn and destroy air creatures
+* Fire: restrain and command fire creatures, turn and destroy water creatures
+* Life: turn or destroy undead creatures
+* Plant: restrain and command plant creatures
+* Undeath: restrain and command undead creatures
+* Water: restrain and command water creatures, turn and destroy fire creatures
 
 **Spells**: A god's voice casts divine spells, which are drawn from the
 god's voice spell list, as well as those granted by their domains.

@@ -1,7 +1,7 @@
 # FEINT
 
 Feinting is a standard action. To feint, make a Bluff check opposed by a
-Sense Motive check by your target. The target may add double the amount 
+Sense Motive check by your target. The target may add double the amount
 of extra attacks due to his base attack bonus (i.e. +2 at base attack bonus +6,
 +4 at base attack bonus +11 and +6 at base attack bonus +16 and up)
 to this Sense Motive check. If your Bluff check result exceeds

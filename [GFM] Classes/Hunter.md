@@ -43,6 +43,17 @@ of creature from the list below. The hunter gains +1 bonus  on Bluff, Listen, Se
 and Survival checks when using these skills against creatures of this type. Likewise, they get the
 same bonus on weapon damage rolls against such creatures.
 
+As a hunter gains levels, their bonus to skill checks and to damage rolls also increase,
+as indicated by the class progression table.
+
+While a hunter's immediate study applies to a limited set of creatures, they may have knowledge of
+multiple more. If they have 4 ranks in the Knowledge skill associated with a creature type (and subtype),
+they can add that type to their list of studied prey. For each rank above 4, they can add another type.
+These are in addition to the one they automatically get as part of this feature.
+For example, a Hunter with 6 ranks in Knowledge (arcana) has all constructs, dragons and magical
+beasts in their list of studied prey, as well as any other one creature type they desire, regardless
+of their Knowledge skills.
+
 | Type (Subtype)       | Associated Knowledge | Type (Subtype)       | Associated Knowledge |
 | -------------------- | -------------------- | -------------------- | -------------------- |
 | Aberration           | dungeoneering        | Humanoid (reptilian) | local                |
@@ -61,17 +72,6 @@ same bonus on weapon damage rolls against such creatures.
 | Humanoid (halfling)  | local                | Plant                | nature               |
 | Humanoid (human)     | local                | Undead               | religion             |
 | Humanoid (orc)       | local                | Vermin               | nature               |
-
-As a hunter gains levels, their bonus to skill checks and to damage rolls also increase,
-as indicated by the class progression table.
-
-While a hunter's immediate study applies to a limited set of creatures, they may have knowledge of
-multiple more. If they have 4 ranks in the Knowledge skill associated with a creature type (and subtype),
-they can add that type to their list of studied prey. For each rank above 4, they can add another type.
-These are in addition to the one they automatically get as part of this feature.
-For example, a Hunter with 6 ranks in Knowledge (arcana) has all constructs, dragons and magical
-beasts in their list of studied prey, as well as any other one creature type they desire, regardless
-of their Knowledge skills.
 
 A hunter can swap their active prey in 1 week of downtime. As they increase in levels,
 this restudying can be completed much more quickly.
@@ -136,8 +136,8 @@ hunter level. Like a wild childe, a hunter cannot select an alternative animal
 if the choice would reduce their effective wild childe level below 1st.
 
 **Studied Strikes (Ex)**: Starting at 4th level, a hunter's studies carry their
-strikes further. They gain +1 bonus made to melee attacks and ranged attacks within
-first range increment against their studied prey.
+strikes further. Against their studied prey, they gain +1 bonus made to melee
+attacks and ranged attacks within first range increment.
 
 This bonus increases to +2 at 10th level, and to +3 at 15th level.
 
