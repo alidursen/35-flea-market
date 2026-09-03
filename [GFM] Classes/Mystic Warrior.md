@@ -18,8 +18,8 @@
 | 14 | +14/+9/+4 | +9 | +9 | +9 | Walk The Beyond | 2d6 | +3 | +40 ft |
 | 15 | +15/+10/+5 | +9 | +9 | +9 | Slow Fall (80 ft.), Tongue Of The Sun And Moon | 2d6 | +3 | +50 ft |
 | 16 | +16/+11/+6/+1 | +10 | +10 | +10 | Lightning Strikes Thrice, Mystic Strikes (adamantine) | 3d6 | +4 | +50 ft |
-| 18 | +18/+13/+8/+3 | +11 | +11 | +11 | Greater Font Of Health | 3d6 | +4 | +60 ft |
 | 17 | +17/+12/+7/+2 | +10 | +10 | +10 | Until The End Of Days | 3d6 | +4 | +50 ft |
+| 18 | +18/+13/+8/+3 | +11 | +11 | +11 | Greater Font Of Health | 3d6 | +4 | +60 ft |
 | 19 | +19/+14/+9/+4 | +11 | +11 | +11 | Slow Fall (unlimited) | 3d6 | +4 | +60 ft |
 | 20 | +20/+15/+10/+5 | +12 | +12 | +12 | Perfect Self | 3d6 | +4 | +60 ft |
 
