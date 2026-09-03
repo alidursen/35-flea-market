@@ -3,11 +3,12 @@ from functools import total_ordering, reduce
 from typing import Callable
 
 baseline_fighter: dict[str, list[float]] = {
-    "attack_bonus":      [0,    4,    5,    6,    8,    9,    11,    11,    13,    14,    17,    18,    20,    22,    24,    25,    26,    27,    28,    29,    30],
-    "strike_chance":     [0,   57,   59,   61,   63,   65,    67,    69,    71,    73,    75,    77,    79,    81,    83,    85,    85,    85,    85,    85,    85],
-    "damage_per_strike": [0,  6.5,  6.5,  8.5, 11.5, 11.5,  12.5,    17,    17,    17,    19,    21,    24,  28.5,  29.5,  31.5,  31.5,  31.5,  31.5,  31.5,  33.5],
-    "overall_damage":    [0, 3.71, 3.84, 5.19, 7.25, 7.48, 13.63, 19.21, 19.89, 20.57, 23.75, 32.76, 38.88, 47.88, 51.33, 56.70, 59.85, 59.85, 59.85, 59.85, 63.65]
+    "attack_bonus":      [0,    3,    4,    6,    8,    9,    12,    13,    15,    16,    19,    21,    23,    25,    27,    29,    30,    31,    32,    33,    35],
+    "strike_chance":     [0,   55,   55,   60,   65,   65,    75,    75,    80,    80,    90,    95,    95,    95,   100,   105,   105,   105,   105,   105,   110],
+    "damage_per_strike": [0,  7.5,  7.5,  8.5, 11.5, 11.5,  11.5,    15,    15,    15,    17,    18,    21,  25.5,  26.5,  27.5,  27.5,  27.5,  27.5,  27.5,  28.5],
+    "strike_counter":    [0, 0.55, 0.55, 0.60, 0.65, 0.65,  1.25,  1.25,  1.35,  1.35,  1.55,  2.10,  2.10,  2.10,  2.20,  2.30,  2.60,  2.60,  2.60,  2.60,  2.75],
 }
+baseline_fighter["overall_damage"] = [baseline_fighter["damage_per_strike"][i]*baseline_fighter["strike_counter"][i] for i in range(21)]
 
 unarmed_upgrades = [(1,6), (1,8), (1,10), (2,6), (2,8), (3,6), (2,10), (3,8), (4,6), (4,8)]
 #                    3.5    4.5    5.5     7      9      10.5   11      13.5   14     18
@@ -27,7 +28,7 @@ class Mystic_Warrior:
         self.dmg = unarmed_upgrades[self.upgrades][0]*(unarmed_upgrades[self.upgrades][1]+1)/2.+self.wis+self.amulet
 
         _base = baseline_fighter["strike_chance"][self.level]+5*(self.atk-baseline_fighter["attack_bonus"][self.level])
-        self.chances = [_base-10, _base-10]
+        self.chances = [min(_base-10,95)]*2
         if self.level >= 6:
             self.chances.append(_base-35)
         if self.level >= 11:
@@ -158,26 +159,25 @@ if __name__=="__main__":
     # {'level': 4, 'wis': 1, 'amulet': 1}
     # {'level': 5, 'dex': 1}
     # {'level': 6, 'dex': 1, 'amulet': 1}
-    # {'level': 7, 'amulet': 1}
-    # {'level': 8, 'upgrades': 1}
-    # {'level': 9, 'dex': 1}
-    # {'level':10, 'upgrades': 1, 'dex': 1}
+    # {'level': 7, 'amulet': 1, 'focus': True}
     # . 
-    # {'level':12, 'dex': 2, 'wis': 1}
-    # {'level':13, 'upgrades': 2}
+    # {'level': 9, 'dex': 1}
+    # {'level':10, 'wis': 1, 'amulet': 1}
+    # . 
+    # {'level':12, 'dex': 1, 'wis': 2}
+    # {'level':13, 'upgrades': 2, 'amulet': 1}
     # {'level':14, 'upgrades': 1}
-    # {'level':15, 'focus': True}
+    # {'level':15, 'upgrades': 1}
     # {'level':16, 'upgrades': 1}
     # ... 
-    # {'level':20, 'wis': 1}
+    # {'level':20, 'dex': 1}
     # 
-    # error-squared sum: 8.442125, error sum: 5.985
+    # error-squared sum: 8.108125, error sum: 5.225
     #  
-    # to end up at Mystic_Warrior(20, dex:8, wis:5, unarmed: 2d10, amulet: +3, Weapon Focus: True)
+    # to end up at Mystic_Warrior(20, dex:7, wis:6, unarmed: 3d6, amulet: +5, Weapon Focus: True)
     # while we can accept the end result, progress has issues:
     # 1. wis is +2 from ASI, +2 from item while dex is +1 ASI, +4 item
-    # 2. amulets are too clumped: 4,6,7
-    # 3. damage upgrades are too clumped: 8,10,13,14,16
+    # 2. damage upgrades are too clumped: 13,13,14,15,16
     # 
     # instead try 
 
@@ -185,30 +185,28 @@ if __name__=="__main__":
         Mystic_Warrior(1, 2, 2, 0, 0, False),
         Mystic_Warrior(2, 2, 2, 0, 0, False),
         Mystic_Warrior(3, 2, 2, 0, 0, False),
-        Mystic_Warrior(4, 3, 2, 1, 1, False),
-        Mystic_Warrior(5, 3, 3, 1, 1, False),
-        Mystic_Warrior(6, 4, 3, 1, 1, False),
-        Mystic_Warrior(7, 4, 3, 2, 2, False),
-        Mystic_Warrior(8, 4, 3, 2, 2, False),
-        Mystic_Warrior(9, 5, 3, 2, 2, False),
-        Mystic_Warrior(10,5, 4, 2, 3, False),
-        Mystic_Warrior(11,5, 4, 2, 3, False),
-        Mystic_Warrior(12,7, 5, 2, 3, False),
-        Mystic_Warrior(13,7, 5, 3, 4, False),
-        Mystic_Warrior(14,7, 5, 3, 4, True ),
-        Mystic_Warrior(15,7, 5, 4, 4, True ),
-        Mystic_Warrior(16,7, 5, 4, 4, True ),
-        Mystic_Warrior(17,7, 5, 4, 4, True ),
-        Mystic_Warrior(18,7, 5, 4, 4, True ),
-        Mystic_Warrior(19,7, 5, 4, 4, True ),
-        Mystic_Warrior(20,7, 6, 4, 4, True ),
+        Mystic_Warrior(4, 3, 2, 0, 1, False),
+        Mystic_Warrior(5, 3, 3, 0, 1, False),
+        Mystic_Warrior(6, 4, 3, 0, 2, False),
+        Mystic_Warrior(7, 4, 3, 0, 2, True ),
+        Mystic_Warrior(8, 4, 3, 0, 3, True ),
+        Mystic_Warrior(9, 5, 3, 0, 3, True ),
+        Mystic_Warrior(10,5, 4, 1, 4, True ),
+        Mystic_Warrior(11,5, 4, 1, 4, True ),
+        Mystic_Warrior(12,6, 6, 1, 4, True ),
+        Mystic_Warrior(13,6, 6, 3, 5, True ),
+        Mystic_Warrior(14,6, 6, 3, 5, True ),
+        Mystic_Warrior(15,6, 6, 3, 5, True ),
+        Mystic_Warrior(16,6, 6, 5, 5, True ),
+        Mystic_Warrior(17,6, 6, 5, 5, True ),
+        Mystic_Warrior(18,6, 6, 5, 5, True ),
+        Mystic_Warrior(19,6, 6, 5, 5, True ),
+        Mystic_Warrior(20,7, 6, 5, 5, True ),
     ])
 
-    # to end up with Mystic_Warrior(20, dex:7, wis:6, unarmed: 2d8, amulet: +4, Weapon Focus: True) with
-    # error-squared sum: 17.458475, error sum: 4.755
+    # to end up with Mystic_Warrior(20, dex:7, wis:6, unarmed: 3d6, amulet: +5, Weapon Focus: True) with
+    # error-squared sum: 83.948125, error sum: 8.775
     # 
-    # some benefits of this progression scheme:
-    # 1. doesn't limit amulets to +5
-    # 2. individual strikes are more "balanced" towards flat bonus (2d8+10 vs 2d10+8)
-    # 
-    # one potential issue is how unarmed damage of 2d6 is only available for 2 levels (13 and 14) 
+    # this progress scheme spreads upgrades out and gives a tangible upgrade every 3 levels:
+    # 7 -> WF, 10 -> 1d8, 13 -> 2d6, 16 -> 3d6
+    # one issue is how late the first unarmed increase comes. 

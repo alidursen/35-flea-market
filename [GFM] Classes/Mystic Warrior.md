@@ -1,27 +1,27 @@
 # Mystic Warrior
 
-|Level|Base<br>Attack Bonus|Fort<br>Save|Ref<br>Save|Will<br>Save|Special     |Unarmed<br>Damage|AC<br>Bonus|Speed<br>Bonus|
-|--   |--             |--  |--  |--  |--                                                                 |--   |-- |--     |
-|1    |+1             |+2  |+2  |+2  |AC Bonus, Fast Movement, River's Unstoppable Flow,<br>Unarmed Strike, Weapon Finesse, Weight Of The World |1d6 |+1 |+10 ft |
-|2    |+2             |+3  |+3  |+3  |Font Of Health, Evasion                                            |1d6  |+1 |+10 ft |
-|3    |+3             |+3  |+3  |+3  |Bonus Feat, Diamond Mind, Slow Fall (20 ft.)                       |1d6  |+1 |+10 ft |
-|4    |+4             |+4  |+4  |+4  |Mystic Strikes (magic)                                             |1d8  |+1 |+10 ft |
-|5    |+5             |+4  |+4  |+4  |Peace Within                                                       |1d8  |+1 |+20 ft |
-|6    |+6/+1          |+5  |+5  |+5  |Bonus Feat, Lightning Strikes Twice                                |1d8  |+2 |+20 ft |
-|7    |+7/+2          |+5  |+5  |+5  |Mystic Strikes (piercing or slashing), Slow Fall (40 ft.)          |1d10 |+2 |+20 ft |
-|8    |+8/+3          |+6  |+6  |+6  |Diamond Body, Walk The Earth                                       |1d10 |+2 |+20 ft |
-|9    |+9/+4          |+6  |+6  |+6  |Bonus Feat, Improved Evasion                                       |1d10 |+2 |+30 ft |
-|10   |+10/+5         |+7  |+7  |+7  |Improved Font Of Health, Mystic Strikes (lawful and cold iron)     |1d10 |+2 |+30 ft |
-|11   |+11/+6/+1      |+7  |+7  |+7  |River's Great Flow, Slow Fall (60 ft.)                             |1d10 |+3 |+30 ft |
-|12   |+12/+7/+2      |+8  |+8  |+8  |Improved Peace Within                                              |1d10 |+3 |+40 ft |
-|13   |+13/+8/+3      |+8  |+8  |+8  |Diamond Soul, Mystic Strikes (piercing and slashing)               |2d6  |+3 |+40 ft |
-|14   |+14/+9/+4      |+9  |+9  |+9  |Walk The Beyond, Weapon Focus                                      |2d6  |+3 |+40 ft |
-|15   |+15/+10/+5     |+9  |+9  |+9  |Slow Fall (80 ft.), Tongue Of The Sun And Moon                     |2d8  |+3 |+50 ft |
-|16   |+16/+11/+6/+1  |+10 |+10 |+10 |Lightning Strikes Thrice, Mystic Strikes (adamantine)              |2d8  |+4 |+50 ft |
-|18   |+18/+13/+8/+3  |+11 |+11 |+11 |Greater Font Of Health                                             |2d8  |+4 |+60 ft |
-|17   |+17/+12/+7/+2  |+10 |+10 |+10 |Until The End Of Days                                              |2d8  |+4 |+50 ft |
-|19   |+19/+14/+9/+4  |+11 |+11 |+11 |Slow Fall (unlimited)                                              |2d8  |+4 |+60 ft |
-|20   |+20/+15/+10/+5 |+12 |+12 |+12 |Perfect Self                                                       |2d8  |+4 |+60 ft |
+| Level | Base<br>Attack Bonus | Fort<br>Save | Ref<br>Save | Will<br>Save | Special | Unarmed<br>Damage | AC<br>Bonus | Speed<br>Bonus |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 1 | +1 | +2 | +2 | +2 | AC Bonus, Fast Movement, River's Unstoppable Flow,<br>Unarmed Strike, Weapon Finesse, Weight Of The World | 1d6 | +1 | +10 ft |
+| 2 | +2 | +3 | +3 | +3 | Font Of Health, Evasion | 1d6 | +1 | +10 ft |
+| 3 | +3 | +3 | +3 | +3 | Bonus Feat, Diamond Mind, Slow Fall (20 ft.) | 1d6 | +1 | +10 ft |
+| 4 | +4 | +4 | +4 | +4 | Mystic Strikes (magic) | 1d6 | +1 | +10 ft |
+| 5 | +5 | +4 | +4 | +4 | Peace Within | 1d6 | +1 | +20 ft |
+| 6 | +6/+1 | +5 | +5 | +5 | Bonus Feat, Lightning Strikes Twice | 1d6 | +2 | +20 ft |
+| 7 | +7/+2 | +5 | +5 | +5 | Mystic Strikes (piercing or slashing), Slow Fall (40 ft.), Weapon Focus | 1d6 | +2 | +20 ft |
+| 8 | +8/+3 | +6 | +6 | +6 | Diamond Body, Walk The Earth | 1d6 | +2 | +20 ft |
+| 9 | +9/+4 | +6 | +6 | +6 | Bonus Feat, Improved Evasion | 1d6 | +2 | +30 ft |
+| 10 | +10/+5 | +7 | +7 | +7 | Improved Font Of Health, Mystic Strikes (lawful and cold iron) | 1d8 | +2 | +30 ft |
+| 11 | +11/+6/+1 | +7 | +7 | +7 | River's Great Flow, Slow Fall (60 ft.) | 1d8 | +3 | +30 ft |
+| 12 | +12/+7/+2 | +8 | +8 | +8 | Improved Peace Within | 1d8 | +3 | +40 ft |
+| 13 | +13/+8/+3 | +8 | +8 | +8 | Diamond Soul, Mystic Strikes (piercing and slashing) | 2d6 | +3 | +40 ft |
+| 14 | +14/+9/+4 | +9 | +9 | +9 | Walk The Beyond | 2d6 | +3 | +40 ft |
+| 15 | +15/+10/+5 | +9 | +9 | +9 | Slow Fall (80 ft.), Tongue Of The Sun And Moon | 2d6 | +3 | +50 ft |
+| 16 | +16/+11/+6/+1 | +10 | +10 | +10 | Lightning Strikes Thrice, Mystic Strikes (adamantine) | 3d6 | +4 | +50 ft |
+| 18 | +18/+13/+8/+3 | +11 | +11 | +11 | Greater Font Of Health | 3d6 | +4 | +60 ft |
+| 17 | +17/+12/+7/+2 | +10 | +10 | +10 | Until The End Of Days | 3d6 | +4 | +50 ft |
+| 19 | +19/+14/+9/+4 | +11 | +11 | +11 | Slow Fall (unlimited) | 3d6 | +4 | +60 ft |
+| 20 | +20/+15/+10/+5 | +12 | +12 | +12 | Perfect Self | 3d6 | +4 | +60 ft |
 
 **Class Skills (6+Int modifier per level, x4 at 1st level):** Balance, Climb, Concentration, Craft, Diplomacy, Escape Artist, Heal, Hide, Jump, Knowledge (arcana), Knowledge (history), Knowledge (religion), Listen, Move Silently, Perform, Profession, Sense Motive, Spot, Swim, Tumble.
 
@@ -60,11 +60,10 @@ A mystic warrior also deals more damage with their unarmed strikes than a normal
 
 |Level|Damage (Small)|Damage (Large)|
 |--   |--            |--            |
-|1-4  |1d4           |1d8           |
-|5-8  |1d6           |2d6           |
-|9-12 |1d10          |3d6           |
-|13-16|2d6           |3d8           |
-|17-20|2d8           |4d8           |
+|1-9  |1d4           |1d8           |
+|10-12|1d6           |2d6           |
+|13-15|1d10          |3d6           |
+|16-20|2d6           |4d6           |
 
 **Weapon Finesse**: At 1st level, a mystic warrior gains Weapon Finesse as a bonus feat, allowing them to add their Dexterity bonus to attack rolls made with light weapons, rather than Strength.
 
@@ -100,11 +99,13 @@ At 16th level, their unarmed attacks are treated as adamantine weapons for the p
 
 **Peace Within (Ex)**: At 5th level, a mystic warrior gains immunity to all diseases except for supernatural and magical diseases. At 12th level, immunity extends to supernatural and magical diseases as well.
 
-**Lightning Strikes Twice (Ex)**: At 6th level, an unarmored, unencumbered mystic warrior may strike a single opponent twice as a standard action. Make a single attack roll with a -4 penalty to determine if both strikes hit or miss. If a ranged weapon is used, opponent must be within 30 feet.
+**Lightning Strikes Twice (Ex)**: At 6th level, an unarmored, unencumbered mystic warrior may strike a single opponent twice as a standard action. Make a single attack roll with a -4 penalty to determine if both strikes hit or miss. If a ranged weapon is used, the target must be within 30 feet.
 
 Damage reduction and other resistances apply separately against each strike. Regardless of the number of strikes you make, you apply precision-based damage (such as from sneak attack) only once. If you score a critical hit, only the first strike deals critical damage; all others deal regular damage.
 
 Starting at 16th level, you may strike thrice but your attack penalty increases to -6 if you do so.
+
+**Weapon Focus**: At 7th level, a mystic warrior gains Weapon Focus, as a bonus feat, for their unarmed strikes. If they already have Weapon Focus (Unarmed Strike), they get to choose another weapon that they can use with River's Unstoppable Flow.
 
 **Diamond Body (Su)**: At 8th level, a mystic warrior gains immunity to poisons of all kinds.
 
@@ -113,8 +114,6 @@ Starting at 16th level, you may strike thrice but your attack penalty increases 
 **Diamond Soul (Su)**: At 13th level, a mystic warrior's defenses reach their pinnacle, they become like diamond in body, mind and soul. The mystic warrior gains spell resistance equal to their current mystic warrior level + 10. In addition, a mystic warrior can pick confidants up to their Wisdom bonus to open their souls to and exclude from this spell resistance. A mystic warrior can assign or remove one confidant in a day-long ritual that they both attend.
 
 **Walk The Beyond (Sp)**: At 14th level, a mystic warrior gains the ability to assume an ethereal state for 1 round per mystic warrior level per day, as though using the spell *ethereal jaunt*. They may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed their mystic warrior level.
-
-**Weapon Focus**: At 14th level, a mystic warrior gains Weapon Focus, as a bonus feat, for their unarmed strikes. If they already have Weapon Focus (Unarmed Strike), they get to choose another weapon that they can use with River's Unstoppable Flow.
 
 **Tongue of the Sun and Moon (Su and Ex)**: Some say there is only one real language under the sun, and the mystics agree. A mystic warrior of 15th level or higher can speak with any living, sentient creature (Su). This ability does not extend to reading and writing. They also add their Wisdom bonus to Diplomacy checks, in addition to their Charisma (Ex).
 
