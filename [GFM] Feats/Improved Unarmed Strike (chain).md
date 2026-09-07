@@ -13,12 +13,11 @@ at your option.
 
 Finally, you deal more damage with your fists, based on your base attack bonus.
 
-|Base attack bonus|Fist damage|
-|--|--|
-|0-5|1d3|
-|6-10|1d4|
-|11-15|1d6|
-|16-20|1d8|
+| Base attack bonus | Fist damage |
+| ----------------- | ----------- |
+| 0-10              | 1d4         |
+| 11-15             | 1d6         |
+| 16-20             | 1d8         |
 
 **Normal:** Without this feat, you are considered unarmed
 when attacking with an unarmed strike, and you can deal only nonlethal
@@ -43,15 +42,13 @@ effects can't be deflected.
 
 ## SNATCH ARROWS \[COMBAT\]
 
-**Prerequisites:** Deflect Arrows.
+**Prerequisites:** Dex 13, Deflect Arrows, Improved Unarmed Strike.
 
-**Benefit:** When using the Deflect Arrows feat you may
+**Benefit:** You must have at least one hand free (holding nothing) to use this
+feat. When using the Deflect Arrows feat you may
 catch the weapon instead of just deflecting it. Thrown weapons can
 immediately be thrown back at the original attacker (even though it
 isn't your turn) or kept for later use.
-
-You must have at least one hand free (holding nothing) to use this
-feat.
 
 **Special:** A mystic warrior may select Snatch Arrows as a bonus feat at 3rd, 6th or 9th levels,
 even if they do not meet the prerequisites.

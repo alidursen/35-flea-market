@@ -29,14 +29,21 @@
 | Gauntlet, locked      |8 gp   | -                     | -                     | Special               | -             | -             |+5 lb. |
 | Shield spikes         |+10 gp | -                     | -                     | -                     | -             | -             |+5 lb. |
 
-1. Weight figures are for armor sized to fit Medium characters. Armor fitted for Small characters weighs half as much, and armor fitted for Large characters weighs twice as much.
+1. Weight figures are for armor sized to fit Medium characters. Armor fitted for Small characters weighs half as much,
+   and armor fitted for Large characters weighs twice as much.
 1. When running in heavy armor, you move only triple your speed, not quadruple.
 1. A tower shield can instead grant you cover.
 
 ## Arcane Spell Failure
 
-Armor or encumbrance interferes with the gestures that a spellcaster must make to cast an arcane spell with a somatic component. Arcane spellcasters face the possibility of arcane spell failure if they’re wearing armor or affected by armor check penalty from any other source.
+Armor or encumbrance interferes with the gestures that a spellcaster must make to cast an arcane spell with a somatic
+component. Arcane spellcasters face the possibility of arcane spell failure if they’re wearing armor or affected by
+armor check penalty from any other source.
 
-When such a character casts a spell, they roll 1d20 with their armor check penalty included. If the result is 1 or less, the spell fails and is ruined.
+When such a character casts a spell, they make an arcane spell failure check, rolling a 1d20 with no bonuses and
+DC = 2 + their current armor check penalty. On failure, the spell fizzles and is ruined. For example, a magician
+in half-plate armor and wielding a light shield rolls 1d20 with DC 11.
 
 *Special*: Some arcane spellcasters such as bard or wanderer ignore arcane spell failure while wearing certain armor.
+These characters don't need to make arcane spell failure checks when wearing only such armor, and if they need to make
+arcane spell failure checks, they treat such armor's armor check penalty as 0 for this purpose.

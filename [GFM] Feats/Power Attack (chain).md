@@ -22,7 +22,7 @@ round, you treat it as a two-handed weapon.)
 
 ## CLEAVE \[COMBAT\]
 
-**Prerequisites:** Power Attack.
+**Prerequisites:** Str 13, Power Attack.
 
 **Benefit:** If you deal a creature enough damage to make it drop
 (typically by dropping it to below 0 hit points or killing it), you get
@@ -33,7 +33,7 @@ dropped the previous creature. You can use this ability once per round.
 
 ## GREAT CLEAVE \[COMBAT\]
 
-**Prerequisites:** Cleave, base attack bonus +4.
+**Prerequisites:** Str 13, Cleave, base attack bonus +4.
 
 **Benefit:** This feat works like Cleave, except that there is no limit
 to the number of times you can use it per round. You can take a single

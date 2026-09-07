@@ -78,7 +78,7 @@ this restudying can be completed much more quickly.
 
 **Track**: A hunter gains Track as a bonus feat.
 
-**Weapon Finesse**:A hunter gains Weapon Finesse as a bonus feat, allowing them to add
+**Weapon Finesse**: A hunter gains Weapon Finesse as a bonus feat, allowing them to add
 their Dexterity bonus to attack rolls made with light weapons, rather than Strength.
 
 **Combat Style (Ex)**: At 2nd level, a hunter selects one of two
@@ -202,7 +202,7 @@ gets a +2 bonus to skill checks and damage through studied prey,
 and a +1 bonus to attacks through studied strike features, but these bonuses do not
 increase at higher levels.
 
-Whenever a hunter changes their prey through restudy, they can also change extra
+Whenever a hunter changes their prey through restudy, they can also change their extra
 prey as well.
 
 **Camouflage (Ex)**: A hunter of 13th level or higher can use the Hide

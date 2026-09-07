@@ -19,7 +19,7 @@
 | 15  | +11/+6/+1          | +9         | +5        | +9         |                          | 8   | 1+4 | 1+4 | 1+3 | 1+3 | 1+2 | 1+2 | 1+1 | 0+1 | --- |
 | 16  | +12/+7/+2          | +10        | +5        | +10        | Extra Spark              | 9   | 1+4 | 1+4 | 1+4 | 1+3 | 1+2 | 1+2 | 1+1 | 1+1 | --- |
 | 17  | +12/+7/+2          | +10        | +5        | +10        |                          | 9   | 1+4 | 1+4 | 1+4 | 1+3 | 1+3 | 1+2 | 1+2 | 1+1 | 0+1 |
-| 18  | +13/+8/+3          | +11        | +6        | +11        |                          | 9   | 1+4 | 1+4 | 1+4 | 1+4 | 1+3 | 1+3 | 1+2 | 1+1 | 1+1 |
+| 18  | +13/+8/+3          | +11        | +6        | +11        |                          | 9   | 1+4 | 1+4 | 1+4 | 1+4 | 1+3 | 1+3 | 1+2 | 1+1 | 0+1 |
 | 19  | +14/+9/+4          | +11        | +6        | +11        |                          | 10  | 1+4 | 1+4 | 1+4 | 1+4 | 1+3 | 1+3 | 1+2 | 1+2 | 1+1 |
 | 20  | +15/+10/+5         | +12        | +6        | +12        |                          | 10  | 1+4 | 1+4 | 1+4 | 1+4 | 1+3 | 1+3 | 1+3 | 1+2 | 1+2 |
 
@@ -70,7 +70,7 @@ a chaotic good voice of a neutral good god has a strong good aura, while a chaot
 good voice of a chaotic neutral god would have a strong chaos aura. Similarly, a
 neutral good voice of a chaotic good god would only have an aura of good.
 
-**Godly Spark**: A voice is blessed by their god. A voice has godly sparks equal to
+**Godly Spark (Su)**: A voice is blessed by their god. A voice has godly sparks equal to
 their Charisma modifier that they can use to bend their luck. These sparks can be
 spent after making a check or roll (but before the result is announced) to gain a
 bonus, as follows:
@@ -141,7 +141,7 @@ their prepared spells and cast any spell with "inflict" in its name
 of the same spell level or lower.
 
 Lawful neutral voices of lawful neutral gods, or chaotic neutral voices
-of chaotic neutral gods much decide whether they'll convert to *cure*
+of chaotic neutral gods must decide whether they'll convert to *cure*
 spells or *inflict* spells. Once the choice is made, it cannot be
 reversed. Neutral voices of neutral gods, on the other hand, can choose
 to convert to either per each casting, as they see fit.
@@ -168,7 +168,7 @@ gaining a cohort and followers. These followers are believers of the voice's god
 ### Ex-Voices
 
 A god's voice who grossly violates the code of conduct required by their god
-loses all spells, domains, domain powers, their aura and any bonus feats.
+loses all spells, domains, domain powers and their aura.
 They cannot thereafter gain levels as that god's voice until they atone
 (see the *atonement* spell description). If they wish to become a new god's
 voice, usually an established voice of that god puts them to a quest
@@ -179,7 +179,7 @@ the Leadership feat depart, on a base ratio of 10% and increased by 20% for
 each alignment step the new god differs from their original god. For example, if
 a neutral good god's voice became a different neutral good god's voice, 90%
 of their followers would remain, but if instead became a neutral evil god's
-voice, only 50% of them would remain. Their cohort would leave or depart,
+voice, only 50% of them would remain. Their cohort would leave or depart
 with a percent chance same as the departure ratio. Due to the influx of followers
 with god's voices, every religion tries to convert high-level god's voices
 into their own faith.
@@ -188,5 +188,6 @@ If a god's voice simply loses access to divine abilities due to a violation
 of their god's code, followers and cohorts do not leave unless this fact is
 made public. If made public, departure ratio/chance is only 5%.
 
-Follower counts are restored by 5% every two months, this time with believers
-of the new god. Similarly, a new god's voice finds their new cohort in 2 months.
+Follower counts are restored by 5% every two months, up to the usual maximum,
+this time with believers of the new god. Similarly, a new god's voice finds their
+new cohort in 2 months.
