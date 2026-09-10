@@ -1061,19 +1061,19 @@ cohort:
 | Recruits a cohort of a different alignment | -1 |
 | Caused the death of a cohort | -2\* |
 
-* Cumulative per cohort killed.
+\* Cumulative per cohort killed.
 
 Followers have different priorities from cohorts. When the character
 tries to attract a new follower, use any of the following modifiers that
 apply.
-
-#### Table: Number of Followers by Level
 
 | The Leader … | Modifier |
 | ------------ | -------- |
 | Has a stronghold, base of operations, guildhouse, or the like | +2 |
 | Moves around a lot | -1 |
 | Caused the death of other followers | -1 |
+
+#### Table: Number of Followers by Level
 
 | Leadership Score | Cohort Level | 1st | 2nd | 3rd | 4th | 5th | 6th |
 | ---------------- | ------------ | --- | --- | --- | --- | --- | --- |

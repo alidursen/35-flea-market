@@ -36,14 +36,14 @@ unless their deity is also neutral, in which case they *must* be neutral.
 
 ## Class Features
 
-**Weapon and Armor Proficiency**: A god's voice is proficient with all simple weapons, light armor, medium
-armor and shields (except tower shields).
+**Weapon and Armor Proficiency**: A god's voice is proficient with all simple
+weapons, light armor, medium armor and shields (except tower shields).
 
 **Deity, Domains, and Domain Spells**: A voices's god influences their
 alignment, what magic they can perform, their values, and how others see
 them. A god's voice initially chooses two domains from among those belonging
-to their deity. A god's voice can select an alignment domain (Chaos, Evil, Good, or
-Law) only if their alignment matches that domain.
+to their deity. A god's voice can select an alignment domain (Chaos, Evil, Good,
+or Law) only if their alignment matches that domain.
 
 Each domain gives the god's voice access to a domain spell at each spell
 level they can cast, from 1st on up, as well as a granted power. The
@@ -57,12 +57,12 @@ and class skills as part of their domain powers. These are reproduced below for 
 
 * Animal and Plant domains grant Knowledge (nature) as a class skill.
 * Knowledge domain grants all Knowledge skills as class skills, as well as
-+1 skill point per level that can be spent only on Knowledge skills.
+  +1 skill point per level that can be spent only on Knowledge skills.
 * Travel domain grants Survival as a class skill.
 * Trickery domain grants Bluff, Disguise and Hide as class skills.
 * War domain grants Armor Proficiency (Heavy) and Weapon Focus with deity's
-favored weapon. If the deity's favored weapon is martial or exotic, it
-also grants the corresponding Weapon Proficiency (Martial or Exotic) as well.
+  favored weapon. If the deity's favored weapon is martial or exotic, it
+  also grants the corresponding Weapon Proficiency (Martial or Exotic) as well.
 
 **Aura (Ex)**: Voices of gods have particularly powerful alignment auras (see
 the *detect evil* spell) for components matching their deity's alignment. For example,
@@ -81,20 +81,9 @@ bonus, as follows:
 * Skill checks: +3
 * Initiative checks: +4
 
+Some domains grant additional ways to spend godly sparks.
+
 Spent sparks are restored when a god's voice prepares their spells.
-
-**Turning or Restraining Creatures**: Some god's voices have the power to effect
-certain creatures (most commonly undead) as a domain power. (See Combat section for
-details.) These domains and affected creature types are reproduced below for
-convenience.
-
-* Air: restrain and command air creatures, turn and destroy earth creatures
-* Earth: restrain and command earth creatures, turn and destroy air creatures
-* Fire: restrain and command fire creatures, turn and destroy water creatures
-* Life: turn or destroy undead creatures
-* Plant: restrain and command plant creatures
-* Undeath: restrain and command undead creatures
-* Water: restrain and command water creatures, turn and destroy fire creatures
 
 **Spells**: A god's voice casts divine spells, which are drawn from the
 god's voice spell list, as well as those granted by their domains.
@@ -111,17 +100,22 @@ modifier.
 Like other spellcasters, a god's voice can cast only a certain number of
 spells of each spell level per day. Their base daily spell allotment is
 either 0 or 1 spells per day, per spell level, as indicated on the class
-progression table. In addition, they receives bonus spells per day if they
+progression table. In addition, they receive bonus spells per day if they
 have a high Wisdom score. When the table indicates that the god's voice
 gets 0 spells per day of a given spell level, they gain only the bonus
 spells they would be entitled to based on their Wisdom score for that spell level.
+They can prepare both spells found listed in god's voice spell list and those
+granted by their domain in these slots.
 
 In addition to the stated number of spells per day, a god's voice also gets
 one or more domain spell slots at each spell level, starting at 1st. The "+1"
 to "+4" entries on the table represent those spell slots. Only spells granted
 by the domains can be prepared in these slots, and each domain spell can only
-be prepared once. Thus, a god's voice with +4 domain slots can and must prepare
-each domain spell of that level once.
+be prepared once. The only exception is if the god's voice cannot take their
+fourth domain due to alignment restrictions but have +4 domain slots. In that
+case they can prepare a domain spell a second time. However, a god's voice with
++4 domain slots and four domains can and must prepare each domain spell of that
+level once.
 
 God's voices meditate or pray for their spells. Every god's voice must spend
 1 hour each day seeing to their religious rituals in order to regain their daily
@@ -130,11 +124,10 @@ can prepare spells. A god's voice may prepare and cast any spell on their spell
 list, provided that they can cast spells of that level, but they must choose
 which spells to prepare during this daily meditation.
 
-**Spontaneous Casting**: A good voice of a god, or a good god's voice,
-can channel stored spell energy into healing spells that they did not
-prepare ahead of time. The voice can "lose" any prepared spell (not
-a domain spell) in order to cast any spell with "cure"
-in its name of the same spell level or lower.
+**Spontaneous Casting**: A good voice of a god, or a good god's voice, can
+channel stored spell energy into healing spells that they did not prepare ahead
+of time. The voice can "lose" any prepared spell (not a domain spell) in order
+to cast any spell with "cure" in its name of the same spell level or lower.
 
 Likewise, an evil voice of a god, or an evil god's voice, can "lose"
 their prepared spells and cast any spell with "inflict" in its name
@@ -147,7 +140,7 @@ reversed. Neutral voices of neutral gods, on the other hand, can choose
 to convert to either per each casting, as they see fit.
 
 **Chaotic, Evil, Good, and Lawful Spells**: A god's voice can't cast spells
-of an alignment opposed to their own or their deity's (if he has one).
+of an alignment opposed to their own or their deity's.
 Spells associated with particular alignments are indicated by the chaos,
 evil, good, and law descriptors in their spell descriptions.
 
@@ -160,12 +153,25 @@ Celestial, Abyssal, and Infernal (the languages of good, chaotic evil,
 and lawful evil outsiders, respectively). These choices are in addition
 to the bonus languages available to the character because of their race.
 
+**Turning or Restraining Creatures**: Some god's voices have the power to effect
+certain creatures (most commonly undead) as a domain power. (See Combat section
+for details.) These domains and affected creature types are reproduced below for
+convenience.
+
+* Air: restrain and command air creatures, turn and destroy earth creatures
+* Earth: restrain and command earth creatures, turn and destroy air creatures
+* Fire: restrain and command fire creatures, turn and destroy water creatures
+* Life: turn or destroy undead creatures
+* Plant: restrain and command plant creatures
+* Undeath: restrain and command undead creatures
+* Water: restrain and command water creatures, turn and destroy fire creatures
+
 **Leadership**: A god's voice gains Leadership as a bonus feat at 6th level,
 gaining a cohort and followers. These followers are believers of the voice's god.
 
-**Extra Spark**: At 16th level, a god's voice's sparks increase by 3 thereafter.
+**Extra Spark**: At 16th level, a god's voice's godly sparks increase by 3.
 
-### Ex-Voices
+## Ex-Voices
 
 A god's voice who grossly violates the code of conduct required by their god
 loses all spells, domains, domain powers and their aura.

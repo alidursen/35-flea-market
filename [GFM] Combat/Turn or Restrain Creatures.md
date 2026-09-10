@@ -67,7 +67,7 @@ turning level (expressed as *TL* in the table).
 | TL+1                | 12                       |
 | TL+2                | 14                       |
 | TL+3                | 16                       |
-| TL+4 and above      | 18                       |
+| TL+4                | 18                       |
 
 1. You can instead destroy these creatures, see below.
 
