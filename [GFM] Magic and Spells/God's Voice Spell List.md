@@ -1,6 +1,6 @@
-## GOD'S VOICE SPELLS \[185\]
+## GOD'S VOICE SPELLS \[175\]
 
-### 0-LEVEL GOD'S VOICE SPELLS (ORISONS) \[11\]
+### 0-LEVEL GOD'S VOICE SPELLS (ORISONS) \[10\]
 
 * **Cure Minor Wounds:** Cures 1 point of damage.
 * **Detect Magic:** Detects spells and magic items within 60 ft.
@@ -9,36 +9,33 @@
 * **Inflict Minor Wounds:** Touch attack, 1 point of damage.
 * **Light:** Object shines like a torch.
 * **Mending:** Makes minor repairs on an object.
-* **Purify Food and Drink:** Purifies 1 cu. ft./level of food or water.
 * **Read Magic:** Read scrolls and spellbooks.
 * **Resistance:** Subject gains +1 on saving throws.
 * **Virtue:** Subject gains 1 temporary hp.
 
-### 1ST-LEVEL GOD'S VOICE SPELLS \[21\]
+### 1ST-LEVEL GOD'S VOICE SPELLS \[19\]
 
 * **Bane:** Enemies take –1 on attack rolls and saves against fear.
 * **Bless:** Allies gain +1 on attack rolls and saves against fear.
-* **Bless Water <sup>M</sup>:** Makes holy water.
+* **Bless Water <sup>M</sup>\[Good\]:** Makes holy water.
 * **Cause Fear:** One creature of 5 HD or less flees for 1d4 rounds.
 * **Command:** One subject obeys selected command for 1 round.
 * **Comprehend Languages:** You understand all spoken and written languages.
-* **Create Water:** Creates 2 gallons/level of pure water.
 * **Cure Light Wounds:** Cures 1d8 damage +1/level (max +5).
-* **Curse Water <sup>M</sup>:** Makes unholy water.
+* **Curse Water <sup>M</sup>\[Evil\]:** Makes unholy water.
 * **Deathwatch:** Reveals how near death subjects within 30 ft. are.
 * **Detect Chaos/Evil/Good/Law:** Reveals creatures, spells, or objects of selected alignment.
 * **Detect Undead:** Reveals undead within 60 ft.
-* **Divine Favor:** You gain +1 per three levels on attack and damage rolls.
 * **Doom:** One subject takes –2 on attack rolls, damage rolls, saves, and checks.
-* **Hide from Undead:** Undead can’t perceive one subject/level.
 * **Inflict Light Wounds:** Touch deals 1d8 damage +1/level (max +5).
 * **Magic Weapon:** Weapon gains +1 bonus.
+* **Purify Drink:** Purifies 1 cu. ft./level of water.
 * **Remove Fear:** Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 * **Sanctuary:** Opponents can’t attack you, and you can’t attack.
 * **Shield of Faith:** Aura grants +2 or higher deflection bonus.
 * **Summon Monster I:** Calls extraplanar creature to fight for you.
 
-### 2ND-LEVEL GOD'S VOICE SPELLS \[30\]
+### 2ND-LEVEL GOD'S VOICE SPELLS \[27\]
 
 * **Aid:** +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 * **Align Weapon:** Weapon becomes good, evil, lawful, or chaotic.
@@ -46,34 +43,31 @@
 * **Bear’s Endurance:** Subject gains +4 to Con for 1 min./level.
 * **Bull’s Strength:** Subject gains +4 to Str for 1 min./level.
 * **Calm Emotions:** Calms creatures, negating emotion effects.
-* **Consecrate <sup>M</sup>:** Fills area with positive energy, making undead weaker.
+* **Consecrate <sup>M</sup>\[Good\]:** Fills area with positive energy, making undead weaker.
+* **Create Water:** Creates 2 gallons/level of pure water.
 * **Cure Moderate Wounds:** Cures 2d8 damage +1/level (max +10).
 * **Darkness:** 20-ft. radius of supernatural shadow.
 * **Delay Poison:** Stops poison from harming subject for 1 hour/level.
-* **Desecrate <sup>M</sup>:** Fills area with negative energy, making undead stronger.
+* **Desecrate <sup>M</sup>\[Evil\]:** Fills area with negative energy, making undead stronger.
 * **Eagle’s Splendor:** Subject gains +4 to Cha for 1 min./level.
 * **Endure Elements:** Exist comfortably in hot or cold environments.
 * **Enthrall:** Captivates all within 100 ft. + 10 ft./level.
-* **Find Traps:** Notice traps as a rogue does.
 * **Gentle Repose:** Preserves one corpse.
 * **Hold Person:** Paralyzes one humanoid for 1 round/level.
 * **Inflict Moderate Wounds:** Touch attack, 2d8 damage +1/level (max +10).
-* **Make Whole:** Repairs an object.
 * **Owl’s Wisdom:** Subject gains +4 to Wis for 1 min./level.
 * **Remove Paralysis:** Frees one or more creatures from paralysis or *slow* effect.
 * **Restoration, Lesser:** Dispels magical ability penalty or repairs 1d4 ability damage.
-* **Shatter:** Sonic vibration damages objects or crystalline creatures.
 * **Shield Other <sup>F</sup>:** You take half of subject’s damage.
 * **Silence:** Negates sound in 20-ft. radius.
 * **Sound Burst:** Deals 1d8 sonic damage to subjects; may stun them.
 * **Status:** Monitors condition, position of allies.
 * **Summon Monster II:** Calls extraplanar creature to fight for you.
-* **Undetectable Alignment:** Conceals alignment for 24 hours.
 * **Zone of Truth:** Subjects within range cannot lie.
 
-### 3RD-LEVEL GOD'S VOICE SPELLS \[24\]
+### 3RD-LEVEL GOD'S VOICE SPELLS \[23\]
 
-* **Animate Dead <sup>M</sup>:** Creates undead skeletons and zombies.
+* **Animate Dead <sup>M</sup>\[Evil\]:** Creates undead skeletons and zombies.
 * **Bestow Curse:** –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 * **Blindness/Deafness:** Makes subject blinded or deafened.
 * **Continual Flame <sup>M</sup>:** Makes a permanent, heatless torch.
@@ -84,7 +78,6 @@
 * **Glyph of Warding <sup>M</sup>:** Inscription harms those who pass it.
 * **Helping Hand:** Ghostly hand leads subject to you.
 * **Inflict Serious Wounds:** Touch attack, 3d8 damage +1/level (max +15).
-* **Invisibility Purge:** Dispels invisibility within 5 ft./level.
 * **Locate Object:** Senses direction toward object (specific or type).
 * **Meld into Stone:** You and your gear merge with stone.
 * **Obscure Object:** Masks object against scrying.
@@ -98,9 +91,9 @@
 * **Summon Monster III:** Calls extraplanar creature to fight for you.
 * **Wind Wall:** Deflects arrows, smaller creatures, and gases.
 
-### 4TH-LEVEL GOD'S VOICE SPELLS \[21\]
+### 4TH-LEVEL GOD'S VOICE SPELLS \[19\]
 
-* **Contagion:** Infects subject with chosen disease.
+* **Contagion\[Evil\]:** Infects subject with chosen disease.
 * **Cure Critical Wounds:** Cures 4d8 damage +1/level (max +20).
 * **Death Ward:** Grants immunity to death spells and negative energy effects.
 * **Dimensional Anchor:** Bars extradimensional movement.
@@ -108,7 +101,6 @@
 * **Dismissal:** Forces a creature to return to native plane.
 * **Divination <sup>M</sup>:** Provides useful advice for specific proposed actions.
 * **Freedom of Movement:** Subject moves normally despite impediments.
-* **Giant Vermin:** Turns centipedes, scorpions, or spiders into giant vermin.
 * **Inflict Critical Wounds:** Touch attack, 4d8 damage +1/level (max +20).
 * **Magic Weapon, Greater:** +1 bonus/four levels (max +5).
 * **Neutralize Poison:** Immunizes subject against poison, detoxifies venom in or on subject.
@@ -118,38 +110,36 @@
 * **Repel Vermin:** Insects, spiders, and other vermin stay 10 ft. away.
 * **Restoration <sup>M</sup>:** Restores level and ability score drains.
 * **Searing Light:** Ray deals 1d8/two levels damage, more against undead.
-* **Sending:** Delivers short message anywhere, instantly.
 * **Summon Monster IV:** Calls extraplanar creature to fight for you.
 * **Tongues:** Speak any language.
 
-### 5TH-LEVEL GOD'S VOICE SPELLS \[19\]
+### 5TH-LEVEL GOD'S VOICE SPELLS \[17\]
 
 * **Atonement <sup>F</sup> <sup>X</sup>:** Removes burden of misdeeds from subject.
 * **Break Enchantment:** Frees subjects from enchantments, alterations, curses, and petrification.
 * **Command, Greater:** As *command,* but affects one subject/level.
-* **Commune <sup>X</sup>:** Deity answers one yes-or-no question/level.
 * **Control Water:** Raises or lowers bodies of water.
 * **Cure Light Wounds, Mass:** Cures 1d8 damage +1/level for many creatures.
-* **Disrupting Weapon:** Melee weapon destroys undead.
-* **Hallow <sup>M</sup>:** Designates location as holy.
+* **Hallow <sup>M</sup>\[Good\]:** Designates location as holy.
 * **Imbue with Spell Ability:** Transfer spells to subject.
 * **Inflict Light Wounds, Mass:** Deals 1d8 damage +1/level to many creatures.
-* **Insect Plague:** Locust swarms attack creatures.
 * **Mark of Justice:** Designates action that will trigger *curse* on subject.
 * **Plane Shift <sup>F</sup>:** As many as eight subjects travel to another plane.
 * **Raise Dead <sup>M</sup>:** Restores life to subject who died as long as one day/level ago.
 * **Scrying <sup>F</sup>:** Spies on subject from a distance.
+* **Sending:** Delivers short message anywhere, instantly.
 * **Summon Monster V:** Calls extraplanar creature to fight for you.
-* **Symbol of Pain <sup>M</sup>:** Triggered rune wracks nearby creatures with pain.
+* **Symbol of Pain <sup>M</sup>\[Evil\]:** Triggered rune wracks nearby creatures with pain.
 * **Symbol of Sleep <sup>M</sup>:** Triggered rune puts nearby creatures into catatonic slumber.
-* **Unhallow <sup>M</sup>:** Designates location as unholy.
+* **Unhallow <sup>M</sup>\[Evil\]:** Designates location as unholy.
 
-### 6TH-LEVEL GOD'S VOICE SPELLS \[24\]
+### 6TH-LEVEL GOD'S VOICE SPELLS \[25\]
 
 * **Antilife Shell:** 10-ft. field hedges out living creatures.
 * **Banishment:** Banishes 2 HD/level of extraplanar creatures.
 * **Bear’s Endurance, Mass:** As *bear’s endurance*, affects one subject/ level.
 * **Bull’s Strength, Mass:** As *bull’s strength*, affects one subject/level.
+* **Commune <sup>X</sup>:** Deity answers one yes-or-no question/level.
 * **Cure Moderate Wounds, Mass:** Cures 2d8 damage +1/level for many creatures.
 * **Dispel Magic, Greater:** As *dispel magic,* but up to +20 on check.
 * **Eagle’s Splendor, Mass:** As *eagle’s splendor*, affects one subject/level.
@@ -218,14 +208,21 @@
 ## REMOVALS
 
 1. ~~
+    * **Divine Favor:** You gain +1 per three levels on attack and damage rolls.
     * **Entropic Shield:** Ranged attacks against you have 20% miss chance.
+    * **Hide from Undead:** Undead can’t perceive one subject/level.
     * **Magic Stone:** Three stones gain +1 on attack, deal 1d6 +1 damage.
     * **Obscuring Mist:** Fog surrounds you.
     * **Protection from Chaos/Evil/Good/Law:** +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
 1. ~~
     * **Death Knell:** Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 level.
+    * **Find Traps:** Notice traps as a rogue does.
+    * **Make Whole:** Repairs an object.
+    * **Shatter:** Sonic vibration damages objects or crystalline creatures.
+    * **Undetectable Alignment:** Conceals alignment for 24 hours.
 1. ~~
     * **Daylight:** 60-ft. radius of bright light.
+    * **Invisibility Purge:** Dispels invisibility within 5 ft./level.
     * **Magic Circle against Chaos/Evil/Good/Law:** As *protection* spells, but 10-ft. radius and 10 min./level.
     * **Magic Vestment:** Armor or shield gains +1 enhancement per four levels.
     * **Stone Shape:** Sculpts stone into any shape.
@@ -234,9 +231,12 @@
 1. ~~
     * **Air Walk:** Subject treads on air as if solid (climb at 45-degree angle).
     * **Divine Power:** You gain attack bonus, +6 to Str, and 1 hp/level.
+    * **Giant Vermin:** Turns centipedes, scorpions, or spiders into giant vermin.
     * **Spell Immunity:** Subject is immune to one spell per four levels.
 1. ~~
     * **Dispel Chaos/Evil/Good/Law:** +4 bonus against attacks.
+    * **Disrupting Weapon:** Melee weapon destroys undead.
+    * **Insect Plague:** Locust swarms attack creatures.
     * **Righteous Might:** Your size increases, and you gain combat bonuses.
     * **Slay Living:** Touch attack kills subject.
     * **Spell Resistance:** Subject gains SR 12 + level.
@@ -265,14 +265,18 @@
 
 | Spell                  | O -> N |
 | ---------------------- | ------ |
-| Create Water           | 0 -> 1 |
+| Create Water           | 0 -> 2 |
+| Purify Food and Drink  | 0 -> 1 |
 | Endure Elements        | 1 -> 2 |
 | Resist Energy          | 2 -> 3 |
 | Spiritual Weapon       | 2 -> 3 |
+| Contagion              | 3 -> 4 |
 | Protection From Energy | 3 -> 4 |
 | Searing Light          | 3 -> 4 |
 | Control Water          | 4 -> 5 |
 | Imbue with Spell Ab.   | 4 -> 5 |
+| Sending                | 4 -> 5 |
+| Commune                | 5 -> 6 |
 | True Seeing            | 5 -> 6 |
 | Flame Strike           | 5 -> 6 |
 | Find the Path          | 6 -> 7 |

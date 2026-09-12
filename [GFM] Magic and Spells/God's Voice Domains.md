@@ -133,8 +133,8 @@ This granted power is a supernatural ability.
 #### Fire Domain Spells
 
 1. **Burning Hands:** 1d4/level fire damage (max 5d4).
-1. **Heat Metal:** Make metal so hot it damages those who touch it.
 1. **Produce Flame:** 1d6 damage +1/ level, touch or thrown.
+1. **Heat Metal:** Make metal so hot it damages those who touch it.
 1. **Wall of Fire:** Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft.
    Passing through wall deals 2d6 damage +1/level.
 1. **Fire Shield:** Creatures attacking you take fire damage; you’re protected from heat or cold.
@@ -375,7 +375,8 @@ class skills. You also gain Skill Focus as a bonus feat for one of the listed sk
 #### Trickery Domain Spells
 
 1. **Disguise Self:** Disguise own appearance.
-1. **Invisibility:** Subject invisible 1 min./level or until it attacks.
+1. **Find Traps:** Notice traps as a rogue does.\
+   **Invisibility:** Subject invisible 1 min./level or until it attacks.
 1. **Nondetection <sup>M</sup>:** Hides subject from divination, scrying.
 1. **Confusion:** Subjects behave oddly for 1 round/level.
 1. **False Vision <sup>M</sup>:** Fools scrying with an illusion.
