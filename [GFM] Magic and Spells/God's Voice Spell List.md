@@ -207,59 +207,50 @@
 
 ## REMOVALS
 
-1. ~~
-    * **Divine Favor:** You gain +1 per three levels on attack and damage rolls.
-    * **Entropic Shield:** Ranged attacks against you have 20% miss chance.
-    * **Hide from Undead:** Undead can’t perceive one subject/level.
-    * **Magic Stone:** Three stones gain +1 on attack, deal 1d6 +1 damage.
-    * **Obscuring Mist:** Fog surrounds you.
-    * **Protection from Chaos/Evil/Good/Law:** +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
-1. ~~
-    * **Death Knell:** Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 level.
-    * **Find Traps:** Notice traps as a rogue does.
-    * **Make Whole:** Repairs an object.
-    * **Shatter:** Sonic vibration damages objects or crystalline creatures.
-    * **Undetectable Alignment:** Conceals alignment for 24 hours.
-1. ~~
-    * **Daylight:** 60-ft. radius of bright light.
-    * **Invisibility Purge:** Dispels invisibility within 5 ft./level.
-    * **Magic Circle against Chaos/Evil/Good/Law:** As *protection* spells, but 10-ft. radius and 10 min./level.
-    * **Magic Vestment:** Armor or shield gains +1 enhancement per four levels.
-    * **Stone Shape:** Sculpts stone into any shape.
-    * **Water Breathing:** Subjects can breathe underwater.
-    * **Water Walk:** Subject treads on water as if solid.
-1. ~~
-    * **Air Walk:** Subject treads on air as if solid (climb at 45-degree angle).
-    * **Divine Power:** You gain attack bonus, +6 to Str, and 1 hp/level.
-    * **Giant Vermin:** Turns centipedes, scorpions, or spiders into giant vermin.
-    * **Spell Immunity:** Subject is immune to one spell per four levels.
-1. ~~
-    * **Dispel Chaos/Evil/Good/Law:** +4 bonus against attacks.
-    * **Disrupting Weapon:** Melee weapon destroys undead.
-    * **Insect Plague:** Locust swarms attack creatures.
-    * **Righteous Might:** Your size increases, and you gain combat bonuses.
-    * **Slay Living:** Touch attack kills subject.
-    * **Spell Resistance:** Subject gains SR 12 + level.
-    * **Wall of Stone:** Creates a stone wall that can be shaped.
-1. ~~
-    * **Animate Objects:** Objects attack your foes.
-    * **Blade Barrier:** Wall of blades deals 1d6/level damage.
-    * **Create Undead:** Create ghouls, ghasts, mummies, or mohrgs.
-1. ~~
-    * **Blasphemy:** Kills, paralyzes, weakens, or dazes nonevil subjects.
-    * **Destruction <sup>F</sup>:** Kills subject and destroys remains.
-    * **Dictum:** Kills, paralyzes, slows, or deafens nonlawful subjects.
-    * **Holy Word:** Kills, paralyzes, blinds, or deafens nongood subjects.
-    * **Word of Chaos:** Kills, *confuses,* stuns, or deafens nonchaotic subjects.
-1. ~~
-    * **Cloak of Chaos <sup>F</sup>:** +4 to AC, +4 resistance, and SR 25 against lawful spells.
-    * **Create Greater Undead <sup>M</sup>:** Create shadows, wraiths, spectres, or devourers.
-    * **Holy Aura <sup>F</sup>:** +4 to AC, +4 resistance, and SR 25 against evil spells.
-    * **Shield of Law <sup>F</sup>:** +4 to AC, +4 resistance, and SR 25 against chaotic spells.
-    * **Unholy Aura <sup>F</sup>:** +4 to AC, +4 resistance, and SR 25 against good spells.
-1. ~~
-    * **Heal, Mass:** As *heal*, but with several subjects.
-    * **Implosion:** Kills one creature/round.
+1. * **Divine Favor:** You gain +1 per three levels on attack and damage rolls.
+   * **Entropic Shield:** Ranged attacks against you have 20% miss chance.
+   * **Hide from Undead:** Undead can’t perceive one subject/level.
+   * **Magic Stone:** Three stones gain +1 on attack, deal 1d6 +1 damage.
+   * **Obscuring Mist:** Fog surrounds you.
+   * **Protection from Chaos/Evil/Good/Law:** +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
+1. * **Death Knell:** Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 level.
+   * **Find Traps:** Notice traps as a rogue does.
+   * **Make Whole:** Repairs an object.
+   * **Shatter:** Sonic vibration damages objects or crystalline creatures.
+   * **Undetectable Alignment:** Conceals alignment for 24 hours.
+1. * **Daylight:** 60-ft. radius of bright light.
+   * **Invisibility Purge:** Dispels invisibility within 5 ft./level.
+   * **Magic Circle against Chaos/Evil/Good/Law:** As *protection* spells, but 10-ft. radius and 10 min./level.
+   * **Magic Vestment:** Armor or shield gains +1 enhancement per four levels.
+   * **Stone Shape:** Sculpts stone into any shape.
+   * **Water Breathing:** Subjects can breathe underwater.
+   * **Water Walk:** Subject treads on water as if solid.
+1. * **Air Walk:** Subject treads on air as if solid (climb at 45-degree angle).
+   * **Divine Power:** You gain attack bonus, +6 to Str, and 1 hp/level.
+   * **Giant Vermin:** Turns centipedes, scorpions, or spiders into giant vermin.
+   * **Spell Immunity:** Subject is immune to one spell per four levels.
+1. * **Dispel Chaos/Evil/Good/Law:** +4 bonus against attacks.
+   * **Disrupting Weapon:** Melee weapon destroys undead.
+   * **Insect Plague:** Locust swarms attack creatures.
+   * **Righteous Might:** Your size increases, and you gain combat bonuses.
+   * **Slay Living:** Touch attack kills subject.
+   * **Spell Resistance:** Subject gains SR 12 + level.
+   * **Wall of Stone:** Creates a stone wall that can be shaped.
+1. * **Animate Objects:** Objects attack your foes.
+   * **Blade Barrier:** Wall of blades deals 1d6/level damage.
+   * **Create Undead:** Create ghouls, ghasts, mummies, or mohrgs.
+1. * **Blasphemy:** Kills, paralyzes, weakens, or dazes nonevil subjects.
+   * **Destruction <sup>F</sup>:** Kills subject and destroys remains.
+   * **Dictum:** Kills, paralyzes, slows, or deafens nonlawful subjects.
+   * **Holy Word:** Kills, paralyzes, blinds, or deafens nongood subjects.
+   * **Word of Chaos:** Kills, *confuses,* stuns, or deafens nonchaotic subjects.
+1. * **Cloak of Chaos <sup>F</sup>:** +4 to AC, +4 resistance, and SR 25 against lawful spells.
+   * **Create Greater Undead <sup>M</sup>:** Create shadows, wraiths, spectres, or devourers.
+   * **Holy Aura <sup>F</sup>:** +4 to AC, +4 resistance, and SR 25 against evil spells.
+   * **Shield of Law <sup>F</sup>:** +4 to AC, +4 resistance, and SR 25 against chaotic spells.
+   * **Unholy Aura <sup>F</sup>:** +4 to AC, +4 resistance, and SR 25 against good spells.
+1. * **Heal, Mass:** As *heal*, but with several subjects.
+   * **Implosion:** Kills one creature/round.
 
 ## LEVEL CHANGES
 
