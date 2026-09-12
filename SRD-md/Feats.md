@@ -63,9 +63,9 @@ shown below:
 
 *Scrolls:* Base price = spell level x caster level x 25 gp.
 
-*Potions:* Base price = spell level x caster level x 50 gp.
+*Potions:* Base price = spell level x caster level x 50 gp.
 
-*Wands:* Base price = spell level x caster level x 750 gp.
+*Wands:* Base price = spell level x caster level x 750 gp.
 
 A 0-level spell is considered to have a spell level of 1/2 for the
 purpose of this calculation.
@@ -278,8 +278,8 @@ A fighter may select Blind-Fight as one of his fighter bonus feats.
 that you know and that targets one or more creatures. Brewing a potion
 takes one day. When you create a potion, you set the caster level, which
 must be sufficient to cast the spell in question and no higher than your
-own level. The base price of a potion is its spell level x its caster
-level x 50 gp. To brew a potion, you must spend 1/25 of this base price
+own level. The base price of a potion is its spell level x its caster
+level x 50 gp. To brew a potion, you must spend 1/25 of this base price
 in XP and use up raw materials costing one half this base price.
 
 When you create a potion, you make any choices that you would normally
@@ -400,7 +400,7 @@ the staff 's base price.
 
 **Benefit:** You can create a wand of any 4th-level or lower spell that
 you know. Crafting a wand takes one day for each 1,000 gp in its base
-price. The base price of a wand is its caster level x the spell level x
+price. The base price of a wand is its caster level x the spell level x
 750 gp. To craft a wand, you must spend 1/25 of this base price in XP
 and use up raw materials costing one-half of this base price. A newly
 created wand has 50 charges.
@@ -1453,8 +1453,8 @@ AC.
 
 **Benefit:** You can create a scroll of any spell that
 you know. Scribing a scroll takes one day for each 1,000 gp in its base
-price. The base price of a scroll is its spell level x its caster level
-x 25 gp. To scribe a scroll, you must spend 1/25 of this base price in
+price. The base price of a scroll is its spell level x its caster level
+x 25 gp. To scribe a scroll, you must spend 1/25 of this base price in
 XP and use up raw materials costing one-half of this base
 price.
 
