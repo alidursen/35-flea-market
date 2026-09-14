@@ -407,7 +407,7 @@ You can restrain, command, or bolster undead creatures. This granted power is a 
 
 **Granted Power:** You gain Armor Proficiency (Heavy), Weapon Focus with the
 deity’s favored weapon (as well as Weapon Proficiency (Martial or Exotic) with
-deity’s favored weapon if necessary) as bonus feats.
+the weapon, if necessary, see relevant feats for details) as bonus feats.
 
 #### War Domain Spells
 
