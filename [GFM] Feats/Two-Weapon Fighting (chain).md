@@ -2,7 +2,7 @@
 
 | Combat Feats | Prerequisites | Benefit |
 | ------------ | ------------- | ------- |
-| Two-Weapon Fighting | Dex 13, Str 13 | Lower your two-weapon fighting penalties. |
+| Two-Weapon Fighting | Dex 13, Str 13 | Reduce your two-weapon fighting penalties. |
 | &emsp;Two-Weapon Defense | Two-Weapon Fighting | Gain shield bonus when fighting with two weapons. |
 | &emsp;Improved Two-Weapon Fighting | Two-Weapon Fighting, base attack bonus +6 | Gain a second attack with your off-hand weapon. |
 | &emsp;&emsp;Greater Two-Weapon Fighting | Dex 15, Str 15, Improved Two-Weapon Fighting, base attack bonus +11 | Gain a third attack with your off-hand weapon. |
