@@ -1,4 +1,4 @@
-# Hunter
+## Hunter
 
 |Level|Base<br>Attack Bonus|Fort<br>Save|Ref<br>Save|Will<br>Save| Special                                      | 1st | 2nd | 3rd | 4th |
 | --  | --                 | --         | --        | --         | -------------------------------------------- | --- | --- | --- | --- |
@@ -27,13 +27,13 @@
 Jump, Knowledge (dungeoneering), Knowledge (geography), Knowledge (nature), Listen, Move Silently, Profession, Ride,
 Search, Spot, Survival, Swim, and Use Rope.
 
-## Game Rule Information
+### Game Rule Information
 
 **Alignment**: Any.
 
 **Hit Die**: d8.
 
-## Class Features
+### Class Features
 
 **Weapon and Armor Proficiency**: A hunter is proficient with all simple and martial weapons,
 and with light armor and shields (except tower shields).

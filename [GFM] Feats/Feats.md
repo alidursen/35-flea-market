@@ -31,7 +31,7 @@ of referencing, but some have their of bespoke rules.
   actually is.
 * Proficiency feats: These feats grant a character ability to use armor, shields
   or weapons proficiently. Usually, classes gain relevant proficiencies at first
-  level, or some subset if taken as a second class.
+  level, or some of them if taken as a second class.
 * Skill feats: These feats grant bonuses to skills or skill-like checks.
 
 ### ITEM CREATION FEATS

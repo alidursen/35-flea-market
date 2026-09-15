@@ -1,4 +1,4 @@
-# TURN OR RESTRAIN CREATURES
+### TURN OR RESTRAIN CREATURES
 
 Some god's voices can use their connection to energy and elemental planes and
 channel those forces to halt, drive off or destroy creatures antithetical
@@ -9,7 +9,7 @@ Regardless of the effect, the general term for the activity is
 "turning." When attempting to exercise their divine control over these
 creatures, characters make turning checks.
 
-## Turning Checks
+#### Turning Checks
 
 Turning is a supernatural ability that a character can perform as a standard
 action. It does not provoke attacks of opportunity.
@@ -33,7 +33,7 @@ Dice of the most powerful creature you can affect, relative to your level.
 On a given turning attempt, you can turn no creature whose Hit
 Dice exceed the result on this table.
 
-### Table: Turning Check
+##### Table: Turning Check
 
 | Turning Check Result | Most Powerful Creature Affected<br>(Maximum Hit Dice) |
 | -------------------- | ----------------------------------------------------- |
@@ -52,7 +52,7 @@ the highest three, + your Charisma modifier to determine your turning damage
 that you'll spend by comparing creatures' Hit Dice against your effective
 turning level (expressed as *TL* in the table).
 
-### Table: Turning Damage
+##### Table: Turning Damage
 
 | Creature's Hit Dice | Turning damage to affect |
 | ------------------- | ------------------------ |
@@ -90,7 +90,7 @@ Dice, you can instead destroy them by spending 2 additional damage per target.
 Destroyed outsiders and elementals are banished to their home planes, undead are
 disintegrated into fine dust, and earthly creatures such as dragons simply die.
 
-### Turning Example
+##### Turning Example
 
 Koran, a 7th level voice of the sun god faces five ghasts (4 HD each). To turn them,
 she first needs to make a turning check but skips it because even the lowest result
@@ -102,7 +102,7 @@ Since ghasts are TL-3, she needs to spend 4 damage to affect a single one.
 Her turning damage is not enough to turn all five, so only four are turned and
 one remains unaffected.
 
-## Restraining Creatures
+#### Restraining Creatures
 
 Some god's voices control the energies that are embodied in certain creatures.
 They still make turning checks and roll turning damage as normal, but creatures
@@ -134,7 +134,7 @@ creatures' actual Hit Dice). The bolstering lasts 10 rounds.
 A god's voice can bolster themselves in this manner if they are a creature type
 subject to turning.
 
-## Holy Champions and Undead
+#### Holy Champions and Undead
 
 Beginning at 4th level, holy champions can turn and destroy undead creatures as
 if they were god's voices with Life domain. Their effective turning level equals

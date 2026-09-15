@@ -1,6 +1,19 @@
-# PROFICIENCY FEATS
+## PROFICIENCY FEATS
 
-## ARMOR PROFICIENCY (LIGHT) \[PROFICIENCY\]
+| Proficiency Feats                     | Prerequisites              | Benefit                                |
+| ------------------------------------- | -------------------------- | -------------------------------------- |
+| Armor Proficiency (Light)             | ---                        | No armor check penalty on attack rolls |
+| &emsp;Armor Proficiency (Medium)      | Armor Proficiency (Light)  | No armor check penalty on attack rolls |
+| &emsp;&emsp;Armor Proficiency (Heavy) | Armor Proficiency (Medium) | No armor check penalty on attack rolls |
+| Shield Proficiency                    | ---                        | No armor check penalty on attack rolls |
+| &emsp;Shield Proficiency (Tower)      | Shield Proficiency         | No armor check penalty on attack rolls |
+| Weapon Proficiency (Exotic)¹          | Base attack bonus +1       | Use chosen weapon without -4 penalty   |
+| Weapon Proficiency (Martial)¹         | ---                        | Use chosen weapon without -4 penalty   |
+| Weapon Proficiency (Simple)           | ---                        | Use simple weapons without -4 penalty  |
+
+1. Can be taken multiple times, each applying to a different weapon.
+
+### ARMOR PROFICIENCY (LIGHT) \[PROFICIENCY\]
 
 **Benefit:** When you wear a type of armor with which you are
 proficient, the armor check penalty for that armor applies only to
@@ -15,7 +28,7 @@ skill checks that involve moving, including Ride.
 automatically have Armor Proficiency (light) as a bonus feat. They need
 not select it.
 
-## ARMOR PROFICIENCY (MEDIUM) \[PROFICIENCY\]
+### ARMOR PROFICIENCY (MEDIUM) \[PROFICIENCY\]
 
 **Prerequisite:** Armor Proficiency (light).
 
@@ -27,7 +40,7 @@ not select it.
 automatically have Armor Proficiency (medium) as a bonus feat. They need
 not select it.
 
-## ARMOR PROFICIENCY (HEAVY) \[PROFICIENCY\]
+### ARMOR PROFICIENCY (HEAVY) \[PROFICIENCY\]
 
 **Prerequisites:** Armor Proficiency (light), Armor Proficiency (medium).
 
@@ -42,7 +55,7 @@ A god's voice who chooses the War domain automatically gains Armor Proficiency
 (heavy) feat. They need not select it. If the god's voice is not proficient in
 medium armor, they gain Armor Proficiency (medium) instead.
 
-## SHIELD PROFICIENCY \[PROFICIENCY\]
+### SHIELD PROFICIENCY \[PROFICIENCY\]
 
 **Benefit:** You can use a shield and take only the standard penalties.
 
@@ -54,7 +67,7 @@ checks.
 **Special:** Brutes, god's voices, holy warriors, hunters, wanderers, weapon masters and wild childer
 automatically have Shield Proficiency as a bonus feat. They need not select it.
 
-## SHIELD PROFICIENCY (TOWER) \[PROFICIENCY\]
+### SHIELD PROFICIENCY (TOWER) \[PROFICIENCY\]
 
 **Prerequisite:** Shield Proficiency.
 
@@ -68,7 +81,7 @@ Ride.
 **Special:** Weapon masters automatically have Shield
 Proficiency (Tower) as a bonus feat. They need not select it.
 
-## WEAPON PROFICIENCY (SIMPLE) \[PROFICIENCY\]
+### WEAPON PROFICIENCY (SIMPLE) \[PROFICIENCY\]
 
 **Benefit:** You make attack rolls with simple weapons normally.
 
@@ -78,7 +91,7 @@ proficient, you take a -4 penalty on attack rolls.
 **Special:** All characters except for magicians, mystic warriors and wild childer
 are automatically proficient with all simple weapons. They need not select this feat.
 
-## WEAPON PROFICIENCY (MARTIAL) \[PROFICIENCY\]
+### WEAPON PROFICIENCY (MARTIAL) \[PROFICIENCY\]
 
 Choose a type of martial weapon. You understand how to use that type of
 martial weapon in combat.
@@ -99,7 +112,7 @@ A god's voice who chooses the War domain automatically gains the Weapon
 Proficiency (Martial) feat related to their deity's favored weapon as a bonus
 feat, if the weapon is a martial one. They need not select it.
 
-## WEAPON PROFICIENCY (EXOTIC) \[PROFICIENCY\]
+### WEAPON PROFICIENCY (EXOTIC) \[PROFICIENCY\]
 
 Choose a type of exotic weapon. You understand how to use that type of
 exotic weapon in combat.

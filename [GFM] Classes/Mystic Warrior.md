@@ -1,4 +1,4 @@
-# Mystic Warrior
+## Mystic Warrior
 
 | Level | Base<br>Attack Bonus | Fort<br>Save | Ref<br>Save | Will<br>Save | Special | Unarmed<br>Damage | AC<br>Bonus | Speed<br>Bonus |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -27,13 +27,13 @@
 Escape Artist, Heal, Hide, Jump, Knowledge (arcana), Knowledge (history), Knowledge (religion), Listen, Move Silently,
 Perform, Profession, Sense Motive, Spot, Swim, Tumble.
 
-## Game Rule Information
+### Game Rule Information
 
 **Alignment**: Any lawful.
 
 **Hit Die**: d8.
 
-## Class Features
+### Class Features
 
 **Weapon and Armor Proficiency**: Mystic warriors are proficient with dagger, dart, quarterstaff, shuriken and sling.
 They are not proficient with any armor or shields. When wearing armor, using a shield or carrying a medium or heavy
@@ -76,7 +76,7 @@ spells and effects that enhance or improve either manufactured weapons or natura
 A mystic warrior also deals more damage with their unarmed strikes than a normal person would, as shown on Table: The
 Mystic Warrior. See the table below for Small or Large mystic warriors' damage.
 
-### Table: Small or Large Mystic Warrior Unarmed Damage
+#### Table: Small or Large Mystic Warrior Unarmed Damage
 
 |Level|Damage (Small)|Damage (Large)|
 |--   |--            |--            |
@@ -193,7 +193,7 @@ period, they are eternally lost. Once this period elapses, they materialize back
 their adulthood age. Going through this death and rebirth cycle even once grants them all aging bonuses and removes any
 aging penalties they've accrued previously. Afterwards, they stop gaining aging bonuses and penalties.
 
-## Ex-Mystic Warriors
+### Ex-Mystic Warriors
 
 A mystic warrior who becomes nonlawful cannot gain new levels as a mystic warrior until finds inner peace and becomes
 lawful again, but retains all mystic warrior abilities.

@@ -1,4 +1,4 @@
-# God's Voice
+## God's Voice
 
 |Level|Base<br>Attack Bonus|Fort<br>Save|Ref<br>Save|Will<br>Save| Special                  | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | --  | --                 | --         | --        | --         | --                       | --  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@
 **Class Skills (2+Int modifier per level, x4 at 1st level):** Concentration, Craft, Diplomacy, Heal,
 Knowledge (arcana), Knowledge (history), Knowledge (religion), Knowledge (the planes) Profession, Spellcraft.
 
-## Game Rule Information
+### Game Rule Information
 
 **Alignment**: A god's voice must be within one step of their deity’s (that is, it may be one step away
 on either the lawful–chaotic axis or the good–evil axis, but not both). A god's voice may not be neutral
@@ -34,7 +34,7 @@ unless their deity is also neutral, in which case they *must* be neutral.
 
 **Hit Die**: d8.
 
-## Class Features
+### Class Features
 
 **Weapon and Armor Proficiency**: A god's voice is proficient with all simple
 weapons, light armor, medium armor and shields (except tower shields).
@@ -171,7 +171,7 @@ gaining a cohort and followers. These followers are believers of the voice's god
 
 **Extra Spark**: At 16th level, a god's voice's godly sparks increase by 3.
 
-## Ex-Voices
+### Ex-Voices
 
 A god's voice who grossly violates the code of conduct required by their god
 loses all spells, domains, domain powers and their aura.

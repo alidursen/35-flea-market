@@ -1,6 +1,15 @@
-# POWER ATTACK (CHAIN)
+## POWER ATTACK (CHAIN)
 
-## POWER ATTACK \[COMBAT\]
+| Combat Feats             | Prerequisites                | Benefit                                                                |
+| ------------------------ | ---------------------------- | ---------------------------------------------------------------------- |
+| Power Attack             | Str 13                       | Take attack penalty to deal more damage.                               |
+| &emsp;Cleave             | Power Attack                 | Once per round, make an additional attack after felling an opponent.   |
+| &emsp;&emsp;Great Cleave | Cleave, base attack bonus +4 | Make cleave attacks without limit.                                     |
+| &emsp;Improved Bull Rush | Power Attack                 | Do not provoke attack of opportunity when bull rushing, gain +4 bonus. |
+| &emsp;Improved Overrun   | Power Attack                 | Your opponent may not avoid your overrun, gain +4 bonus.               |
+| &emsp;Improved Sunder    | Power Attack                 | Do not provoke attack of opportunity when sundering, gain +4 bonus.    |
+
+### POWER ATTACK \[COMBAT\]
 
 **Prerequisite:** Str 13.
 
@@ -20,7 +29,7 @@ one-handed weapon and a light weapon. If you choose to use a double
 weapon like a two-handed weapon, attacking with only one end of it in a
 round, you treat it as a two-handed weapon.)
 
-## CLEAVE \[COMBAT\]
+### CLEAVE \[COMBAT\]
 
 **Prerequisites:** Str 13, Power Attack.
 
@@ -31,7 +40,7 @@ You cannot take a 5-foot step before making this extra attack. The extra
 attack is with the same weapon and at the same bonus as the attack that
 dropped the previous creature. You can use this ability once per round.
 
-## GREAT CLEAVE \[COMBAT\]
+### GREAT CLEAVE \[COMBAT\]
 
 **Prerequisites:** Str 13, Cleave, base attack bonus +4.
 
@@ -39,7 +48,7 @@ dropped the previous creature. You can use this ability once per round.
 to the number of times you can use it per round. You can take a single
 5-foot step between extra attacks.
 
-## IMPROVED BULL RUSH \[COMBAT\]
+### IMPROVED BULL RUSH \[COMBAT\]
 
 **Prerequisites:** Str 13, Power Attack.
 
@@ -47,7 +56,7 @@ to the number of times you can use it per round. You can take a single
 of opportunity from the defender. You also gain a +4 bonus on the
 opposed Strength check you make to push back the defender.
 
-## IMPROVED OVERRUN \[COMBAT\]
+### IMPROVED OVERRUN \[COMBAT\]
 
 **Prerequisites:** Str 13, Power Attack.
 
@@ -58,7 +67,7 @@ Strength check to knock down your opponent.
 **Normal:** Without this feat, the target of an overrun
 can choose to avoid you or to block you.
 
-## IMPROVED SUNDER \[COMBAT\]
+### IMPROVED SUNDER \[COMBAT\]
 
 **Prerequisites:** Str 13, Power Attack.
 
