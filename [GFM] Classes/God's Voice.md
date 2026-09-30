@@ -39,11 +39,11 @@ unless their deity is also neutral, in which case they *must* be neutral.
 **Weapon and Armor Proficiency**: A god's voice is proficient with all simple
 weapons, light armor, medium armor and shields (except tower shields).
 
-**Deity, Domains, and Domain Spells**: A voices's god influences their
-alignment, what magic they can perform, their values, and how others see
-them. A god's voice initially chooses two domains from among those belonging
-to their deity. A god's voice can select an alignment domain (Chaos, Evil, Good,
-or Law) only if their alignment matches that domain.
+**Deity, Domains, and Domain Spells**: A voices's god influences their alignment,
+what magic they can perform, their values, and how others see them. A god's voice
+initially chooses two domains from among those belonging to their deity. A god's
+voice can select an alignment domain (Chaos, Evil, Good, or Law) only if their
+alignment matches that domain.
 
 Each domain gives the god's voice access to a domain spell at each spell
 level they can cast, from 1st on up, as well as a granted power. The

@@ -3,9 +3,9 @@
 |Level|Base<br>Attack Bonus|Fort<br>Save|Ref<br>Save|Will<br>Save| Special                                      | 1st | 2nd | 3rd | 4th |
 | --  | --                 | --         | --        | --         | -------------------------------------------- | --- | --- | --- | --- |
 | 1   | +1                 | +2         | +2        | +0         | Studied Prey (+1), Track, Weapon Finesse     | --- | --- | --- | --- |
-| 2   | +2                 | +3         | +3        | +0         | Combat Style, Wild Empathy                   | --- | --- | --- | --- |
+| 2   | +2                 | +3         | +3        | +0         | Combat Style                                 | --- | --- | --- | --- |
 | 3   | +3                 | +3         | +3        | +1         | Endurance, Studied Prey (+2)                 | --- | --- | --- | --- |
-| 4   | +4                 | +4         | +4        | +1         | Animal Companion, Studied Strikes (+1)       | 0   | --- | --- | --- |
+| 4   | +4                 | +4         | +4        | +1         | Studied Strikes (+1)                         | 0   | --- | --- | --- |
 | 5   | +5                 | +4         | +4        | +1         | Studied Prey (+3)                            | 0   | --- | --- | --- |
 | 6   | +6/+1              | +5         | +5        | +2         | Improved Combat Style                        | 1   | --- | --- | --- |
 | 7   | +7/+2              | +5         | +5        | +2         | Accelerated Restudy (1 day), Woodland Stride | 1   | --- | --- | --- |
@@ -98,42 +98,7 @@ medium or heavy armor.
 If desired, a hunter can take these feats normally to benefit
 from them in heavier armor.
 
-**Wild Empathy (Ex)**: A 2nd level hunter can improve the attitude of an
-animal. This ability functions just like a Diplomacy check to improve the
-attitude of a person. The hunter rolls 1d20 and adds their hunter level
-and their Charisma bonus to determine the wild empathy check result. The
-typical domestic animal has a starting attitude of indifferent, while
-wild animals are usually unfriendly.
-
-To use wild empathy, the hunter and the animal must be able to study
-each other, which means that they must be within 30 feet of one another
-under normal visibility conditions. Generally, influencing an animal in
-this way takes 1 minute, but, as with influencing people, it might take
-more or less time.
-
-The hunter can also use this ability to influence a magical beast with
-an Intelligence score of 1 or 2, but he takes a -4 penalty on the check.
-
-Keep in mind that a character with 5 or more ranks in Handle Animal gains
-a +2 bonus to wild empathy checks.
-
 **Endurance**: A hunter gains Endurance as a bonus feat at 3rd level.
-
-**Animal Companion (Ex)**: At 4th level, a hunter gains an animal
-companion selected from the following list: badger, camel, dire rat,
-dog, riding dog, eagle, hawk, horse (light or heavy), owl, pony, snake
-(Small or Medium viper), or wolf. If the campaign takes place wholly or
-partly in an aquatic environment, the following creatures may be added
-to the hunter's list of options: crocodile, porpoise, Medium shark, and
-squid. This animal is a loyal companion that accompanies the hunter on
-their adventures as appropriate for its kind.
-
-This ability functions like the wild childe's ability of the same name, except
-that the hunter's effective wild childe level is their hunter level-3. A
-hunter may select from the alternative lists of animal companions just
-as a wild childe can, though again their effective wild childe level is half their
-hunter level. Like a wild childe, a hunter cannot select an alternative animal
-if the choice would reduce their effective wild childe level below 1st.
 
 **Studied Strikes (Ex)**: Starting at 4th level, a hunter's studies carry their
 strikes further. Against their studied prey, they gain +1 bonus made to melee
@@ -174,10 +139,11 @@ At 12th level, required time drops to an hour.
 
 **Woodland Stride (Ex)**: Starting at 7th level, a hunter may move
 through any sort of natural undergrowth (such as thorns, briars,
-overgrown areas, and similar terrain) at their normal speed and without
+overgrown areas, and similar terrain), as well as undergrowth magically enchanted
+by a spellcaster lower than their level, at their normal speed and without
 taking damage or suffering any other impairment. However, they are still
 affected by enchanted or magically manipulated thorns, briars, and overgrown
-areas.
+areas if the caster is their level or higher.
 
 **Swift Tracker (Ex)**: Beginning at 8th level, a hunter can move at their
 normal speed while following tracks without taking the normal -5 penalty.
@@ -206,12 +172,10 @@ Whenever a hunter changes their prey through restudy, they can also change their
 prey as well.
 
 **Camouflage (Ex)**: A hunter of 13th level or higher can use the Hide
-skill in any sort of natural terrain, even if the terrain doesn't grant
-cover or concealment.
+skill even if the terrain doesn't grant cover or concealment.
 
-**Hide in Plain Sight (Ex)**: While in any sort of natural terrain, a
-hunter of 17th level or higher can use the Hide skill even while being
-observed.
+**Hide in Plain Sight (Ex)**: A hunter of 17th level or higher can use the Hide
+skill even while being observed.
 
 **Immediate Restudy (Ex)**: At 20th level, a hunter's studies reach their
 pinnacle and the hunter can change the focus of their study with lightning

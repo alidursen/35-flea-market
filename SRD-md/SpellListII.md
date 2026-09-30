@@ -635,7 +635,7 @@ the terms of the Open Game License v1.0a.
   * **Transmute Mud to Rock:** Transforms two 10-ft. cubes per level.
   * **Transmute Rock to Mud:** Transforms two 10-ft. cubes per level.
 * Univ
-  * **Permanency <sup>X</sup>:**Makes certain spells permanent.
+  * **Permanency <sup>X</sup>:** Makes certain spells permanent.
 
 #### 6TH-LEVEL SORCERER/WIZARD SPELLS
 

@@ -127,14 +127,14 @@ wall) improves with their mystic warrior level until at 19th level they can use 
 fall any distance without harm.
 
 **Mystic Strikes (Su or Ex)**: At 4th level, a mystic warrior’s internal convictions turn into external strength. Their
-unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction.
-Mystic strikes improves with the character’s mystic warrior level.
+unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction. This
+is a supernatural effect. Mystic strikes improves with the character’s mystic warrior level.
 
 At 7th level, pick either piercing or slashing: unarmed strikes now deal that damage type, as well as bludgeoning. This
 is an extraordinary effect.
 
 At 10th level, a mystic warrior's unarmed attacks are also treated as lawful and cold iron weapons for the purpose of
-dealing damage to creatures with damage reduction.
+dealing damage to creatures with damage reduction. This is a supernatural effect.
 
 At 13th level, a mystic warrior's combat stances reach the utmost potential and deal bludgeoning, piercing and slashing
 damage simultaneously. This is an extraordinary effect.
@@ -196,8 +196,9 @@ aging penalties they've accrued previously. Afterwards, they stop gaining aging 
 ### Ex-Mystic Warriors
 
 A mystic warrior who becomes nonlawful cannot gain new levels as a mystic warrior until finds inner peace and becomes
-lawful again, but retains all mystic warrior abilities.
+lawful again. They lose access to river's unstoppable (or great) flow and lightning strike twice (or thrice), but retain
+all other mystic warrior abilities.
 
 Like a member of any other class, mystic warriors may be a multiclass character, but a mystic warrior leaving the path
-of perfection behind by increasing another class level may never again raise her mystic warrior level, though she
-retains all her mystic warrior abilities.
+of perfection behind by increasing another class level (including prestige classes) may never again raise their mystic
+warrior level, though they retains all their mystic warrior abilities.

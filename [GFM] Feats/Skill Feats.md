@@ -10,6 +10,7 @@
 | Combat Casting    | ---           | +4 bonus on Concentration checks to cast defensively. |
 | Deceitful         | ---           | +2 bonus on Disguise and Forgery checks.              |
 | Deft Hands        | ---           | +2 bonus on Sleight of Hand and Use Rope checks.      |
+| Demolisher        | ---           | +4 bonus on Strength checks made to break objects.    |
 | Diligent          | ---           | +2 bonus on Appraise and Decipher Script checks.      |
 | Endurance         | ---           | +4 bonus on checks made to push yourself long-term.   |
 | Investigator      | ---           | +2 bonus on Gather Information and Search checks.     |
@@ -102,6 +103,11 @@ are grappling or pinned.
 
 You also get a +1 bonus on arcane spell failure checks if you're proficient
 in medium armor, or +2 bonus if you're proficient in heavy armor.
+
+### DEMOLISHER \[SKILL\]
+
+**Benefit:** You gain a +4 bonus on Strength checks made to break or burst
+objects.
 
 ### ENDURANCE \[SKILL\]
 
